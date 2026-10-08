@@ -13,7 +13,7 @@ function Footer(props){
             </ul>
             <p className="text-center text-white mb-1">© 2024 KuisAnak, Inc</p>
             <p className="text-center text-white-50 small mb-0">
-                Offline demo · <a href="https://github.com/ianjhh/quizanak" target="_blank" rel="noreferrer" className="text-white-50">full-stack source code</a>
+                Offline demo: accounts and emails are simulated in your browser · <a href="https://github.com/ianjhh/quizanak" target="_blank" rel="noreferrer" className="text-white-50">full-stack source code</a>
             </p>
         </footer>
         </>

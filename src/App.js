@@ -1,6 +1,8 @@
-import { Routes, Route, Navigate } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import Home from './Home';
 import Login from './Login';
+import Register from './Register';
+import Verify from './Verify';
 import Quiz from './Quiz';
 import QuizList from './QuizList';
 import AboutUs from './AboutUs';
@@ -15,10 +17,9 @@ function App() {
   return (
     <Routes>
       <Route path='/' element={<Home />} />
-      {/* The demo has no accounts: sign-up and email verification lead to the name form. */}
-      <Route path='/register' element={<Navigate to='/login' replace />} />
+      <Route path='/register' element={<Register />} />
       <Route path='/login' element={<Login />} />
-      <Route path='/verify' element={<Navigate to='/login' replace />} />
+      <Route path='/verify' element={<Verify />} />
       <Route path='/quiz' element={<QuizList />} />
       <Route path='/about-us' element={<AboutUs />} />
       <Route path='/sitemap' element={<Sitemap />} />

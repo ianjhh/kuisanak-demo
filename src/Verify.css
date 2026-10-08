@@ -1,0 +1,41 @@
+/* The demo inbox on the verify page: looks like a small email, in the site's colours. */
+.demo-inbox {
+  text-align: left;
+  padding: 16px 18px;
+  border-radius: 16px;
+  background: hsla(43, 96%, 56%, 0.08);
+  border: 1px dashed hsla(43, 96%, 56%, 0.55);
+  color: hsl(145, 25%, 95%);
+}
+
+.demo-inbox-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #fbbf24;
+  margin-bottom: 8px;
+}
+
+.demo-inbox-meta {
+  font-size: 0.8rem;
+  color: hsla(145, 25%, 92%, 0.65);
+}
+
+.demo-inbox-subject {
+  font-weight: 700;
+  margin: 2px 0 10px;
+}
+
+.demo-inbox-code {
+  font-size: 1.8rem;
+  font-weight: 800;
+  letter-spacing: 6px;
+  color: #fde68a;
+  margin: 4px 0 10px;
+}
+
+.demo-inbox-note {
+  font-size: 0.75rem;
+  color: hsla(145, 25%, 92%, 0.6);
+}

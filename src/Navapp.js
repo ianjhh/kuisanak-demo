@@ -47,7 +47,10 @@ function Navapp(props){
                         </NavDropdown>
                         <Nav.Item className="d-flex align-items-center">
                             <Link to='/login' className="text-decoration-none">
-                                <Button className="btn-primary-glow nav-btn">Sign in</Button>
+                                <Button className="btn-primary-glow nav-btn me-2">Sign in</Button>
+                            </Link>
+                            <Link to='/register' className="text-decoration-none register-button">
+                                <Button className="btn-success-glow nav-btn">Register</Button>
                             </Link>
                         </Nav.Item>
                     </Nav>

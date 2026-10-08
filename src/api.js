@@ -4,7 +4,7 @@ import { handle } from './offline/server';
 // The pages call the API with axios, as in the full-stack version. Here axios's
 // network layer (its "adapter") is replaced by the in-browser API in
 // offline/server.js, so every request is answered without leaving the page.
-function offlineAdapter(config) {
+async function offlineAdapter(config) {
     let body = config.data;
     if (typeof body === 'string') {
         try {
@@ -13,7 +13,7 @@ function offlineAdapter(config) {
             body = {};
         }
     }
-    const { status, data } = handle((config.method || 'get').toLowerCase(), config.url, body || {});
+    const { status, data } = await handle((config.method || 'get').toLowerCase(), config.url, body || {});
     const response = { data, status, statusText: String(status), headers: {}, config, request: null };
     if (config.validateStatus ? config.validateStatus(status) : status >= 200 && status < 300) {
         return Promise.resolve(response);

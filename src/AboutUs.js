@@ -27,22 +27,22 @@ function AboutUs(){
                         Privacy Policy
                     </h3>
                     <p className="text-white-50 mb-4 leading-relaxed">
-                        This is a demo version of KuisAnak that runs entirely in your browser. It does not use cookies, analytics or a server, and it never sends anything you type over the internet.
+                        This is a demo version of KuisAnak that runs entirely in your browser. It does not use cookies, analytics or a server, and it never sends anything you type over the internet. No real emails are sent: the verification email appears in a demo inbox on the screen.
                     </p>
 
                     <h5 className="fw-bold text-white mt-4 mb-2">What is saved</h5>
                     <p className="text-white-50 mb-4 leading-relaxed">
-                        The name you type and your recent quiz scores are saved only in this browser's local storage, so your scoreboard is still there next time. Nobody else can see them.
+                        Accounts you create (with the password stored only as a salted hash) and your recent quiz scores are saved only in this browser's local storage, so your scoreboard is still there next time. Nobody else can see them. Please don't reuse a real password here.
                     </p>
 
                     <h5 className="fw-bold text-white mt-4 mb-2">Removing your data</h5>
                     <p className="text-white-50 mb-4 leading-relaxed">
-                        Sign out to forget your name on this device, or clear this site's data in your browser settings to remove your scores too.
+                        Sign out to end your session, or clear this site's data in your browser settings to remove your accounts and scores.
                     </p>
 
                     <h5 className="fw-bold text-white mt-4 mb-2">Children's Privacy</h5>
                     <p className="text-white-50 mb-0 leading-relaxed">
-                        No personal information is collected. Children can use a nickname instead of their real name.
+                        No personal information leaves this device. Children can use a nickname and a made-up email address.
                     </p>
                 </div>
             </Container>

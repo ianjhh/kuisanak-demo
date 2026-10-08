@@ -4,15 +4,18 @@ import { useState } from "react";
 import axios from 'axios';
 import { useNavigate, Link } from "react-router-dom";
 import { useSession } from './useSession';
+import { DEMO_ACCOUNT } from './offline/server';
 
 function Login(props){
     useSession('guests');
     const [username, setUsername] = useState("");
+    const [password, setPassword] = useState("");
     const navigate = useNavigate();
 
-    const handleLogin = () =>{
+    const handleLogin = (name = username, pass = password) =>{
         axios.post('/api/login', {
-            username: username
+            username: name,
+            password: pass
         })
         .then(function (response) {
             /* ONLY RUNS IF SUCCESS, NOT EVEN WHEN CODE 404 */
@@ -35,24 +38,41 @@ function Login(props){
             <div className="glow-blob-2"></div>
             <Container className="position-relative" style={{zIndex: 2, maxWidth: '400px'}}>
                 <div className="glass-panel auth-card p-4 p-sm-5">
-                    <h3 className="text-center fw-bold mb-4">What's your name?</h3>
+                    <h3 className="text-center fw-bold mb-4">Sign In</h3>
                     <Form onSubmit={(e)=>{e.preventDefault(); handleLogin()}}>
                         <Form.Group className="mb-3" controlId="formBasicEmail">
-                            <Form.Label>Name</Form.Label>
-                            <Form.Control 
-                                type="text" 
-                                className="form-input-custom" 
-                                onChange={(e)=>{setUsername(e.target.value)}} 
-                                value={username} 
+                            <Form.Label>Username</Form.Label>
+                            <Form.Control
+                                type="text"
+                                className="form-input-custom"
+                                onChange={(e)=>{setUsername(e.target.value)}}
+                                value={username}
+                            />
+                        </Form.Group>
+
+                        <Form.Group className="mb-4" controlId="formBasicPassword">
+                            <Form.Label>Password</Form.Label>
+                            <Form.Control
+                                type="password"
+                                className="form-input-custom"
+                                onChange={(e)=>{setPassword(e.target.value)}}
+                                value={password}
                             />
                         </Form.Group>
 
                         <Button className="btn-primary-glow w-100 py-2 fs-5" type="submit">
-                            Start
+                            Sign In
+                        </Button>
+                        <Button className="btn-success-glow w-100 py-2 mt-3" type="button"
+                            onClick={()=>{handleLogin(DEMO_ACCOUNT.username, DEMO_ACCOUNT.password)}}>
+                            Use the demo account
                         </Button>
                     </Form>
-                    <p className='mt-4 text-center text-white-50 small mb-0'>
-                        Demo version: no account and no server. Your scores are saved in this browser.
+                    <p className='mt-4 text-center text-white-50 mb-0'>
+                        No account yet? <Link to='/register' className='text-decoration-none text-info fw-semibold'>Create one</Link>
+                    </p>
+                    <p className='mt-3 text-center text-white-50 small mb-0'>
+                        Demo version: accounts and emails are simulated in your browser.
                     </p>
                     <p className='mt-3 text-center mb-0'>
                         <Link to='/' className='text-decoration-none text-white-50 small'><i className="bi bi-arrow-left"></i> Back to home</Link>

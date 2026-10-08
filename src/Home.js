@@ -9,17 +9,20 @@ import { useNavigate, Link } from "react-router-dom";
 import img1 from './assets/images/binatang-laut1.jpg';
 import { useSession } from './useSession';
 import Scoreboard from './Scoreboard';
+import { DEMO_ACCOUNT } from './offline/server';
 
 function Home(props){
     const { status, username: signedInAs, refresh } = useSession('public');
     const isLoggedIn = status === 'verified';
     const [username, setUsername] = useState("");
+    const [password, setPassword] = useState("");
     const [historyList, setHistoryList] = useState([]);
     const navigate = useNavigate();
 
-    const handleLogin = () =>{
+    const handleLogin = (name = username, pass = password) =>{
         axios.post('/api/login', {
-            username: username
+            username: name,
+            password: pass
         })
         .then(function (response) {
             /* ONLY RUNS IF SUCCESS, NOT EVEN WHEN CODE 404 */
@@ -129,10 +132,10 @@ function Home(props){
                         ) : (
                             <div className='col-12 col-md-4 mt-4 mt-md-0'>
                                 <div className="glass-panel auth-card loginarea">
-                                    <h3 className="text-center fw-bold">What's your name?</h3>
+                                    <h3 className="text-center fw-bold">Sign In</h3>
                                     <Form onSubmit={(e)=>{e.preventDefault(); handleLogin()}}>
                                         <Form.Group className="mb-3" controlId="formBasicEmail">
-                                            <Form.Label>Name</Form.Label>
+                                            <Form.Label>Username</Form.Label>
                                             <Form.Control 
                                                 type="text" 
                                                 className="form-input-custom" 
@@ -140,12 +143,29 @@ function Home(props){
                                                 value={username} 
                                             />
                                         </Form.Group>
+
+                                        <Form.Group className="mb-3" controlId="formBasicPassword">
+                                            <Form.Label>Password</Form.Label>
+                                            <Form.Control 
+                                                type="password" 
+                                                className="form-input-custom" 
+                                                onChange={(e)=>{setPassword(e.target.value)}} 
+                                                value={password} 
+                                            />
+                                        </Form.Group>
                                         <Button className="btn-primary-glow w-100 py-2 mt-2" type="submit">
-                                            Start
+                                            Sign In
+                                        </Button>
+                                        <Button className="btn-success-glow w-100 py-2 mt-2" type="button"
+                                            onClick={()=>{handleLogin(DEMO_ACCOUNT.username, DEMO_ACCOUNT.password)}}>
+                                            Use the demo account
                                         </Button>
                                     </Form>
-                                    <p className='mt-4 text-center text-white-50 small mb-0'>
-                                        Demo version: no account and no server. Your scores are saved in this browser.
+                                    <p className='mt-4 text-center text-white-50 mb-0'>
+                                        No account yet? <Link to='/register' className='text-decoration-none text-info fw-semibold'>Create one</Link>
+                                    </p>
+                                    <p className='mt-2 text-center text-white-50 small mb-0'>
+                                        Demo version: accounts and emails are simulated in your browser.
                                     </p>
                                 </div>
                             </div>

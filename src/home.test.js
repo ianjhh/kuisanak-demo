@@ -16,11 +16,11 @@ describe("Home", ()=>{
                 ? [200, { verified: true, authorizedData: { username: 'budi' } }]
                 : [401, 'Sesi tidak valid']),
             'POST /api/login': ({ body }) => {
-                if (!body.username.trim()) {
-                    return [400, 'Please type your name first!'];
+                if (body.password !== 'rahasia123') {
+                    return [404, 'Wrong username or password!'];
                 }
                 signedIn = true;
-                return [200, { verified: true }];
+                return [200, { verified: true, token: 'token' }];
             },
             'POST /api/fetchHistory': () => [200, [['addition', 8], ['colors', 10]]],
         });
@@ -36,27 +36,28 @@ describe("Home", ()=>{
         requests.restore();
     });
 
-    const logIn = (name) => {
-        fireEvent.change(screen.getByLabelText("Name"), { target: { value: name } });
-        fireEvent.click(screen.getByText('Start'));
+    const logIn = (password) => {
+        fireEvent.change(screen.getByLabelText("Username"), { target: { value: 'budi' } });
+        fireEvent.change(screen.getByLabelText("Password"), { target: { value: password } });
+        fireEvent.click(screen.getByRole('button', { name: 'Sign In' }));
     };
 
-    test("Expect the name field to set value as user input", async () =>{
-        const usernameInput = screen.getByLabelText('Name');
+    test("Expect username field to set value as user input", async () =>{
+        const usernameInput = screen.getByLabelText('Username');
         expect(usernameInput.value).toBe('');
         fireEvent.change(usernameInput, {target: {value: 'a'}});
         expect(usernameInput.value).toBe('a');
     });
 
-    test("Asks again when no name is given", async () =>{
-        logIn('   ');
+    test("Shows the server's message when the login fails", async () =>{
+        logIn('salah');
 
-        await waitFor(() => expect(alertSpy).toHaveBeenCalledWith('Please type your name first!'));
-        expect(screen.getByText('Start')).not.toBeDisabled();
+        await waitFor(() => expect(alertSpy).toHaveBeenCalledWith('Wrong username or password!'));
+        expect(screen.getByLabelText('Username')).toHaveValue('budi');
     });
 
     test("Shows the user's name and recent scores after logging in, without reloading", async () =>{
-        logIn('budi');
+        logIn('rahasia123');
 
         expect(await screen.findByText('budi')).toBeInTheDocument();
         await screen.findByText('colors');
@@ -68,6 +69,6 @@ describe("Home", ()=>{
         expect(items[1]).toHaveTextContent('8/10');
         /* quizzes played, average and best */
         expect(screen.getByText('90%')).toBeInTheDocument();
-        expect(screen.queryByText('Start')).not.toBeInTheDocument();
+        expect(screen.queryByText('Use the demo account')).not.toBeInTheDocument();
     });
 })

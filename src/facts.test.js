@@ -49,7 +49,7 @@ describe('fact pages', () => {
 
     test('sends guests who open an article to the login page', async () => {
         renderAt('/animal-facts/cat-facts', guest);
-        await waitFor(() => expect(screen.getByText('Start')).toBeInTheDocument());
+        await waitFor(() => expect(screen.getByText('Use the demo account')).toBeInTheDocument());
         expect(screen.queryByText('Cats sleep about 12 to 16 hours a day.')).not.toBeInTheDocument();
     });
 });
