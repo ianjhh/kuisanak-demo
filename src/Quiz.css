@@ -1,0 +1,146 @@
+/* Quiz Gameplay Styling */
+.quiz-container-custom {
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 30px !important;
+  border-radius: 20px;
+}
+
+.quiz-title-main {
+  font-size: 2.2rem;
+  font-weight: 800;
+  background: linear-gradient(135deg, #ffffff, var(--color-warning));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+/* Question Section */
+.question-box {
+  background: rgba(15, 23, 42, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.question-text {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.6;
+  color: var(--color-text);
+  margin-bottom: 0;
+}
+
+.questionImage {
+  max-height: 250px;
+  object-fit: contain;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* Progress Tracker */
+.progress-container {
+  height: 6px;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 1.5rem;
+}
+
+.progress-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--color-primary), #6366f1);
+  transition: width 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  border-radius: 10px;
+}
+
+/* Radio Option Cards */
+.options-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+  margin-bottom: 2rem;
+}
+
+@media only screen and (min-width: 576px) {
+  .options-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.radio-toolbar input[type="radio"] {
+  opacity: 0;
+  position: fixed;
+  width: 0;
+}
+
+.radio-toolbar label {
+  display: block;
+  background-color: rgba(15, 23, 42, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  padding: 16px 20px;
+  font-weight: 500;
+  color: var(--color-text-secondary);
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  text-align: center;
+  margin-bottom: 0;
+  height: 100%;
+}
+
+.radio-toolbar label:hover {
+  background-color: rgba(99, 102, 241, 0.08);
+  border-color: rgba(99, 102, 241, 0.3);
+  color: var(--color-text);
+  transform: translateY(-2px);
+}
+
+.radio-toolbar input[type="radio"]:checked + label {
+  background-color: rgba(99, 102, 241, 0.2) !important;
+  border-color: var(--color-primary) !important;
+  color: var(--color-text) !important;
+  box-shadow: 0 0 15px rgba(99, 102, 241, 0.2);
+}
+
+/* Feedback Alert Text */
+.correct-alert, .wrong-alert {
+  font-weight: 600;
+  font-size: 1.1rem;
+  padding: 10px 16px;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+  display: inline-block;
+}
+
+.correct-alert {
+  background: rgba(16, 185, 129, 0.15);
+  border: 1px solid rgba(16, 185, 129, 0.3);
+  color: #34d399;
+}
+
+.wrong-alert {
+  background: rgba(244, 63, 94, 0.15);
+  border: 1px solid rgba(244, 63, 94, 0.3);
+  color: #fb7185;
+}
+
+/* Back Buttons */
+.back-btn-custom {
+  font-weight: 500;
+  border-radius: 8px !important;
+  padding: 8px 18px !important;
+  transition: all 0.2s ease !important;
+}
+
+.quiz-score-display {
+  font-size: 3rem;
+  font-weight: 800;
+  background: linear-gradient(135deg, var(--color-warning), #fbbf24);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 1rem;
+}

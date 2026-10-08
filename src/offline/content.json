@@ -1,0 +1,7085 @@
+{
+ "quizzes": [
+  {
+   "array": [
+    {
+     "imagesrc": "ikan1",
+     "answer": "ikan cupang",
+     "options": [
+      "ikan lele",
+      "ikan cupang",
+      "ikan paus",
+      "ikan hiu"
+     ],
+     "question": "Ikan apa ini?"
+    },
+    {
+     "imagesrc": "ikan2",
+     "answer": "ikan badut",
+     "options": [
+      "ikan badut",
+      "ikan layar",
+      "ikan todak",
+      "ikan terbang"
+     ],
+     "question": "Ikan apa ini?"
+    },
+    {
+     "answer": "ikan bidadari",
+     "imagesrc": "ikan3",
+     "options": [
+      "gurame",
+      "kakap",
+      "ikan bidadari",
+      "ikan kembung"
+     ],
+     "question": "Ikan apa ini?"
+    },
+    {
+     "answer": "piranha",
+     "imagesrc": "ikan4",
+     "options": [
+      "ikan kembung",
+      "piranha",
+      "kakap",
+      "ikan marlin"
+     ],
+     "question": "Ikan  apa ini?"
+    },
+    {
+     "answer": "kuda laut",
+     "imagesrc": "ikan5",
+     "options": [
+      "kuda laut",
+      "kakap",
+      "ikan pari",
+      "ubur-ubur"
+     ],
+     "question": "Ikan apa ini?"
+    },
+    {
+     "answer": "pari manta",
+     "imagesrc": "ikan6",
+     "question": "Ikan apa ini?",
+     "options": [
+      "ubur-ubur",
+      "pari manta",
+      "ikan mola-mola",
+      "ikan terbang"
+     ]
+    },
+    {
+     "answer": "ikan buntal",
+     "imagesrc": "ikan7",
+     "question": "Ikan apa ini?",
+     "options": [
+      "ikan buntal",
+      "ikan kembung",
+      "penyu",
+      "ikan nila"
+     ]
+    },
+    {
+     "answer": "ikan lele",
+     "imagesrc": "ikan8",
+     "question": "Ikan apa ini?",
+     "options": [
+      "ikan kerapu",
+      "ikan lele",
+      "sarden",
+      "salmon"
+     ]
+    },
+    {
+     "answer": "belut",
+     "imagesrc": "ikan9",
+     "question": "Ikan apa ini?",
+     "options": [
+      "duyung",
+      "oarfish",
+      "belut",
+      "ikan tuna"
+     ]
+    },
+    {
+     "answer": "blue tang",
+     "imagesrc": "ikan10",
+     "question": "Ikan apa ini?",
+     "options": [
+      "barakuda",
+      "blue tang",
+      "ikan teri",
+      "ikan mas"
+     ]
+    },
+    {
+     "answer": "ikan singa",
+     "imagesrc": "ikan11",
+     "question": "Ikan apa ini?",
+     "options": [
+      "ikan tuna",
+      "ikan singa",
+      "ikan teri",
+      "ikan nila"
+     ]
+    },
+    {
+     "answer": "ikan koi",
+     "imagesrc": "ikan12",
+     "question": "Ikan apa ini?",
+     "options": [
+      "ikan koi",
+      "ikan emas",
+      "ikan teri",
+      "salmon"
+     ]
+    },
+    {
+     "answer": "ikan emas",
+     "imagesrc": "ikan13",
+     "question": "Ikan apa ini?",
+     "options": [
+      "kakap",
+      "piranha",
+      "ikan emas",
+      "kakap"
+     ]
+    },
+    {
+     "answer": "gurame",
+     "imagesrc": "ikan14",
+     "question": "Ikan apa ini?",
+     "options": [
+      "ikan terbang",
+      "ikan nila",
+      "gurame",
+      "ikan badut"
+     ]
+    },
+    {
+     "answer": "kakap",
+     "imagesrc": "ikan15",
+     "question": "Ikan apa ini?",
+     "options": [
+      "salmon",
+      "gurame",
+      "sarden",
+      "kakap"
+     ]
+    },
+    {
+     "answer": "salmon",
+     "imagesrc": "ikan16",
+     "question": "Ikan apa ini?",
+     "options": [
+      "salmon",
+      "ikan tuna",
+      "sarden",
+      "oarfish"
+     ]
+    },
+    {
+     "answer": "tuna",
+     "imagesrc": "ikan17",
+     "question": "Ikan apa ini?",
+     "options": [
+      "tuna",
+      "belut",
+      "ikan marlin",
+      "ikan hiu"
+     ]
+    },
+    {
+     "answer": "ikan layar",
+     "imagesrc": "ikan18",
+     "question": "Ikan apa ini?",
+     "options": [
+      "ikan pisau",
+      "ikan layar",
+      "ikan pedang",
+      "ikan tajam"
+     ]
+    },
+    {
+     "answer": "ikan gergaji",
+     "imagesrc": "ikan19",
+     "question": "Ikan apa ini?",
+     "options": [
+      "ikan paus",
+      "ikan pedang",
+      "ikan gergaji",
+      "ikan hiu"
+     ]
+    },
+    {
+     "answer": "ikan batu",
+     "imagesrc": "ikan20",
+     "question": "Ikan apa ini?",
+     "options": [
+      "ikan batu",
+      "ikan paus",
+      "ikan singa",
+      "barakuda"
+     ]
+    }
+   ],
+   "category": "animal",
+   "description": "Belajar tentang berbagai jenis ikan!",
+   "difficulty": "3/5",
+   "title": "Ikan",
+   "quizImage": "img_ikan",
+   "name": "ikan"
+  },
+  {
+   "array": [
+    {
+     "imagesrc": "reptil1",
+     "answer": "iguana",
+     "options": [
+      "kelelesa",
+      "iguana",
+      "tokek",
+      "naga berjanggut"
+     ],
+     "question": "Reptil apa ini?"
+    },
+    {
+     "imagesrc": "reptil2",
+     "answer": "penyu",
+     "options": [
+      "penyu",
+      "kura-kura",
+      "komodo",
+      "ular"
+     ],
+     "question": "Reptil apa ini?"
+    },
+    {
+     "answer": "buaya",
+     "imagesrc": "reptil3",
+     "options": [
+      "cobra",
+      "komodo",
+      "alligator",
+      "buaya"
+     ],
+     "question": "Reptil apa ini?"
+    },
+    {
+     "answer": "komodo",
+     "imagesrc": "reptil4",
+     "options": [
+      "komodo",
+      "kadal",
+      "tuatara",
+      "gharial"
+     ],
+     "question": "Reptil apa ini?"
+    },
+    {
+     "answer": "chameleon",
+     "imagesrc": "reptil5",
+     "options": [
+      "gharial",
+      "iguana",
+      "kadal",
+      "chameleon"
+     ],
+     "question": "Reptil apa ini?"
+    },
+    {
+     "answer": "baning",
+     "imagesrc": "reptil6",
+     "question": "Reptil apa ini?",
+     "options": [
+      "penyu",
+      "baning",
+      "gharial",
+      "alligator"
+     ]
+    },
+    {
+     "answer": "viper",
+     "imagesrc": "reptil7",
+     "question": "Reptil apa ini?",
+     "options": [
+      "ular piton",
+      "anakonda",
+      "cobra",
+      "viper"
+     ]
+    },
+    {
+     "answer": "alligator",
+     "imagesrc": "reptil8",
+     "question": "Reptil apa ini?",
+     "options": [
+      "gharial",
+      "buaya",
+      "alligator",
+      "caiman"
+     ]
+    },
+    {
+     "answer": "king cobra",
+     "imagesrc": "reptil9",
+     "question": "Reptil apa ini?",
+     "options": [
+      "king cobra",
+      "ular piton",
+      "anakonda",
+      "mamba hitam"
+     ]
+    },
+    {
+     "answer": "tokek",
+     "imagesrc": "reptil10",
+     "question": "Reptil apa ini?",
+     "options": [
+      "tokek",
+      "anole",
+      "gila monster",
+      "kadal terbang"
+     ]
+    },
+    {
+     "answer": "ular piton",
+     "imagesrc": "reptil11",
+     "question": "Reptil apa ini?",
+     "options": [
+      "ular piton",
+      "anakonda",
+      "kobra",
+      "viper"
+     ]
+    },
+    {
+     "answer": "gharial",
+     "imagesrc": "reptil12",
+     "question": "Reptil apa ini?",
+     "options": [
+      "komodo",
+      "aligator",
+      "buaya",
+      "gharial"
+     ]
+    },
+    {
+     "answer": "gila monster",
+     "imagesrc": "reptil13",
+     "question": "Reptil apa ini?",
+     "options": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    {
+     "answer": "tuatara",
+     "imagesrc": "reptil14",
+     "question": "Reptil apa ini?",
+     "options": [
+      "naga berjanggut",
+      "komodo",
+      "tuatara",
+      "mengkarung"
+     ]
+    },
+    {
+     "answer": "kadal berjumbai",
+     "imagesrc": "reptil15",
+     "question": "Reptil apa ini?",
+     "options": [
+      "penyu",
+      "baning",
+      "kadal berjumbai",
+      "kadal air"
+     ]
+    },
+    {
+     "answer": "naga berjanggut",
+     "imagesrc": "reptil16",
+     "question": "Reptil apa ini?",
+     "options": [
+      "kadal air",
+      "komodo",
+      "naga berjanggut",
+      "kadal berjumbai"
+     ]
+    },
+    {
+     "answer": "mengkarung",
+     "imagesrc": "reptil17",
+     "question": "Reptil apa ini?",
+     "options": [
+      "gila monster",
+      "mengkarung",
+      "kelelesa",
+      "taipan"
+     ]
+    },
+    {
+     "answer": "mamba hitam",
+     "imagesrc": "reptil18",
+     "question": "Reptil apa ini?",
+     "options": [
+      "anakonda",
+      "kobra",
+      "mamba hitam",
+      "viper"
+     ]
+    },
+    {
+     "answer": "ular raja",
+     "imagesrc": "reptil19",
+     "question": "Reptil apa ini?",
+     "options": [
+      "piton",
+      "ular raja",
+      "ular derik",
+      "boa"
+     ]
+    }
+   ],
+   "category": "animal",
+   "description": "Belajar tentang berbagai jenis reptil!",
+   "difficulty": "3/5",
+   "title": "Reptil",
+   "quizImage": "img_reptil",
+   "name": "reptil"
+  },
+  {
+   "array": [
+    {
+     "imagesrc": "mamalia1",
+     "answer": "zebra",
+     "options": [
+      "zebra",
+      "rusa",
+      "harimau",
+      "puma"
+     ],
+     "question": "Mamalia apa ini?"
+    },
+    {
+     "imagesrc": "mamalia2",
+     "answer": "serigala",
+     "options": [
+      "anjing",
+      "kucing",
+      "serigala",
+      "macan tutul"
+     ],
+     "question": "Mamalia apa ini?"
+    },
+    {
+     "answer": "badak",
+     "imagesrc": "mamalia3",
+     "options": [
+      "jerapah",
+      "badak",
+      "gajah",
+      "beruang"
+     ],
+     "question": "Mamalia apa ini?"
+    },
+    {
+     "answer": "orangutan",
+     "imagesrc": "mamalia4",
+     "options": [
+      "monyet",
+      "orangutan",
+      "babon",
+      "musang"
+     ],
+     "question": "Mamalia apa ini?"
+    },
+    {
+     "answer": "landak",
+     "imagesrc": "mamalia5",
+     "options": [
+      "tikus",
+      "landak",
+      "tenggiling",
+      "babi"
+     ],
+     "question": "Mamalia apa ini?"
+    },
+    {
+     "answer": "harimau",
+     "imagesrc": "mamalia6",
+     "question": "Mamalia apa ini?",
+     "options": [
+      "harimau kumbang",
+      "singa",
+      "macan tutul",
+      "harimau"
+     ]
+    },
+    {
+     "answer": "babi",
+     "imagesrc": "mamalia7",
+     "question": "Mamalia apa ini?",
+     "options": [
+      "babi hutan",
+      "babi",
+      "kijang",
+      "beruang"
+     ]
+    },
+    {
+     "answer": "rakun",
+     "imagesrc": "mamalia8",
+     "question": "Mamalia apa ini?",
+     "options": [
+      "rakun",
+      "beruang semut",
+      "tikus tanah",
+      "tupai"
+     ]
+    },
+    {
+     "answer": "tikus",
+     "imagesrc": "mamalia9",
+     "question": "Mamalia apa ini?",
+     "options": [
+      "marmot",
+      "berang-berang",
+      "tikus tanah",
+      "tikus"
+     ]
+    },
+    {
+     "answer": "rusa",
+     "imagesrc": "mamalia10",
+     "question": "Mamalia apa ini?",
+     "options": [
+      "rusa besar",
+      "kambing",
+      "rusa",
+      "domba"
+     ]
+    },
+    {
+     "answer": "domba",
+     "imagesrc": "mamalia11",
+     "question": "Mamalia apa ini?",
+     "options": [
+      "sapi",
+      "kambing",
+      "domba",
+      "rusa"
+     ]
+    },
+    {
+     "answer": "beruang kutub",
+     "imagesrc": "mamalia12",
+     "question": "Mamalia apa ini?",
+     "options": [
+      "beruang kutub",
+      "beruang putih",
+      "walrus",
+      "singa laut"
+     ]
+    },
+    {
+     "answer": "anjing laut",
+     "imagesrc": "mamalia13",
+     "question": "Mamalia apa ini?",
+     "options": [
+      "singa laut",
+      "lumba-lumba",
+      "dugong",
+      "anjing laut"
+     ]
+    },
+    {
+     "answer": "panda merah",
+     "imagesrc": "mamalia14",
+     "question": "Mamalia apa ini?",
+     "options": [
+      "beruang",
+      "koala",
+      "panda merah",
+      "panda"
+     ]
+    },
+    {
+     "answer": "panda",
+     "imagesrc": "mamalia15",
+     "question": "Mamalia apa ini?",
+     "options": [
+      "panda merah",
+      "panda",
+      "beruang hitam",
+      "beruang cokelat"
+     ]
+    },
+    {
+     "answer": "hamster",
+     "imagesrc": "mamalia16",
+     "question": "Mamalia apa ini?",
+     "options": [
+      "hamster",
+      "tikus",
+      "marmot",
+      "kucing"
+     ]
+    },
+    {
+     "answer": "kanguru",
+     "imagesrc": "mamalia17",
+     "question": "Mamalia apa ini?",
+     "options": [
+      "jerapah",
+      "kanguru",
+      "gajah",
+      "singa"
+     ]
+    },
+    {
+     "answer": "koala",
+     "imagesrc": "mamalia18",
+     "question": "Mamalia apa ini?",
+     "options": [
+      "beruang pohon",
+      "kanguru",
+      "koala",
+      "berang-berang"
+     ]
+    },
+    {
+     "answer": "berang-berang",
+     "imagesrc": "mamalia19",
+     "question": "Mamalia apa ini?",
+     "options": [
+      "harimau",
+      "landak",
+      "berang-berang",
+      "tikus besar"
+     ]
+    },
+    {
+     "answer": "sigung",
+     "imagesrc": "mamalia20",
+     "question": "Mamalia apa ini?",
+     "options": [
+      "berang-berang",
+      "landak",
+      "sigung",
+      "tupai"
+     ]
+    }
+   ],
+   "category": "animal",
+   "description": "Belajar tentang berbagai jenis mamalia!",
+   "difficulty": "3/5",
+   "title": "Mamalia",
+   "quizImage": "img_mamalia",
+   "name": "mamalia"
+  },
+  {
+   "array": [
+    {
+     "imagesrc": "invertebrata1",
+     "answer": "siput",
+     "options": [
+      "keong",
+      "kumbang",
+      "capung",
+      "kunang-kunang"
+     ],
+     "question": "Invertebrata apa ini?"
+    },
+    {
+     "imagesrc": "invertebrata2",
+     "answer": "anemon",
+     "options": [
+      "ubur-ubur",
+      "karang",
+      "anemon",
+      "capung"
+     ],
+     "question": "Invertebrata apa ini?"
+    },
+    {
+     "answer": "ubur-ubur",
+     "imagesrc": "invertebrata3",
+     "options": [
+      "cumi",
+      "gurita",
+      "ubur-ubur",
+      "kepiting"
+     ],
+     "question": "Invertebrata apa ini?"
+    },
+    {
+     "answer": "laba-laba",
+     "imagesrc": "invertebrata4",
+     "options": [
+      "laba-laba",
+      "cacing",
+      "kalajengking",
+      "tungau"
+     ],
+     "question": "Invertebrata apa ini?"
+    },
+    {
+     "answer": "belalang",
+     "imagesrc": "invertebrata5",
+     "options": [
+      "jangkrik",
+      "kalajengking",
+      "tungau",
+      "belalang"
+     ],
+     "question": "Invertebrata apa ini?"
+    },
+    {
+     "answer": "belalang sentadu",
+     "imagesrc": "invertebrata6",
+     "question": "Invertebrata apa ini?",
+     "options": [
+      "belalang sentadu",
+      "kepik",
+      "rayap",
+      "kutu daun"
+     ]
+    },
+    {
+     "answer": "lipan",
+     "imagesrc": "invertebrata7",
+     "question": "Invertebrata apa ini?",
+     "options": [
+      "lalat capung",
+      "lipan",
+      "kepik",
+      "kutu daun"
+     ]
+    },
+    {
+     "answer": "kepiting",
+     "imagesrc": "invertebrata8",
+     "question": "Invertebrata apa ini?",
+     "options": [
+      "kelomang",
+      "udang",
+      "lobster",
+      "kepiting"
+     ]
+    },
+    {
+     "answer": "bulu babi",
+     "imagesrc": "invertebrata9",
+     "question": "Invertebrata apa ini?",
+     "options": [
+      "rambutan",
+      "kepik",
+      "bulu babi",
+      "kumbang"
+     ]
+    },
+    {
+     "answer": "tonggeret",
+     "imagesrc": "invertebrata10",
+     "question": "Invertebrata apa ini?",
+     "options": [
+      "lalat",
+      "tonggeret",
+      "capung",
+      "kutu daun"
+     ]
+    },
+    {
+     "answer": "kepiting tabal kuda",
+     "imagesrc": "invertebrata11",
+     "question": "Invertebrata apa ini?",
+     "options": [
+      "kelomang",
+      "kepiting",
+      "kepiting tabal kuda",
+      "udang"
+     ]
+    },
+    {
+     "answer": "kaki seribu",
+     "imagesrc": "invertebrata12",
+     "question": "Invertebrata apa ini?",
+     "options": [
+      "semut",
+      "kecoa",
+      "kaki seribu",
+      "lipan"
+     ]
+    },
+    {
+     "answer": "cacing tanah",
+     "imagesrc": "invertebrata13",
+     "question": "Invertebrata apa ini?",
+     "options": [
+      "cacing tanah",
+      "cacing darah",
+      "ulat",
+      "lintah"
+     ]
+    },
+    {
+     "answer": "lebah",
+     "imagesrc": "invertebrata14",
+     "question": "Invertebrata apa ini?",
+     "options": [
+      "capung",
+      "pikat",
+      "tawon",
+      "lebah"
+     ]
+    },
+    {
+     "answer": "scorpion",
+     "imagesrc": "invertebrata15",
+     "question": "Invertebrata apa ini?",
+     "options": [
+      "kumbang",
+      "ulat",
+      "scorpion",
+      "laba-laba"
+     ]
+    },
+    {
+     "answer": "kupu-kupu",
+     "imagesrc": "invertebrata16",
+     "question": "Invertebrata apa ini?",
+     "options": [
+      "kupu-kupu",
+      "jangkrik",
+      "kunang-kunang",
+      "lalat"
+     ]
+    },
+    {
+     "answer": "kumbang",
+     "imagesrc": "invertebrata17",
+     "question": "Invertebrata apa ini?",
+     "options": [
+      "nyamuk",
+      "jangkrik",
+      "kecoa",
+      "kumbang"
+     ]
+    },
+    {
+     "answer": "siput",
+     "imagesrc": "invertebrata18",
+     "question": "Invertebrata apa ini?",
+     "options": [
+      "kepik",
+      "siput",
+      "kutu rambut",
+      "rayap"
+     ]
+    },
+    {
+     "answer": "kecoa",
+     "imagesrc": "invertebrata19",
+     "question": "Invertebrata apa ini?",
+     "options": [
+      "kaki seribu",
+      "kecoa",
+      "rayap",
+      "kutu"
+     ]
+    },
+    {
+     "answer": "kerang",
+     "imagesrc": "invertebrata20",
+     "question": "Invertebrata apa ini?",
+     "options": [
+      "remis",
+      "tiram",
+      "kerang",
+      "kerut"
+     ]
+    }
+   ],
+   "category": "animal",
+   "description": "Belajar tentang berbagai jenis invertebrata",
+   "difficulty": "3/5",
+   "title": "Invertebrata",
+   "quizImage": "img_invertebrata",
+   "name": "invertebrata"
+  },
+  {
+   "array": [
+    {
+     "imagesrc": "kucing1",
+     "answer": "kucing siamese",
+     "options": [
+      "ragdoll",
+      "kucing siamese",
+      "kucing sphynx",
+      "kucing burmese"
+     ],
+     "question": "Kucing apa ini?"
+    },
+    {
+     "imagesrc": "kucing2",
+     "answer": "kucing sphynx",
+     "options": [
+      "maine coon",
+      "abyssinian",
+      "kucing burmese",
+      "kucing sphynx"
+     ],
+     "question": "Kucing apa ini?"
+    },
+    {
+     "answer": "tabby",
+     "imagesrc": "kucing3",
+     "options": [
+      "tabby",
+      "kucing siberia",
+      "chartreux",
+      "oriental shorthair"
+     ],
+     "question": "Kucing apa ini?"
+    },
+    {
+     "answer": "ragdoll",
+     "imagesrc": "kucing4",
+     "options": [
+      "kucing himalaya",
+      "egyptian mau",
+      "ragdoll",
+      "cornish rex"
+     ],
+     "question": "Kucing apa ini?"
+    },
+    {
+     "answer": "turkish angora",
+     "imagesrc": "kucing5",
+     "options": [
+      "kucing javanese",
+      "turkish angora",
+      "egyptian mau",
+      "cornish rex"
+     ],
+     "question": "Kucing apa ini?"
+    },
+    {
+     "answer": "kucing bombay",
+     "imagesrc": "kucing6",
+     "question": "Kucing apa ini?",
+     "options": [
+      "kucing himalaya",
+      "abyssinian",
+      "kucing bombay",
+      "kucing burmese"
+     ]
+    },
+    {
+     "answer": "russian blue",
+     "imagesrc": "kucing7",
+     "question": "Kucing apa ini?",
+     "options": [
+      "russian blue",
+      "scottish fold",
+      "american bobtail",
+      "british longhair"
+     ]
+    },
+    {
+     "answer": "kucing siberia",
+     "imagesrc": "kucing8",
+     "question": "Kucing apa ini?",
+     "options": [
+      "kucing persia",
+      "toyger",
+      "kucing siberia",
+      "chartreux"
+     ]
+    },
+    {
+     "answer": "oriental shorthair",
+     "imagesrc": "kucing9",
+     "question": "Kucing apa ini?",
+     "options": [
+      "oriental shorthair",
+      "birman",
+      "scottish fold",
+      "maine coon"
+     ]
+    },
+    {
+     "answer": "norweigan forest cat",
+     "imagesrc": "kucing10",
+     "question": "Kucing apa ini?",
+     "options": [
+      "kucing munchkin",
+      "kucing norweigan forest",
+      "kucing burmese",
+      "kucing somali"
+     ]
+    }
+   ],
+   "category": "animal",
+   "description": "Belajar tentang berbagai jenis kucing",
+   "difficulty": "4/5",
+   "title": "Kucing",
+   "quizImage": "img_kucing",
+   "name": "kucing"
+  },
+  {
+   "array": [
+    {
+     "imagesrc": "anjing1",
+     "answer": "chihuahua",
+     "options": [
+      "beagle",
+      "chihuahua",
+      "dachshund",
+      "pomeranian"
+     ],
+     "question": "Anjing apa ini?"
+    },
+    {
+     "imagesrc": "anjing2",
+     "answer": "basset hound",
+     "options": [
+      "bloodhound",
+      "basset hound",
+      "bulldog",
+      "boxer"
+     ],
+     "question": "Anjing apa ini?"
+    },
+    {
+     "answer": "yorkshire terrier",
+     "imagesrc": "anjing3",
+     "options": [
+      "australian terrier",
+      "yorkshire terrier",
+      "bull terrier",
+      "airedale terrier"
+     ],
+     "question": "Anjing apa ini?"
+    },
+    {
+     "answer": "cardigan welsh corgi",
+     "imagesrc": "anjing4",
+     "options": [
+      "pembroke welsh corgi",
+      "cardigan welsh corgi",
+      "pug",
+      "french bulldog"
+     ],
+     "question": "Anjing apa ini?"
+    },
+    {
+     "answer": "border collie",
+     "imagesrc": "anjing5",
+     "options": [
+      "collie",
+      "great dane",
+      "siberian husky",
+      "border collie"
+     ],
+     "question": "Anjing apa ini?"
+    },
+    {
+     "answer": "pomeranian",
+     "imagesrc": "anjing6",
+     "question": "Anjing apa ini?",
+     "options": [
+      "bichon frise",
+      "pomeranian",
+      "pug",
+      "beagle"
+     ]
+    },
+    {
+     "answer": "labrador retriever",
+     "imagesrc": "anjing7",
+     "question": "Anjing apa ini?",
+     "options": [
+      "cocker spaniel",
+      "golden retriever",
+      "labrador retriever",
+      "german sheperd"
+     ]
+    },
+    {
+     "answer": "dobermann",
+     "imagesrc": "anjing8",
+     "question": "Anjing apa ini?",
+     "options": [
+      "dobermann",
+      "german sheperd",
+      "rottweiler",
+      "siberian husky"
+     ]
+    },
+    {
+     "answer": "airedale terrier",
+     "imagesrc": "anjing9",
+     "question": "Anjing apa ini?",
+     "options": [
+      "great dane",
+      "australian terrier",
+      "boston terrier",
+      "airedale terrier"
+     ]
+    },
+    {
+     "answer": "german sheperd",
+     "imagesrc": "anjing10",
+     "question": "Anjing apa ini?",
+     "options": [
+      "great dane",
+      "rottweiler",
+      "german sheperd",
+      "dalmatian"
+     ]
+    },
+    {
+     "answer": "bulldog",
+     "imagesrc": "anjing11",
+     "question": "Anjing apa ini?",
+     "options": [
+      "bulldog",
+      "pug",
+      "boston terrier",
+      "boxer"
+     ]
+    },
+    {
+     "answer": "poodle",
+     "imagesrc": "anjing12",
+     "question": "Anjing apa ini?",
+     "options": [
+      "maltese",
+      "shih tzu",
+      "poodle",
+      "chihuahua"
+     ]
+    },
+    {
+     "answer": "pug",
+     "imagesrc": "anjing13",
+     "question": "Anjing apa ini?",
+     "options": [
+      "french bulldog",
+      "bulldog",
+      "pug",
+      "corgi"
+     ]
+    },
+    {
+     "answer": "dalmatian",
+     "imagesrc": "anjing14",
+     "question": "Anjing apa ini?",
+     "options": [
+      "dalmatian",
+      "shiba inu",
+      "st bernard",
+      "great dane"
+     ]
+    },
+    {
+     "answer": "beagle",
+     "imagesrc": "anjing15",
+     "question": "Anjing apa ini?",
+     "options": [
+      "rottweiler",
+      "basset hound",
+      "border collie",
+      "beagle"
+     ]
+    },
+    {
+     "answer": "shiba inu",
+     "imagesrc": "anjing16",
+     "question": "Anjing apa ini?",
+     "options": [
+      "yorkshire terrier",
+      "dachshund",
+      "shiba inu",
+      "samoyed"
+     ]
+    },
+    {
+     "answer": "samoyed",
+     "imagesrc": "anjing17",
+     "question": "Anjing apa ini?",
+     "options": [
+      "chow chow",
+      "siberian husky",
+      "samoyed",
+      "american eskimo dog"
+     ]
+    },
+    {
+     "answer": "miniature schnauzer",
+     "imagesrc": "anjing18",
+     "question": "Anjing apa ini?",
+     "options": [
+      "yorkshire terrier",
+      "maltese",
+      "airedale terrier",
+      "minature schnauzer"
+     ]
+    },
+    {
+     "answer": "shih tzu",
+     "imagesrc": "anjing19",
+     "question": "Anjing apa ini?",
+     "options": [
+      "german sheperd",
+      "maltipoo",
+      "shih tzu",
+      "basset hound"
+     ]
+    },
+    {
+     "answer": "bull terrier",
+     "imagesrc": "anjing20",
+     "question": "Anjing apa ini?",
+     "options": [
+      "yorkshire terrier",
+      "bull terrier",
+      "st bernard",
+      "cairn terrier"
+     ]
+    }
+   ],
+   "category": "animal",
+   "description": "Belajar tentang berbagai jenis anjing",
+   "difficulty": "4/5",
+   "title": "Anjing",
+   "quizImage": "img_anjing",
+   "name": "anjing"
+  },
+  {
+   "array": [
+    {
+     "imagesrc": "binatang-darat1",
+     "answer": "tupai",
+     "options": [
+      "musang",
+      "tupai terbang",
+      "tikus",
+      "tupai"
+     ],
+     "question": "Binatang apa ini?"
+    },
+    {
+     "imagesrc": "binatang-darat2",
+     "answer": "sapi",
+     "options": [
+      "kambing",
+      "sapi",
+      "domba",
+      "rusa besar"
+     ],
+     "question": "Binatang apa ini?"
+    },
+    {
+     "answer": "dubuk",
+     "imagesrc": "binatang-darat3",
+     "options": [
+      "dubuk",
+      "harimau",
+      "macan tutul",
+      "harimau kumbang"
+     ],
+     "question": "Binatang apa ini?"
+    },
+    {
+     "answer": "panda merah",
+     "imagesrc": "binatang-darat4",
+     "options": [
+      "panda merah",
+      "tupai terbang",
+      "beruang",
+      "musang"
+     ],
+     "question": "Binatang apa ini?"
+    },
+    {
+     "answer": "rubah",
+     "imagesrc": "binatang-darat5",
+     "options": [
+      "anjing",
+      "rubah",
+      "serigala",
+      "anjing hutan"
+     ],
+     "question": "Binatang apa ini?"
+    },
+    {
+     "answer": "kumbang",
+     "imagesrc": "binatang-darat6",
+     "question": "Binatang apa ini?",
+     "options": [
+      "kalajengking",
+      "kumbang",
+      "jangkrik",
+      "capung"
+     ]
+    },
+    {
+     "answer": "koala",
+     "imagesrc": "binatang-darat7",
+     "question": "Binatang apa ini?",
+     "options": [
+      "kanguru",
+      "koala",
+      "beruang",
+      "panda"
+     ]
+    },
+    {
+     "answer": "armadillo",
+     "imagesrc": "binatang-darat8",
+     "question": "Binatang apa ini?",
+     "options": [
+      "landak",
+      "armadillo",
+      "tenggiling",
+      "berang-berang"
+     ]
+    },
+    {
+     "answer": "chipmunk",
+     "imagesrc": "binatang-darat9",
+     "question": "Binatang apa ini?",
+     "options": [
+      "tupai",
+      "chipmunk",
+      "marmut",
+      "chinchilla"
+     ]
+    },
+    {
+     "answer": "tenggiling",
+     "imagesrc": "binatang-darat10",
+     "question": "Binatang apa ini?",
+     "options": [
+      "landak",
+      "tenggiling",
+      "berang-berang",
+      "beruang semut"
+     ]
+    },
+    {
+     "answer": "singa",
+     "imagesrc": "binatang-darat11",
+     "question": "Binatang apa ini?",
+     "options": [
+      "harimau kumbang",
+      "harimau",
+      "singa",
+      "macan tutul"
+     ]
+    },
+    {
+     "answer": "jerapah",
+     "imagesrc": "binatang-darat12",
+     "question": "Binatang apa ini?",
+     "options": [
+      "jerapah",
+      "badak",
+      "kuda nil",
+      "kuda panjang"
+     ]
+    },
+    {
+     "answer": "gajah",
+     "imagesrc": "binatang-darat13",
+     "question": "Binatang apa ini?",
+     "options": [
+      "zebra",
+      "kuda nil",
+      "gajah",
+      "sapi"
+     ]
+    },
+    {
+     "answer": "kelelawar",
+     "imagesrc": "binatang-darat14",
+     "question": "Binatang apa ini?",
+     "options": [
+      "kelelawar",
+      "burung",
+      "berang-berang",
+      "tupai terbang"
+     ]
+    },
+    {
+     "answer": "lemur",
+     "imagesrc": "binatang-darat15",
+     "question": "Binatang apa ini?",
+     "options": [
+      "lemur",
+      "kera",
+      "orangutan",
+      "kubung"
+     ]
+    },
+    {
+     "answer": "unta",
+     "imagesrc": "binatang-darat16",
+     "question": "Binatang apa ini?",
+     "options": [
+      "kuda",
+      "unta",
+      "kambing",
+      "gorila"
+     ]
+    },
+    {
+     "answer": "rusa besar",
+     "imagesrc": "binatang-darat17",
+     "question": "Binatang apa ini?",
+     "options": [
+      "rusa besar",
+      "rusa",
+      "rakun",
+      "kerbau"
+     ]
+    },
+    {
+     "answer": "monyet",
+     "imagesrc": "binatang-darat18",
+     "question": "Binatang apa ini?",
+     "options": [
+      "gorila",
+      "kera",
+      "monyet",
+      "orangutan"
+     ]
+    },
+    {
+     "answer": "bison",
+     "imagesrc": "binatang-darat19",
+     "question": "Binatang apa ini?",
+     "options": [
+      "badak",
+      "sapi",
+      "kerbau",
+      "bison"
+     ]
+    },
+    {
+     "answer": "nyamuk",
+     "imagesrc": "binatang-darat20",
+     "question": "Binatang apa ini?",
+     "options": [
+      "nyamuk",
+      "lalat",
+      "capung",
+      "kupu-kupu"
+     ]
+    }
+   ],
+   "category": "animal",
+   "description": "Belajar tentang binatang darat!",
+   "difficulty": "3/5",
+   "title": "Binatang Darat",
+   "quizImage": "binatang-darat1",
+   "name": "binatang-darat"
+  },
+  {
+   "array": [
+    {
+     "imagesrc": "burung1",
+     "answer": "burung beo",
+     "options": [
+      "ayam",
+      "penguin",
+      "burung hantu",
+      "burung beo"
+     ],
+     "question": "Burung apa ini?"
+    },
+    {
+     "imagesrc": "burung2",
+     "answer": "burung hantu",
+     "options": [
+      "ayam",
+      "burung hantu",
+      "penguin",
+      "burung pelatuk"
+     ],
+     "question": "Burung apa ini?"
+    },
+    {
+     "answer": "pinguin",
+     "imagesrc": "burung3",
+     "options": [
+      "pinguin",
+      "burung kolibri",
+      "ayam",
+      "burung toucan"
+     ],
+     "question": "Burung apa ini?"
+    },
+    {
+     "answer": "burung toucan",
+     "imagesrc": "burung4",
+     "options": [
+      "burung kolibri",
+      "burung toucan",
+      "burung kutilang",
+      "burung unta"
+     ],
+     "question": "Burung apa ini?"
+    },
+    {
+     "answer": "burung unta",
+     "imagesrc": "burung5",
+     "options": [
+      "merpati",
+      "burung hantu",
+      "burung kolibri",
+      "burung unta"
+     ],
+     "question": "Burung apa ini?"
+    },
+    {
+     "answer": "burung pelikan",
+     "imagesrc": "burung6",
+     "question": "Burung apa ini?",
+     "options": [
+      "burung pelikan",
+      "burung rajawali",
+      "merpati",
+      "burung hantu"
+     ]
+    },
+    {
+     "answer": "burung rajawali",
+     "imagesrc": "burung7",
+     "question": "Burung apa ini?",
+     "options": [
+      "ayam",
+      "burung toucan",
+      "burung rajawali",
+      "angsa"
+     ]
+    },
+    {
+     "answer": "angsa",
+     "imagesrc": "burung8",
+     "question": "Burung apa ini?",
+     "options": [
+      "burung pekakak",
+      "angsa",
+      "murai",
+      "emu"
+     ]
+    },
+    {
+     "answer": "burung gagak",
+     "imagesrc": "burung9",
+     "question": "Burung apa ini?",
+     "options": [
+      "merak jantan",
+      "burung gagak",
+      "kasuari",
+      "murai"
+     ]
+    },
+    {
+     "answer": "ayam",
+     "imagesrc": "burung10",
+     "question": "Burung apa ini?",
+     "options": [
+      "ayam",
+      "kasuari",
+      "merpati",
+      "murai"
+     ]
+    },
+    {
+     "answer": "merpati",
+     "imagesrc": "burung11",
+     "question": "Burung apa ini?",
+     "options": [
+      "kangkok",
+      "pelikan",
+      "merpati",
+      "elang laut"
+     ]
+    },
+    {
+     "answer": "macaw",
+     "imagesrc": "burung12",
+     "question": "Burung apa ini?",
+     "options": [
+      "burung beo",
+      "macaw",
+      "flamingo",
+      "kenari"
+     ]
+    },
+    {
+     "answer": "burung kolibri",
+     "imagesrc": "burung13",
+     "options": [
+      "burung unta",
+      "pegar",
+      "elang",
+      "burung kolibri"
+     ],
+     "question": "Burung apa ini?"
+    },
+    {
+     "answer": "burung pekakak",
+     "imagesrc": "burung14",
+     "options": [
+      "elang",
+      "burung pelatuk",
+      "burung pekakak",
+      "macaw"
+     ],
+     "question": "Burung apa ini?"
+    },
+    {
+     "answer": "camar",
+     "imagesrc": "burung15",
+     "options": [
+      "camar",
+      "merpati",
+      "emu",
+      "burung gagak"
+     ],
+     "question": "Burung apa ini?"
+    },
+    {
+     "answer": "emu",
+     "imagesrc": "burung16",
+     "options": [
+      "burung unta",
+      "emu",
+      "burung hantu",
+      "penguin"
+     ],
+     "question": "Burung apa ini?"
+    },
+    {
+     "answer": "burung gereja",
+     "imagesrc": "burung17",
+     "options": [
+      "burung beo",
+      "emu",
+      "bangau",
+      "burung gereja"
+     ],
+     "question": "Burung apa ini?"
+    },
+    {
+     "answer": "burung puffin",
+     "imagesrc": "burung18",
+     "options": [
+      "angsa",
+      "flamingo",
+      "burung puffin",
+      "robin"
+     ],
+     "question": "Burung apa ini?"
+    },
+    {
+     "answer": "bebek",
+     "imagesrc": "burung19",
+     "options": [
+      "bebek",
+      "angsa",
+      "murai",
+      "ayam"
+     ],
+     "question": "Burung apa ini?"
+    },
+    {
+     "answer": "burung kardinal",
+     "imagesrc": "burung20",
+     "options": [
+      "bebek",
+      "murai",
+      "burung kardinal",
+      "ayam"
+     ],
+     "question": "Burung apa ini?"
+    }
+   ],
+   "category": "animal",
+   "description": "Belajar tentang berbagai jenis burung!",
+   "difficulty": "3/5",
+   "title": "Burung",
+   "quizImage": "img_burung",
+   "name": "burung"
+  },
+  {
+   "array": [
+    {
+     "imagesrc": "amfibi1",
+     "answer": "katak",
+     "options": [
+      "katak",
+      "kodok",
+      "salamander",
+      "sesilia"
+     ],
+     "question": "Amfibi apa ini?"
+    },
+    {
+     "imagesrc": "amfibi2",
+     "answer": "axolotl",
+     "options": [
+      "sesilia",
+      "salamander",
+      "axolotl",
+      "kadal air"
+     ],
+     "question": "Amfibi apa ini?"
+    },
+    {
+     "answer": "kadal air",
+     "imagesrc": "amfibi3",
+     "options": [
+      "kodok",
+      "kadal air",
+      "sesilia",
+      "salamander"
+     ],
+     "question": "Amfibi apa ini?"
+    },
+    {
+     "answer": "kadal air",
+     "imagesrc": "amfibi4",
+     "options": [
+      "katak lembu",
+      "kadal air",
+      "salamander",
+      "sesilia"
+     ],
+     "question": "Amfibi apa ini?"
+    },
+    {
+     "answer": "katak panah beracun",
+     "imagesrc": "amfibi5",
+     "options": [
+      "katak lembu",
+      "katak panah beracun",
+      "katak pohon",
+      "katak goliath"
+     ],
+     "question": "Amfibi apa ini?"
+    },
+    {
+     "answer": "katak pohon",
+     "imagesrc": "amfibi6",
+     "question": "Amfibi apa ini?",
+     "options": [
+      "katak goliath",
+      "katak pohon",
+      "katak lembu",
+      "katak kaca "
+     ]
+    },
+    {
+     "answer": "kodok",
+     "imagesrc": "amfibi7",
+     "question": "Amfibi apa ini?",
+     "options": [
+      "kodok",
+      "katak",
+      "sesilia",
+      "kadal air"
+     ]
+    },
+    {
+     "answer": "salamander api",
+     "imagesrc": "amfibi8",
+     "question": "Amfibi apa ini?",
+     "options": [
+      "salamander hijau",
+      "salamander harimau",
+      "salamander tutul",
+      "salamander api"
+     ]
+    },
+    {
+     "answer": "sesilia",
+     "imagesrc": "amfibi9",
+     "question": "Amfibi apa ini?",
+     "options": [
+      "cacing pita",
+      "cacing pipih",
+      "sesilia",
+      "belut"
+     ]
+    },
+    {
+     "answer": "katak lembu",
+     "imagesrc": "amfibi10",
+     "question": "Amfibi apa ini?",
+     "options": [
+      "katak lembu",
+      "katak kaca",
+      "katak hujan gurun",
+      "katak goliath"
+     ]
+    },
+    {
+     "answer": "katak terbang",
+     "imagesrc": "amfibi11",
+     "question": "Amfibi apa ini?",
+     "options": [
+      "katak lembu",
+      "katak terbang",
+      "katak pohon",
+      "katak goliath"
+     ]
+    }
+   ],
+   "category": "animal",
+   "description": "Belajar tentang berbagai jenis amfibi!",
+   "difficulty": "3/5",
+   "title": "Amfibi",
+   "quizImage": "img_amfibi",
+   "name": "amfibi"
+  },
+  {
+   "array": [
+    {
+     "imagesrc": "binatang-laut1",
+     "answer": "lumba-lumba",
+     "options": [
+      "lumba-lumba",
+      "kura-kura",
+      "ikan paus",
+      "octopus"
+     ],
+     "question": "Binatang apa ini?"
+    },
+    {
+     "imagesrc": "binatang-laut2",
+     "answer": "karang",
+     "options": [
+      "karang",
+      "kura-kura",
+      "kepiting",
+      "ikan paus"
+     ],
+     "question": "Binatang apa ini?"
+    },
+    {
+     "answer": "gurita",
+     "imagesrc": "binatang-laut3",
+     "options": [
+      "cumi",
+      "gurita",
+      "udang",
+      "kepiting"
+     ],
+     "question": "Binatang apa ini?"
+    },
+    {
+     "answer": "ikan paus",
+     "imagesrc": "binatang-laut4",
+     "options": [
+      "ikan hiu",
+      "ikan pari",
+      "ikan paus",
+      "kuda laut"
+     ],
+     "question": "Binatang apa ini?"
+    },
+    {
+     "answer": "ubur-ubur",
+     "imagesrc": "binatang-laut5",
+     "options": [
+      "lobster",
+      "kepiting",
+      "ikan pari",
+      "ubur-ubur"
+     ],
+     "question": "Binatang apa ini?"
+    },
+    {
+     "answer": "udang",
+     "imagesrc": "binatang-laut6",
+     "question": "Binatang apa ini?",
+     "options": [
+      "udang",
+      "lobster",
+      "ikan buntal",
+      "bintang laut"
+     ]
+    },
+    {
+     "answer": "lobster",
+     "imagesrc": "binatang-laut7",
+     "question": "Binatang apa ini?",
+     "options": [
+      "ikan buntal",
+      "bintang laut",
+      "penyu",
+      "lobster"
+     ]
+    },
+    {
+     "answer": "penyu",
+     "imagesrc": "binatang-laut8",
+     "question": "Binatang apa ini?",
+     "options": [
+      "bintang laut",
+      "penyu",
+      "ikan pari",
+      "bulu babi"
+     ]
+    },
+    {
+     "answer": "bintang laut",
+     "imagesrc": "binatang-laut9",
+     "question": "Binatang apa ini?",
+     "options": [
+      "kerang",
+      "oarfish",
+      "bintang laut",
+      "duyung"
+     ]
+    },
+    {
+     "answer": "ikan hiu",
+     "imagesrc": "binatang-laut10",
+     "question": "Binatang apa ini?",
+     "options": [
+      "ikan hiu",
+      "paus biru",
+      "ikan singa",
+      "ikan duri"
+     ]
+    },
+    {
+     "answer": "kuda laut",
+     "imagesrc": "binatang-laut11",
+     "question": "Binatang apa ini?",
+     "options": [
+      "anemon",
+      "kuda laut",
+      "bulu babi",
+      "karang"
+     ]
+    },
+    {
+     "answer": "anjing laut",
+     "imagesrc": "binatang-laut12",
+     "question": "Binatang apa ini?",
+     "options": [
+      "manatee",
+      "kuda laut",
+      "anjing laut",
+      "lumba-lumba"
+     ]
+    },
+    {
+     "answer": "ikan matahari",
+     "imagesrc": "binatang-laut13",
+     "question": "Binatang apa ini?",
+     "options": [
+      "ikan matahari",
+      "paus",
+      "hiu martil",
+      "nautilus"
+     ]
+    },
+    {
+     "answer": "nautilus",
+     "imagesrc": "binatang-laut14",
+     "question": "Binatang apa ini?",
+     "options": [
+      "tiram",
+      "karang",
+      "kerang",
+      "nautilus"
+     ]
+    },
+    {
+     "answer": "cumi",
+     "imagesrc": "binatang-laut15",
+     "question": "Binatang apa ini?",
+     "options": [
+      "ubur-ubur",
+      "gurita",
+      "cumi",
+      "ikan pari"
+     ]
+    },
+    {
+     "answer": "hiu martil",
+     "imagesrc": "binatang-laut16",
+     "question": "Binatang apa ini?",
+     "options": [
+      "hiu martil",
+      "hiu macan",
+      "hiu penjemur",
+      "hiu paus"
+     ]
+    },
+    {
+     "answer": "manatee",
+     "imagesrc": "binatang-laut17",
+     "question": "Binatang apa ini?",
+     "options": [
+      "lumba-lumba",
+      "duyung",
+      "manatee",
+      "anjing laut"
+     ]
+    },
+    {
+     "answer": "narwhal",
+     "imagesrc": "binatang-laut18",
+     "question": "Binatang apa ini?",
+     "options": [
+      "ikan layar",
+      "ikan pisau",
+      "ikan pedang",
+      "narwhal"
+     ]
+    },
+    {
+     "answer": "belut",
+     "imagesrc": "binatang-laut19",
+     "question": "Binatang apa ini?",
+     "options": [
+      "ikan ular",
+      "lintah air",
+      "belut",
+      "ular air"
+     ]
+    },
+    {
+     "answer": "karang",
+     "imagesrc": "binatang-laut20",
+     "question": "Binatang apa ini?",
+     "options": [
+      "anemon",
+      "batu air",
+      "karang",
+      "batu laut"
+     ]
+    }
+   ],
+   "category": "animal",
+   "description": "Belajar tentang binatang laut!",
+   "difficulty": "3/5",
+   "title": "Binatang Laut",
+   "quizImage": "binatang-laut1",
+   "name": "binatang-laut"
+  },
+  {
+   "array": [
+    {
+     "question": "1-1",
+     "answer": "0",
+     "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+     ]
+    },
+    {
+     "question": "2-1",
+     "answer": "1",
+     "options": [
+      "1",
+      "0",
+      "3",
+      "2"
+     ]
+    },
+    {
+     "question": "3-1",
+     "answer": "2",
+     "options": [
+      "3",
+      "2",
+      "1",
+      "0"
+     ]
+    },
+    {
+     "question": "4-1",
+     "answer": "3",
+     "options": [
+      "5",
+      "4",
+      "6",
+      "3"
+     ]
+    },
+    {
+     "question": "5-1",
+     "answer": "4",
+     "options": [
+      "2",
+      "5",
+      "4",
+      "1"
+     ]
+    },
+    {
+     "question": "6-1",
+     "answer": "5",
+     "options": [
+      "6",
+      "4",
+      "2",
+      "0"
+     ]
+    },
+    {
+     "question": "7-1",
+     "answer": "6",
+     "options": [
+      "7",
+      "6",
+      "5",
+      "3"
+     ]
+    },
+    {
+     "question": "8-1",
+     "answer": "7",
+     "options": [
+      "9",
+      "8",
+      "7",
+      "6"
+     ]
+    },
+    {
+     "question": "9-1",
+     "answer": "8",
+     "options": [
+      "9",
+      "8",
+      "6",
+      "10"
+     ]
+    },
+    {
+     "question": "10-1",
+     "answer": "9",
+     "options": [
+      "10",
+      "7",
+      "8",
+      "9"
+     ]
+    }
+   ],
+   "category": "math",
+   "description": "Pengurangan dengan angka 1",
+   "difficulty": "1/5",
+   "title": "Pengurangan 1",
+   "quizImage": "pengurangan1",
+   "name": "pengurangan1"
+  },
+  {
+   "array": [
+    {
+     "question": "7-6",
+     "answer": "1",
+     "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+     ]
+    },
+    {
+     "question": "9-5",
+     "answer": "4",
+     "options": [
+      "4",
+      "1",
+      "3",
+      "2"
+     ]
+    },
+    {
+     "question": "10-3",
+     "answer": "7",
+     "options": [
+      "5",
+      "8",
+      "7",
+      "9"
+     ]
+    },
+    {
+     "question": "9-3",
+     "answer": "6",
+     "options": [
+      "7",
+      "5",
+      "3",
+      "6"
+     ]
+    },
+    {
+     "question": "6-5",
+     "answer": "1",
+     "options": [
+      "1",
+      "3",
+      "0",
+      "2"
+     ]
+    },
+    {
+     "question": "8-4",
+     "answer": "4",
+     "options": [
+      "3",
+      "4",
+      "2",
+      "0"
+     ]
+    },
+    {
+     "question": "8-6",
+     "answer": "2",
+     "options": [
+      "3",
+      "1",
+      "2",
+      "0"
+     ]
+    },
+    {
+     "question": "5-5",
+     "answer": "0",
+     "options": [
+      "5",
+      "2",
+      "1",
+      "0"
+     ]
+    },
+    {
+     "question": "10-5",
+     "answer": "5",
+     "options": [
+      "5",
+      "8",
+      "2",
+      "3"
+     ]
+    },
+    {
+     "question": "4-0",
+     "answer": "4",
+     "options": [
+      "0",
+      "4",
+      "2",
+      "6"
+     ]
+    }
+   ],
+   "category": "math",
+   "description": "Pengurangan dengan angka lebih dari 1",
+   "difficulty": "1/5",
+   "title": "Pengurangan 2",
+   "quizImage": "pengurangan2",
+   "name": "pengurangan2"
+  },
+  {
+   "array": [
+    {
+     "question": "7+6",
+     "answer": "13",
+     "options": [
+      "13",
+      "14",
+      "15",
+      "16"
+     ]
+    },
+    {
+     "question": "5+9",
+     "answer": "14",
+     "options": [
+      "13",
+      "14",
+      "12",
+      "11"
+     ]
+    },
+    {
+     "question": "10+10",
+     "answer": "20",
+     "options": [
+      "20",
+      "18",
+      "19",
+      "21"
+     ]
+    },
+    {
+     "question": "3+8",
+     "answer": "11",
+     "options": [
+      "14",
+      "16",
+      "11",
+      "18"
+     ]
+    },
+    {
+     "question": "10+2",
+     "answer": "12",
+     "options": [
+      "13",
+      "11",
+      "10",
+      "12"
+     ]
+    },
+    {
+     "question": "14+1",
+     "answer": "15",
+     "options": [
+      "11",
+      "15",
+      "13",
+      "9"
+     ]
+    },
+    {
+     "question": "8+8",
+     "answer": "16",
+     "options": [
+      "12",
+      "14",
+      "16",
+      "18"
+     ]
+    },
+    {
+     "question": "12+3",
+     "answer": "15",
+     "options": [
+      "19",
+      "16",
+      "18",
+      "15"
+     ]
+    },
+    {
+     "question": "11+2",
+     "answer": "13",
+     "options": [
+      "13",
+      "12",
+      "11",
+      "10"
+     ]
+    },
+    {
+     "question": "13+4",
+     "answer": "27",
+     "options": [
+      "17",
+      "14",
+      "13",
+      "16"
+     ]
+    }
+   ],
+   "category": "math",
+   "description": "Penambahan dengan angka 2 digit",
+   "difficulty": "1/5",
+   "title": "Penjumlahan 3",
+   "quizImage": "penjumlahan3",
+   "name": "penjumlahan3"
+  },
+  {
+   "array": [
+    {
+     "question": "1 × 2",
+     "answer": "2",
+     "options": [
+      "2",
+      "1",
+      "4",
+      "3"
+     ]
+    },
+    {
+     "question": "2 × 2",
+     "answer": "4",
+     "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+     ]
+    },
+    {
+     "question": "3 × 3",
+     "answer": "9",
+     "options": [
+      "8",
+      "12",
+      "9",
+      "10"
+     ]
+    },
+    {
+     "question": "5 × 2",
+     "answer": "10",
+     "options": [
+      "9",
+      "8",
+      "7",
+      "10"
+     ]
+    },
+    {
+     "question": "6 × 2",
+     "answer": "12",
+     "options": [
+      "12",
+      "8",
+      "10",
+      "9"
+     ]
+    },
+    {
+     "question": "5 × 3",
+     "answer": "15",
+     "options": [
+      "7",
+      "15",
+      "9",
+      "12"
+     ]
+    },
+    {
+     "question": "4 × 3",
+     "answer": "12",
+     "options": [
+      "11",
+      "7",
+      "12",
+      "10"
+     ]
+    },
+    {
+     "question": "2 × 7",
+     "answer": "14",
+     "options": [
+      "10",
+      "12",
+      "16",
+      "14"
+     ]
+    },
+    {
+     "question": "6 × 0",
+     "answer": "0",
+     "options": [
+      "0",
+      "6",
+      "1",
+      "12"
+     ]
+    },
+    {
+     "question": "6x3",
+     "answer": "18",
+     "options": [
+      "9",
+      "18",
+      "12",
+      "15"
+     ]
+    }
+   ],
+   "category": "math",
+   "description": "Perkalian dengan angka 1 digit",
+   "difficulty": "1/5",
+   "title": "Perkalian 1",
+   "quizImage": "perkalian1",
+   "name": "perkalian1"
+  },
+  {
+   "array": [
+    {
+     "question": "2+2",
+     "answer": "4",
+     "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+     ]
+    },
+    {
+     "question": "3+4",
+     "answer": "7",
+     "options": [
+      "6",
+      "5",
+      "7",
+      "8"
+     ]
+    },
+    {
+     "question": "2+5",
+     "answer": "7",
+     "options": [
+      "7",
+      "5",
+      "4",
+      "8"
+     ]
+    },
+    {
+     "question": "6+4",
+     "answer": "10",
+     "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+     ]
+    },
+    {
+     "question": "5+3",
+     "answer": "8",
+     "options": [
+      "7",
+      "10",
+      "8",
+      "9"
+     ]
+    },
+    {
+     "question": "7+2",
+     "answer": "9",
+     "options": [
+      "8",
+      "9",
+      "7",
+      "10"
+     ]
+    },
+    {
+     "question": "6+3",
+     "answer": "9",
+     "options": [
+      "4",
+      "5",
+      "7",
+      "9"
+     ]
+    },
+    {
+     "question": "8+2",
+     "answer": "10",
+     "options": [
+      "2",
+      "8",
+      "10",
+      "6"
+     ]
+    },
+    {
+     "question": "3+3",
+     "answer": "6",
+     "options": [
+      "10",
+      "8",
+      "6",
+      "4"
+     ]
+    },
+    {
+     "question": "2+3",
+     "answer": "5",
+     "options": [
+      "8",
+      "7",
+      "6",
+      "5"
+     ]
+    },
+    {
+     "question": "5+5",
+     "answer": "10",
+     "options": [
+      "0",
+      "10",
+      "5",
+      "6"
+     ]
+    }
+   ],
+   "category": "math",
+   "description": "Penambahan dengan angka lebih besar dari 1",
+   "difficulty": "1/5",
+   "title": "Penjumlahan 2",
+   "quizImage": "penjumlahan2",
+   "name": "penjumlahan2"
+  },
+  {
+   "array": [
+    {
+     "question": "1+1",
+     "answer": "2",
+     "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+     ]
+    },
+    {
+     "question": "1+2",
+     "answer": "3",
+     "options": [
+      "3",
+      "1",
+      "2",
+      "4"
+     ]
+    },
+    {
+     "question": "1+3",
+     "answer": "4",
+     "options": [
+      "3",
+      "5",
+      "4",
+      "2"
+     ]
+    },
+    {
+     "question": "1+4",
+     "answer": "5",
+     "options": [
+      "6",
+      "4",
+      "5",
+      "3"
+     ]
+    },
+    {
+     "question": "1+5",
+     "answer": "6",
+     "options": [
+      "7",
+      "4",
+      "6",
+      "0"
+     ]
+    },
+    {
+     "question": "1+6",
+     "answer": "7",
+     "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+     ]
+    },
+    {
+     "question": "1+7",
+     "answer": "8",
+     "options": [
+      "6",
+      "8",
+      "9",
+      "7"
+     ]
+    },
+    {
+     "question": "1+8",
+     "answer": "9",
+     "options": [
+      "9",
+      "8",
+      "7",
+      "3"
+     ]
+    },
+    {
+     "question": "1+9",
+     "answer": "10",
+     "options": [
+      "2",
+      "10",
+      "6",
+      "4"
+     ]
+    },
+    {
+     "question": "1+10",
+     "answer": "11",
+     "options": [
+      "10",
+      "9",
+      "11",
+      "0"
+     ]
+    },
+    {
+     "question": "1+0",
+     "answer": "1",
+     "options": [
+      "0",
+      "2",
+      "1",
+      "10"
+     ]
+    }
+   ],
+   "category": "math",
+   "description": "Penjumlahan dengan angka 1",
+   "difficulty": "1/5",
+   "title": "Penjumlahan 1",
+   "quizImage": "penjumlahan1",
+   "name": "penjumlahan1"
+  },
+  {
+   "array": [
+    {
+     "question": "13-6",
+     "answer": "7",
+     "options": [
+      "7",
+      "6",
+      "5",
+      "4"
+     ]
+    },
+    {
+     "question": "12-6",
+     "answer": "6",
+     "options": [
+      "4",
+      "6",
+      "2",
+      "8"
+     ]
+    },
+    {
+     "question": "14-3",
+     "answer": "11",
+     "options": [
+      "10",
+      "11",
+      "12",
+      "9"
+     ]
+    },
+    {
+     "question": "15-5",
+     "answer": "10",
+     "options": [
+      "7",
+      "9",
+      "10",
+      "8"
+     ]
+    },
+    {
+     "question": "20-3",
+     "answer": "17",
+     "options": [
+      "19",
+      "13",
+      "15",
+      "17"
+     ]
+    },
+    {
+     "question": "18-8",
+     "answer": "10",
+     "options": [
+      "10",
+      "8",
+      "12",
+      "6"
+     ]
+    },
+    {
+     "question": "11-3",
+     "answer": "8",
+     "options": [
+      "9",
+      "8",
+      "11",
+      "10"
+     ]
+    },
+    {
+     "question": "16-10",
+     "answer": "6",
+     "options": [
+      "3",
+      "8",
+      "6",
+      "4"
+     ]
+    },
+    {
+     "question": "19-7",
+     "answer": "12",
+     "options": [
+      "13",
+      "11",
+      "10",
+      "12"
+     ]
+    },
+    {
+     "question": "11-10",
+     "answer": "1",
+     "options": [
+      "1",
+      "3",
+      "5",
+      "7"
+     ]
+    }
+   ],
+   "category": "math",
+   "description": "Pengurangan dengan angka 2 digit",
+   "difficulty": "2/5",
+   "title": "Pengurangan 3",
+   "quizImage": "pengurangan3",
+   "name": "pengurangan3"
+  },
+  {
+   "array": [
+    {
+     "question": "2 ÷ 1",
+     "answer": "2",
+     "options": [
+      "2",
+      "1",
+      "0",
+      "3"
+     ]
+    },
+    {
+     "question": "4 ÷ 2",
+     "answer": "2",
+     "options": [
+      "4",
+      "2",
+      "1",
+      "0"
+     ]
+    },
+    {
+     "question": "8 ÷ 4",
+     "answer": "2",
+     "options": [
+      "6",
+      "2",
+      "4",
+      "7"
+     ]
+    },
+    {
+     "question": "6 ÷ 6",
+     "answer": "1",
+     "options": [
+      "3",
+      "2",
+      "0",
+      "1"
+     ]
+    },
+    {
+     "question": "10 ÷ 2",
+     "answer": "5",
+     "options": [
+      "5",
+      "7",
+      "9",
+      "3"
+     ]
+    },
+    {
+     "question": "8 ÷ 2",
+     "answer": "4",
+     "options": [
+      "6",
+      "4",
+      "2",
+      "8"
+     ]
+    },
+    {
+     "question": "6÷3",
+     "answer": "2",
+     "options": [
+      "3",
+      "1",
+      "2",
+      "5"
+     ]
+    },
+    {
+     "question": "9÷3",
+     "answer": "3",
+     "options": [
+      "5",
+      "2",
+      "6",
+      "3"
+     ]
+    },
+    {
+     "question": "12÷2",
+     "answer": "6",
+     "options": [
+      "6",
+      "10",
+      "8",
+      "4"
+     ]
+    },
+    {
+     "question": "15÷3",
+     "answer": "5",
+     "options": [
+      "3",
+      "5",
+      "12",
+      "10"
+     ]
+    }
+   ],
+   "category": "math",
+   "description": "Pembagian dengan angka 1 digit",
+   "difficulty": "1/5",
+   "title": "Divisi 1",
+   "quizImage": "divisi1",
+   "name": "divisi1"
+  },
+  {
+   "array": [
+    {
+     "answer": "lucu",
+     "options": [
+      "lucu",
+      "aneh",
+      "menakutkan",
+      "buruk"
+     ],
+     "question": "Apa artinya kata 'funny'?"
+    },
+    {
+     "answer": "menakutkan",
+     "options": [
+      "sedih",
+      "buruk",
+      "menakutkan",
+      "terkejut"
+     ],
+     "question": "Apa artinya kata 'scary'"
+    },
+    {
+     "answer": "bersemangat",
+     "options": [
+      "bersemangat",
+      "penasaran",
+      "terkejut",
+      "frustasi"
+     ],
+     "question": "Apa artinya kata 'excited'"
+    },
+    {
+     "answer": "berpengetahuan luas",
+     "options": [
+      "kuat",
+      "terampil",
+      "pintar",
+      "berpengetahuan luas"
+     ],
+     "question": "Apa artinya kata 'knowledgeable'"
+    },
+    {
+     "answer": "pelit",
+     "options": [
+      "sombong",
+      "orang yang peduli",
+      "pelit",
+      "pembohong"
+     ],
+     "question": "Apa artinya kata 'selfish'"
+    },
+    {
+     "answer": "latihan",
+     "question": "Apa artinya kata 'exercise'",
+     "options": [
+      "lompat",
+      "latihan",
+      "main",
+      "lari"
+     ]
+    },
+    {
+     "answer": "rendah hati",
+     "question": "Apa artinya kata 'humble'",
+     "options": [
+      "baik",
+      "rendah hati",
+      "sombong",
+      "bosan"
+     ]
+    },
+    {
+     "answer": "susah",
+     "question": "Apa artinya kata 'difficult'",
+     "options": [
+      "mudah",
+      "mengantuk",
+      "melelahkan",
+      "susah"
+     ]
+    },
+    {
+     "answer": "kantor",
+     "question": "Apa artinya kata 'office'",
+     "options": [
+      "pasar",
+      "rumah sakit",
+      "sekolah",
+      "kantor"
+     ]
+    },
+    {
+     "answer": "pekerja keras",
+     "question": "Apa artinya kata 'hardworking'",
+     "options": [
+      "pemimpin",
+      "pemalas",
+      "pekerja keras",
+      "pendiam"
+     ]
+    },
+    {
+     "answer": "gampang",
+     "question": "Apa artinya kata 'easy'",
+     "options": [
+      "sulit",
+      "gampang",
+      "cepat",
+      "pelan"
+     ]
+    },
+    {
+     "answer": "ganteng",
+     "question": "Apa artinya kata 'handsome'",
+     "options": [
+      "ganteng",
+      "baik",
+      "enak",
+      "cantik"
+     ]
+    },
+    {
+     "answer": "cantik",
+     "question": "Apa artinya kata 'pretty'",
+     "options": [
+      "jahat",
+      "ganteng",
+      "cantik",
+      "enak"
+     ]
+    },
+    {
+     "answer": "sekolah",
+     "question": "Apa artinya kata 'school'",
+     "options": [
+      "kantor pos",
+      "restoran",
+      "rumah sakit",
+      "sekolah"
+     ]
+    },
+    {
+     "answer": "guru",
+     "question": "Apa artinya kata 'teacher'",
+     "options": [
+      "guru",
+      "murid",
+      "kepala sekolah",
+      "ilmuwan"
+     ]
+    },
+    {
+     "answer": "makanan",
+     "question": "Apa artinya kata 'food'",
+     "options": [
+      "makanan",
+      "minuman",
+      "tidur",
+      "bangun"
+     ]
+    },
+    {
+     "answer": "minuman",
+     "question": "Apa artinya kata 'drink'",
+     "options": [
+      "makanan",
+      "haus",
+      "lapar",
+      "minuman"
+     ]
+    },
+    {
+     "answer": "telat",
+     "question": "Apa artinya kata 'late'",
+     "options": [
+      "lama",
+      "terkejut",
+      "semangat",
+      "telat"
+     ]
+    },
+    {
+     "answer": "pagi",
+     "question": "Apa artinya kata 'morning'",
+     "options": [
+      "sore",
+      "pagi",
+      "malam",
+      "subuh"
+     ]
+    },
+    {
+     "answer": "malam",
+     "question": "Apa artinya kata 'night'",
+     "options": [
+      "malam",
+      "sore",
+      "pagi",
+      "subuh"
+     ]
+    }
+   ],
+   "category": "language",
+   "description": "Belajar kosakata bahasa Inggris!",
+   "difficulty": "2/5",
+   "title": "Kata Bahasa Inggris",
+   "quizImage": "img_katainggris",
+   "name": "katainggris"
+  },
+  {
+   "array": [
+    {
+     "answer": "apakah kamu tahu maksudku",
+     "options": [
+      "apakah kamu tahu maksudku?",
+      "apakah kamu suka ini?",
+      "apakah kamu sudah makan?",
+      "apakah kamu tidak suka ini?"
+     ],
+     "question": "Apa artinya 'Do you know what I mean'?"
+    },
+    {
+     "answer": "itu sangat menyenangkan",
+     "options": [
+      "itu sangat menyenangkan",
+      "itu sangat menyedihkan",
+      "itu sangat mengerikan",
+      "itu sangat mengejutkan"
+     ],
+     "question": "Apa artinya 'that was very fun'?"
+    },
+    {
+     "answer": "saya belajar banyak hari ini",
+     "options": [
+      "saya tidur banyak hari ini",
+      "saya makan banyak hari ini",
+      "saya belajar sedikit hari ini",
+      "saya belajar banyak hari ini"
+     ],
+     "question": "Apa artinya 'I learn alot today'?"
+    },
+    {
+     "answer": "ini harganya berapa?",
+     "options": [
+      "ini ada berapa?",
+      "ini beratnya berapa?",
+      "ini harganya berapa?",
+      "ini berapa lama?"
+     ],
+     "question": "Apa artinya 'how much is this'? "
+    },
+    {
+     "answer": "apa kabarmu",
+     "options": [
+      "pernahkah kita berbicara?",
+      "pernahkah kita bertemu?",
+      "apa kabarmu?",
+      "apa kamu suka ini?"
+     ],
+     "question": "Apa artinya 'how are you'?"
+    },
+    {
+     "answer": "senang bertemu dengan kamu",
+     "question": "Apa artinya 'nice to meet you'?",
+     "options": [
+      "senang berbicara dengan kamu",
+      "saya pernah ketemu kamu",
+      "senang bertemu dengan kamu",
+      "apakah kita pernah ketemu"
+     ]
+    },
+    {
+     "answer": "apakah kamu suka makan mie?",
+     "question": "do you like to eat noodle?",
+     "options": [
+      "apa pikiran kamu tentang ini?",
+      "apakah kamu suka ini?",
+      "apakah kamu tidak suka ini?",
+      "apa pikiran kamu tentang itu?"
+     ]
+    },
+    {
+     "answer": "kalau kamu butuh bantuan saya, kasih tahu saya",
+     "question": "Apa artinya 'if you need my help, let me know'?",
+     "options": [
+      "kalau kamu mau beli, kasih tahu saya",
+      "kalau kamu butuh bantuan saya, kasih tahu saya",
+      "kalau kamu tidak suka ini, kasih tahu saya",
+      "kalau kamu mau curhat, kasih tahu saya"
+     ]
+    },
+    {
+     "answer": "apakah kamu bisa bantu saya dengan ini",
+     "question": "Apa artinya 'can you help me with this'?",
+     "options": [
+      "apakah kamu punya waktu luang?",
+      "apakah kamu bisa bantu saya dengan ini?",
+      "boleh saya tanya sesuatu?",
+      "boleh saya minta sesuatu?"
+     ]
+    },
+    {
+     "answer": "bolehkah aku meminjam mainan kamu?",
+     "question": "Apa artinya 'can i borrow your toy'?",
+     "options": [
+      "kenapa aku tidak boleh pinjam mainan kamu?",
+      "kamu mau pinjam mainan aku?",
+      "kamu suka mainan aku?",
+      "bolehkah aku meminjam mainan kamu?"
+     ]
+    },
+    {
+     "answer": "selamat pagi",
+     "question": "Apa artinya 'good morning'",
+     "options": [
+      "selamat pagi",
+      "selamat sore",
+      "selamat malam",
+      "selamat tinggal"
+     ]
+    },
+    {
+     "answer": "besok saya ke sekolah",
+     "question": "Apa artinya 'tomorrow i go to school'?",
+     "options": [
+      "besok saya ke kantor",
+      "besok saya ke rumah teman",
+      "besok saya ke sekolah",
+      "hari ini saya ke sekolah"
+     ]
+    },
+    {
+     "answer": "aku mau makan apel",
+     "question": "Apa artinya 'i want to eat apple'?",
+     "options": [
+      "aku mau minum air",
+      "aku mau makan apel",
+      "aku mau minum",
+      "aku mau makan"
+     ]
+    },
+    {
+     "answer": "saya suka belajar",
+     "question": "Apa artinya 'i like to study'?",
+     "options": [
+      "saya suka belajar",
+      "saya akan belajar",
+      "saya tidak suka belajar",
+      "saya suka tidur"
+     ]
+    },
+    {
+     "answer": "kamu pekerja keras",
+     "question": "Apa artinya 'you are hardworking'?",
+     "options": [
+      "kamu senang",
+      "kamu baik",
+      "kamu malas",
+      "kamu pekerja keras"
+     ]
+    },
+    {
+     "answer": "saya harus pulang sekarang",
+     "question": "Apa artinya 'i need to go home'?",
+     "options": [
+      "saya harus pulang sekarang",
+      "saya harus tidur",
+      "saya harus makan",
+      "saya harus pergi kantor"
+     ]
+    },
+    {
+     "answer": "ini mahal",
+     "question": "Apa artinya 'this is expensive'?",
+     "options": [
+      "ini sulit",
+      "ini murah",
+      "ini mahal",
+      "ini gampang"
+     ]
+    },
+    {
+     "answer": "apakah kamu mau makan sesuatu",
+     "question": "Apa artinya 'do you want to eat anything'?",
+     "options": [
+      "apakah kamu mau pulang ke rumah",
+      "apakah kamu mau tidur",
+      "apakah kamu mau minum sesuatu",
+      "apakah kamu mau makan sesuatu"
+     ]
+    },
+    {
+     "answer": "apakah kamu baik-baik saja",
+     "question": "Apa artinya 'are you okay'?",
+     "options": [
+      "apakah kamu baik-baik saja",
+      "apakah kamu ngantuk",
+      "apakah kamu sakit",
+      "apakah kamu semangat"
+     ]
+    },
+    {
+     "answer": "aku suka kamu",
+     "question": "Apa artinya 'i like you'?",
+     "options": [
+      "aku suka belajar ",
+      "aku suka kamu",
+      "aku tidak suka kamu",
+      "aku tidak suka belajar"
+     ]
+    }
+   ],
+   "category": "language",
+   "description": "Belajar kalimat bahasa Inggris!",
+   "difficulty": "4/5",
+   "title": "Kalimat Bahasa Inggris",
+   "quizImage": "img_frasainggris",
+   "name": "frasainggris"
+  },
+  {
+   "array": [
+    {
+     "answer": "india",
+     "options": [
+      "india",
+      "iran",
+      "irlandia",
+      "islandia"
+     ],
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera1"
+    },
+    {
+     "answer": "singapura",
+     "options": [
+      "malaysia",
+      "singapura",
+      "indonesia",
+      "polandia"
+     ],
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera2"
+    },
+    {
+     "answer": "cina",
+     "options": [
+      "korea",
+      "jepang",
+      "cina",
+      "perancis"
+     ],
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera3"
+    },
+    {
+     "answer": "jerman",
+     "options": [
+      "italia",
+      "norwegia",
+      "jerman",
+      "swedia"
+     ],
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera4"
+    },
+    {
+     "answer": "pakistan",
+     "options": [
+      "iraq",
+      "afghanistan",
+      "pakistan",
+      "saudi arabia"
+     ],
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera5"
+    },
+    {
+     "answer": "amerika",
+     "question": "Bendera ini milik negara mana?",
+     "options": [
+      "amerika",
+      "malaysia",
+      "australia",
+      "kanada"
+     ],
+     "imagesrc": "bendera6"
+    },
+    {
+     "answer": "jepang",
+     "question": "Bendera ini milik negara mana?",
+     "options": [
+      "nepal",
+      "mongolia",
+      "korea",
+      "jepang"
+     ],
+     "imagesrc": "bendera7"
+    },
+    {
+     "answer": "monaco",
+     "question": "Bendera ini milik negara mana?",
+     "options": [
+      "indonesia",
+      "monaco",
+      "polandia",
+      "singapura"
+     ],
+     "imagesrc": "bendera8"
+    },
+    {
+     "answer": "polandia",
+     "question": "Bendera ini milik negara mana?",
+     "options": [
+      "perancis",
+      "polandia",
+      "indonesia",
+      "belanda"
+     ],
+     "imagesrc": "bendera9"
+    },
+    {
+     "answer": "malaysia",
+     "question": "Bendera ini milik negara mana?",
+     "options": [
+      "inggris",
+      "brunei",
+      "amerika",
+      "malaysia"
+     ],
+     "imagesrc": "bendera10"
+    },
+    {
+     "answer": "brazil",
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera11",
+     "options": [
+      "brazil",
+      "mexico",
+      "argentina",
+      "india"
+     ]
+    },
+    {
+     "answer": "korea selatan",
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera12",
+     "options": [
+      "cina",
+      "korea utara",
+      "jepang",
+      "korea selatan"
+     ]
+    },
+    {
+     "answer": "vietnam",
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera13",
+     "options": [
+      "thailand",
+      "cina",
+      "vietnam",
+      "turki"
+     ]
+    },
+    {
+     "answer": "filipina",
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera14",
+     "options": [
+      "perancis",
+      "filipina",
+      "rusia",
+      "taiwan"
+     ]
+    },
+    {
+     "answer": "mexico",
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera15",
+     "options": [
+      "pakistan",
+      "brazil",
+      "mexico",
+      "iraq"
+     ]
+    },
+    {
+     "answer": "israel",
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera16",
+     "options": [
+      "israel",
+      "spanyol",
+      "filipina",
+      "denmark"
+     ]
+    },
+    {
+     "answer": "turki",
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera17",
+     "options": [
+      "vietnam",
+      "turki",
+      "hong kong",
+      "cina"
+     ]
+    },
+    {
+     "answer": "saudi arabia",
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera18",
+     "options": [
+      "pakistan",
+      "italia",
+      "saudi arabia",
+      "india"
+     ]
+    },
+    {
+     "answer": "mesir",
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera19",
+     "options": [
+      "rusia",
+      "australia",
+      "jerman",
+      "mesir"
+     ]
+    },
+    {
+     "answer": "taiwan",
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera20",
+     "options": [
+      "taiwan",
+      "hong kong",
+      "singapura",
+      "indonesia"
+     ]
+    },
+    {
+     "answer": "selandia baru",
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera21",
+     "options": [
+      "australia",
+      "selandia baru",
+      "thailand",
+      "jepang"
+     ]
+    },
+    {
+     "answer": "hong kong",
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera22",
+     "options": [
+      "indonesia",
+      "turki",
+      "hong kong",
+      "polandia"
+     ]
+    },
+    {
+     "answer": "spanyol",
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera23",
+     "options": [
+      "jerman",
+      "palestina",
+      "rusia",
+      "spanyol"
+     ]
+    },
+    {
+     "answer": "rusia",
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera24",
+     "options": [
+      "rusia",
+      "filipina",
+      "israel",
+      "pakistan"
+     ]
+    },
+    {
+     "answer": "italia",
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera25",
+     "options": [
+      "jepang",
+      "italia",
+      "malaysia",
+      "india"
+     ]
+    },
+    {
+     "answer": "denmark",
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera26",
+     "options": [
+      "saudi arabia",
+      "ukraina",
+      "denmark",
+      "mexico"
+     ]
+    },
+    {
+     "answer": "palestina",
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera27",
+     "options": [
+      "bangladesh",
+      "cina",
+      "mesir",
+      "palestina"
+     ]
+    },
+    {
+     "answer": "perancis",
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera28",
+     "options": [
+      "perancis",
+      "amerika",
+      "kanada",
+      "belanda"
+     ]
+    },
+    {
+     "answer": "thailand",
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera29",
+     "options": [
+      "myanmar",
+      "thailand",
+      "malaysia",
+      "jerman"
+     ]
+    },
+    {
+     "answer": "australia",
+     "question": "Bendera ini milik negara mana?",
+     "imagesrc": "bendera30",
+     "options": [
+      "perancis",
+      "italia",
+      "australia",
+      "amerika"
+     ]
+    }
+   ],
+   "category": "miscellaneous",
+   "description": "Belajar tentang bendera negara-negara berbeda!",
+   "difficulty": "2/5",
+   "title": "Bendera Negara",
+   "quizImage": "bendera",
+   "name": "bendera"
+  },
+  {
+   "array": [
+    {
+     "answer": "pemadam api",
+     "options": [
+      "pemadam api",
+      "polisi",
+      "tentara",
+      "pilot"
+     ],
+     "question": "Apa pekerjaan ini?",
+     "imagesrc": "pekerjaan1"
+    },
+    {
+     "answer": "polisi",
+     "options": [
+      "dokter",
+      "tentara",
+      "polisi",
+      "pilot"
+     ],
+     "question": "Apa pekerjaan ini?",
+     "imagesrc": "pekerjaan2"
+    },
+    {
+     "answer": "dokter",
+     "options": [
+      "atlet",
+      "ilmuwan",
+      "guru",
+      "dokter"
+     ],
+     "question": "Apa pekerjaan ini?",
+     "imagesrc": "pekerjaan3"
+    },
+    {
+     "answer": "pekerja konstruksi",
+     "options": [
+      "sopir truk",
+      "pekerja konstruksi",
+      "ilmuwan",
+      "pembersih"
+     ],
+     "question": "Apa pekerjaan ini?",
+     "imagesrc": "pekerjaan4"
+    },
+    {
+     "answer": "atlet",
+     "options": [
+      "astronaut",
+      "tentara",
+      "pelatih",
+      "atlet"
+     ],
+     "question": "Apa pekerjaan ini?",
+     "imagesrc": "pekerjaan5"
+    },
+    {
+     "answer": "astronaut",
+     "question": "Apa pekerjaan ini?",
+     "options": [
+      "astronaut",
+      "pemadam api",
+      "koki",
+      "petani"
+     ],
+     "imagesrc": "pekerjaan6"
+    },
+    {
+     "answer": "perawat",
+     "question": "Apa pekerjaan ini?",
+     "options": [
+      "dokter",
+      "perawat",
+      "koki",
+      "pembersih"
+     ],
+     "imagesrc": "pekerjaan7"
+    },
+    {
+     "answer": "koki",
+     "question": "Apa pekerjaan ini?",
+     "options": [
+      "koki",
+      "tukang roti",
+      "pembersih",
+      "tukang kebun"
+     ],
+     "imagesrc": "pekerjaan8"
+    },
+    {
+     "answer": "pilot",
+     "question": "Apa pekerjaan ini?",
+     "options": [
+      "penulis",
+      "artis",
+      "pembalap",
+      "pilot"
+     ],
+     "imagesrc": "pekerjaan9"
+    },
+    {
+     "answer": "tentara",
+     "question": "Apa pekerjaan ini?",
+     "options": [
+      "polisi",
+      "tentara",
+      "tukang ledeng",
+      "ilmuwan"
+     ],
+     "imagesrc": "pekerjaan10"
+    },
+    {
+     "answer": "penyanyi",
+     "question": "Apa pekerjaan ini?\"",
+     "imagesrc": "pekerjaan11",
+     "options": [
+      "pemusik",
+      "penari",
+      "penyanyi",
+      "penulis"
+     ]
+    },
+    {
+     "answer": "pemusik",
+     "question": "Apa pekerjaan ini?\"",
+     "imagesrc": "pekerjaan12",
+     "options": [
+      "pemusik",
+      "penyanyi",
+      "penari",
+      "aktor"
+     ]
+    },
+    {
+     "answer": "dokter hewan",
+     "question": "Apa pekerjaan ini?\"",
+     "imagesrc": "pekerjaan13",
+     "options": [
+      "perawat",
+      "dokter hewan",
+      "penjaga",
+      "pembantu"
+     ]
+    },
+    {
+     "answer": "kasir",
+     "question": "Apa pekerjaan ini?\"",
+     "imagesrc": "pekerjaan14",
+     "options": [
+      "pembersih",
+      "koki",
+      "pelayan",
+      "kasir"
+     ]
+    },
+    {
+     "answer": "fotografer",
+     "question": "Apa pekerjaan ini?\"",
+     "imagesrc": "pekerjaan15",
+     "options": [
+      "atlet",
+      "pelayan",
+      "fotografer",
+      "tentara"
+     ]
+    },
+    {
+     "answer": "reporter berita",
+     "question": "Apa pekerjaan ini?\"",
+     "imagesrc": "pekerjaan16",
+     "options": [
+      "reporter berita",
+      "penyanyi",
+      "fotografer",
+      "polisi"
+     ]
+    },
+    {
+     "answer": "pelukis",
+     "question": "Apa pekerjaan ini?\"",
+     "imagesrc": "pekerjaan17",
+     "options": [
+      "tukang jahit",
+      "ilmuwan",
+      "aktor",
+      "pelukis"
+     ]
+    },
+    {
+     "answer": "tukang roti",
+     "question": "Apa pekerjaan ini?\"",
+     "imagesrc": "pekerjaan18",
+     "options": [
+      "pelayan",
+      "koki",
+      "tukang roti",
+      "pembantu"
+     ]
+    },
+    {
+     "answer": "sopir taksi",
+     "question": "Apa pekerjaan ini?\"",
+     "imagesrc": "pekerjaan19",
+     "options": [
+      "pembalap",
+      "sopir taksi",
+      "pelaut",
+      "sopir angkot"
+     ]
+    },
+    {
+     "answer": "penata rambut",
+     "question": "Apa pekerjaan ini?\"",
+     "imagesrc": "pekerjaan20",
+     "options": [
+      "tukang pijat",
+      "pembantu",
+      "penata rambut",
+      "sopir"
+     ]
+    }
+   ],
+   "category": "miscellaneous",
+   "description": "Belajar tentang pekerjaan berbeda!",
+   "difficulty": "1/5",
+   "title": "Pekerjaan",
+   "quizImage": "pekerjaan",
+   "name": "pekerjaan"
+  },
+  {
+   "array": [
+    {
+     "answer": "merah",
+     "options": [
+      "oranye",
+      "merah",
+      "pink",
+      "biru"
+     ],
+     "question": "Warna apa ini?",
+     "imagesrc": "warna1"
+    },
+    {
+     "answer": "oranye",
+     "options": [
+      "abu-abu",
+      "ungu",
+      "oranye",
+      "pink"
+     ],
+     "question": "Warna apa ini?",
+     "imagesrc": "warna2"
+    },
+    {
+     "answer": "pink",
+     "options": [
+      "pink",
+      "hijau",
+      "kuning",
+      "putih"
+     ],
+     "question": "Warna apa ini?",
+     "imagesrc": "warna3"
+    },
+    {
+     "answer": "kuning",
+     "options": [
+      "biru",
+      "cokelat",
+      "hitam",
+      "kuning"
+     ],
+     "question": "Warna apa ini?",
+     "imagesrc": "warna4"
+    },
+    {
+     "answer": "biru",
+     "options": [
+      "hijau",
+      "biru",
+      "pink",
+      "ungu"
+     ],
+     "question": "Warna apa ini?",
+     "imagesrc": "warna5"
+    },
+    {
+     "answer": "abu-abu",
+     "question": "Warna apa ini?",
+     "options": [
+      "cokelat",
+      "putih",
+      "abu-abu",
+      "hitam"
+     ],
+     "imagesrc": "warna6"
+    },
+    {
+     "answer": "ungu",
+     "question": "Warna apa ini?",
+     "options": [
+      "kuning",
+      "oranye",
+      "putih",
+      "ungu"
+     ],
+     "imagesrc": "warna7"
+    },
+    {
+     "answer": "cokelat",
+     "question": "Warna apa ini?",
+     "options": [
+      "cokelat",
+      "biru",
+      "hijau",
+      "hitam"
+     ],
+     "imagesrc": "warna8"
+    },
+    {
+     "answer": "hijau",
+     "question": "Warna apa ini?",
+     "options": [
+      "pink",
+      "hijau",
+      "kuning",
+      "merah"
+     ],
+     "imagesrc": "warna9"
+    },
+    {
+     "answer": "hitam",
+     "question": "Warna apa ini?",
+     "options": [
+      "abu-abu",
+      "hitam",
+      "putih",
+      "cyan"
+     ],
+     "imagesrc": "warna10"
+    }
+   ],
+   "category": "miscellaneous",
+   "description": "Belajar tentang warna berbeda!",
+   "difficulty": "1/5",
+   "title": "Warna",
+   "quizImage": "warna",
+   "name": "warna"
+  },
+  {
+   "array": [
+    {
+     "answer": "1",
+     "options": [
+      "3",
+      "1",
+      "2",
+      "4"
+     ],
+     "question": "Presiden Soekarno adalah presiden ke berapa Indonesia?"
+    },
+    {
+     "answer": "38",
+     "options": [
+      "38",
+      "40",
+      "27",
+      "32"
+     ],
+     "question": "Indonesia ada berapa provinsi?"
+    },
+    {
+     "answer": "719",
+     "options": [
+      "351",
+      "175",
+      "526",
+      "719"
+     ],
+     "question": "Berapa banyak bahasa yang digunakan di Indonesia?"
+    },
+    {
+     "answer": "merah adalah keberanian dan putih adalah kerohanian",
+     "options": [
+      "merah adalah darah dan putih adalah merpati",
+      "merah adalah perang dan putih adalah perdamaian",
+      "merah adalah daging badan dan putih adalah kemurnian",
+      "merah adalah keberanian dan putih adalah kerohanian"
+     ],
+     "question": "Apa arti warna merah putih pada bendera Indonesia?"
+    },
+    {
+     "answer": "jawa timur",
+     "options": [
+      "kalimantan",
+      "sulawesi",
+      "jawa",
+      "sumatera"
+     ],
+     "question": "Tradisi wayang berasal dari pulau mana?"
+    },
+    {
+     "answer": "17504",
+     "question": "Ada berapa pulau yang berada di Indonesia?",
+     "options": [
+      "8912",
+      "17504",
+      "13453",
+      "4760"
+     ]
+    },
+    {
+     "answer": "apa pikiran kamu tentang ini",
+     "question": "Tahun apa Indonesia menjadi negara merdeka? ",
+     "options": [
+      "1935",
+      "1948",
+      "1945",
+      "1957"
+     ]
+    },
+    {
+     "answer": "rafflesia",
+     "question": "Bunga ini hanya ditemukan di Indonesia, tapi namanya apa?",
+     "options": [
+      "rafflesia arnoldii",
+      "rafflesia anodii",
+      "campanula",
+      "rosa"
+     ],
+     "imagesrc": "rafflesia"
+    },
+    {
+     "answer": "apakah kamu bisa bantu saya dengan ini",
+     "question": "Apa nama lama Indonesia?",
+     "options": [
+      "west indie",
+      "nusantara",
+      "batavia",
+      "indos nesos"
+     ]
+    },
+    {
+     "answer": "komodo",
+     "question": "Binatang apa yang hanya ditemukan di Indonesia?",
+     "options": [
+      "musang",
+      "orangutan",
+      "merpati",
+      "komodo"
+     ]
+    }
+   ],
+   "category": "miscellaneous",
+   "description": "Belajar tentang fakta-fakta menarik Indonesia!",
+   "difficulty": "4/5",
+   "title": "Indonesia",
+   "quizImage": "indonesia",
+   "name": "indonesia"
+  },
+  {
+   "array": [
+    {
+     "answer": "kamera",
+     "options": [
+      "ponsel",
+      "kamera",
+      "pensil",
+      "penggaris"
+     ],
+     "question": "Apa benda ini?",
+     "imagesrc": "benda1"
+    },
+    {
+     "answer": "payung",
+     "options": [
+      "baju",
+      "sepatu",
+      "payung",
+      "celana"
+     ],
+     "question": "Apa benda ini?",
+     "imagesrc": "benda2"
+    },
+    {
+     "answer": "sepeda motor",
+     "options": [
+      "sepeda motor",
+      "sepeda",
+      "mobil",
+      "pesawat"
+     ],
+     "question": "Apa benda ini?",
+     "imagesrc": "benda3"
+    },
+    {
+     "answer": "piano",
+     "options": [
+      "drum",
+      "biola",
+      "terompet",
+      "piano"
+     ],
+     "question": "Apa benda ini?",
+     "imagesrc": "benda4"
+    },
+    {
+     "answer": "ransel",
+     "options": [
+      "bolpen",
+      "ransel",
+      "penghapus",
+      "piring"
+     ],
+     "question": "Apa benda ini?",
+     "imagesrc": "benda5"
+    },
+    {
+     "answer": "penggaris",
+     "question": "Apa benda ini?",
+     "options": [
+      "meja",
+      "buku",
+      "rautan",
+      "penggaris"
+     ],
+     "imagesrc": "benda6"
+    },
+    {
+     "answer": "kalkulator",
+     "question": "Apa benda ini?",
+     "options": [
+      "kalkulator",
+      "ponsel",
+      "komputer",
+      "televisi"
+     ],
+     "imagesrc": "benda7"
+    },
+    {
+     "answer": "penghapus",
+     "question": "Apa benda ini?",
+     "options": [
+      "sendok",
+      "gunting",
+      "penghapus",
+      "krayon"
+     ],
+     "imagesrc": "benda8"
+    },
+    {
+     "answer": "pin",
+     "question": "Apa benda ini?",
+     "options": [
+      "garpu",
+      "pin",
+      "botol",
+      "kursi"
+     ],
+     "imagesrc": "benda9"
+    },
+    {
+     "answer": "lampu",
+     "question": "Apa benda ini?",
+     "options": [
+      "lantai",
+      "ranjang",
+      "meja",
+      "lampu"
+     ],
+     "imagesrc": "benda10"
+    },
+    {
+     "answer": "jam",
+     "question": "Apa benda ini",
+     "imagesrc": "benda11",
+     "options": [
+      "jam tangan",
+      "jam",
+      "ponsel",
+      "komputer"
+     ]
+    },
+    {
+     "answer": "bola",
+     "question": "Apa benda ini",
+     "imagesrc": "benda12",
+     "options": [
+      "kelereng",
+      "bola",
+      "garpu",
+      "ranjang"
+     ]
+    },
+    {
+     "answer": "mesin cuci",
+     "question": "Apa benda ini",
+     "imagesrc": "benda13",
+     "options": [
+      "mesin cuci",
+      "komputer",
+      "kamera",
+      "pencetak"
+     ]
+    },
+    {
+     "answer": "topi",
+     "question": "Apa benda ini",
+     "imagesrc": "benda14",
+     "options": [
+      "celana",
+      "baju",
+      "kaca mata",
+      "topi"
+     ]
+    },
+    {
+     "answer": "sikat gigi",
+     "question": "Apa benda ini",
+     "imagesrc": "benda15",
+     "options": [
+      "obat kumur",
+      "pasta gigi",
+      "handuk",
+      "sikat gigi"
+     ]
+    },
+    {
+     "answer": "pesawat",
+     "question": "Apa benda ini",
+     "imagesrc": "benda16",
+     "options": [
+      "truk",
+      "mobil",
+      "pesawat",
+      "helikopter"
+     ]
+    },
+    {
+     "answer": "kipas",
+     "question": "Apa benda ini",
+     "imagesrc": "benda17",
+     "options": [
+      "freezer",
+      "lemari es",
+      "ac",
+      "kipas"
+     ]
+    },
+    {
+     "answer": "kereta",
+     "question": "Apa benda ini",
+     "imagesrc": "benda18",
+     "options": [
+      "kereta",
+      "mobil",
+      "truk",
+      "bis"
+     ]
+    },
+    {
+     "answer": "roda",
+     "question": "Apa benda ini",
+     "imagesrc": "benda19",
+     "options": [
+      "bensin",
+      "mesin",
+      "jendela",
+      "roda"
+     ]
+    },
+    {
+     "answer": "sabuk",
+     "question": "Apa benda ini",
+     "imagesrc": "benda20",
+     "options": [
+      "celana dalam",
+      "baju",
+      "sabuk",
+      "kaus kaki"
+     ]
+    },
+    {
+     "answer": "kunci",
+     "question": "Apa benda ini\"",
+     "imagesrc": "benda21",
+     "options": [
+      "pintu",
+      "kunci",
+      "stapler",
+      "pin"
+     ]
+    },
+    {
+     "answer": "sapu",
+     "question": "Apa benda ini\"",
+     "imagesrc": "benda22",
+     "options": [
+      "wajan",
+      "gantungan",
+      "keranjang",
+      "sapu"
+     ]
+    },
+    {
+     "answer": "gantungan",
+     "question": "Apa benda ini\"",
+     "imagesrc": "benda23",
+     "options": [
+      "gantungan",
+      "lemari",
+      "laci",
+      "tirai"
+     ]
+    },
+    {
+     "answer": "kloset duduk",
+     "question": "Apa benda ini\"",
+     "imagesrc": "benda24",
+     "options": [
+      "kursi",
+      "papan",
+      "kloset duduk",
+      "meja"
+     ]
+    },
+    {
+     "answer": "wajan",
+     "question": "Apa benda ini\"",
+     "imagesrc": "benda25",
+     "options": [
+      "wajan",
+      "celemek",
+      "gelas ukur",
+      "sendok"
+     ]
+    },
+    {
+     "answer": "pengki",
+     "question": "Apa benda ini\"",
+     "imagesrc": "benda26",
+     "options": [
+      "sarung tangan",
+      "sepon",
+      "sapu",
+      "pengki"
+     ]
+    },
+    {
+     "answer": "komputer",
+     "question": "Apa benda ini\"",
+     "imagesrc": "benda27",
+     "options": [
+      "televisi",
+      "ponsel",
+      "komputer",
+      "radio"
+     ]
+    },
+    {
+     "answer": "kursi",
+     "question": "Apa benda ini\"",
+     "imagesrc": "benda28",
+     "options": [
+      "meja",
+      "kursi",
+      "keranjang",
+      "pengepel"
+     ]
+    },
+    {
+     "answer": "meja",
+     "question": "Apa benda ini\"",
+     "imagesrc": "benda29",
+     "options": [
+      "rak buku",
+      "meja",
+      "kursi",
+      "sofa"
+     ]
+    },
+    {
+     "answer": "selotip",
+     "question": "Apa benda ini\"",
+     "imagesrc": "benda30",
+     "options": [
+      "lakban",
+      "selotip",
+      "lem",
+      "plastik"
+     ]
+    }
+   ],
+   "category": "miscellaneous",
+   "description": "Belajar tentang benda berbeda",
+   "difficulty": "2/5",
+   "title": "Benda",
+   "quizImage": "benda",
+   "name": "benda"
+  },
+  {
+   "array": [
+    {
+     "answer": "sikat gosok",
+     "options": [
+      "sikat gosok",
+      "kain lap",
+      "sikat wc",
+      "sikat gigi"
+     ],
+     "question": "Apa benda ini?",
+     "imagesrc": "bendabersih1"
+    },
+    {
+     "answer": "sarung tangan karet",
+     "options": [
+      "sarung tangan karet",
+      "sarung tangan plastik",
+      "keranjang cucian",
+      "sepon"
+     ],
+     "question": "Apa benda ini?",
+     "imagesrc": "bendabersih2"
+    },
+    {
+     "answer": "sepon",
+     "options": [
+      "handuk kertas",
+      "sepon",
+      "sikat gosok",
+      "pengki"
+     ],
+     "question": "Apa benda ini?",
+     "imagesrc": "bendabersih3"
+    },
+    {
+     "answer": "tong sampah",
+     "options": [
+      "wadah",
+      "tong sampah",
+      "tempat buang",
+      "sampah"
+     ],
+     "question": "Apa benda ini?",
+     "imagesrc": "bendabersih4"
+    },
+    {
+     "answer": "deterjen",
+     "options": [
+      "sabun tangan",
+      "sabun mandi",
+      "deterjen",
+      "cairan pembersih"
+     ],
+     "question": "Apa benda ini?",
+     "imagesrc": "bendabersih5"
+    },
+    {
+     "answer": "seterika",
+     "question": "Apa benda ini?",
+     "options": [
+      "ember",
+      "penyedot debu",
+      "seterika",
+      "tong sampah"
+     ],
+     "imagesrc": "bendabersih6"
+    },
+    {
+     "answer": "selang",
+     "question": "Apa benda ini?",
+     "options": [
+      "wastafel dapur",
+      "selang",
+      "keran",
+      "tanga langkah"
+     ],
+     "imagesrc": "bendabersih7"
+    },
+    {
+     "answer": "pembersih kaca",
+     "question": "Apa benda ini?",
+     "options": [
+      "penyedot debu",
+      "pembersih kaca",
+      "sapu",
+      "kemoceng"
+     ],
+     "imagesrc": "bendabersih8"
+    },
+    {
+     "answer": "cairan pembersih",
+     "question": "Apa benda ini?",
+     "options": [
+      "sampo",
+      "sabun tangan",
+      "cairan pembersih",
+      "pemutih"
+     ],
+     "imagesrc": "bendabersih9"
+    },
+    {
+     "answer": "penyedot debu",
+     "question": "Apa benda ini?",
+     "options": [
+      "ember",
+      "penyedot debu",
+      "mesin cuci",
+      "seterika"
+     ],
+     "imagesrc": "bendabersih10"
+    },
+    {
+     "answer": "sabun cair",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendabersih11",
+     "options": [
+      "deterjen",
+      "sabun tangan",
+      "sabun cair",
+      "sampo"
+     ]
+    },
+    {
+     "answer": "mesin cuci",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendabersih12",
+     "options": [
+      "mesin cuci",
+      "pencetak",
+      "lemari es",
+      "freezer"
+     ]
+    },
+    {
+     "answer": "pengki",
+     "question": "Apa benda ini?",
+     "imagesrc": "benda26",
+     "options": [
+      "sikat wc",
+      "kemoceng",
+      "sapu",
+      "pengki"
+     ]
+    },
+    {
+     "answer": "sapu",
+     "question": "Apa benda ini?",
+     "imagesrc": "benda22",
+     "options": [
+      "pengki",
+      "sikat wc",
+      "sapu",
+      "kain lap"
+     ]
+    },
+    {
+     "answer": "kemoceng",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendabersih14",
+     "options": [
+      "sepon",
+      "kemoceng",
+      "seterika",
+      "pembersih kaca"
+     ]
+    },
+    {
+     "answer": "sikat wc",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendabersih15",
+     "options": [
+      "sikat gosok",
+      "sepon",
+      "sikat wc",
+      "kain lap"
+     ]
+    },
+    {
+     "answer": "ember",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendabersih16",
+     "options": [
+      "ember",
+      "rol serat",
+      "selang",
+      "papan setrika"
+     ]
+    },
+    {
+     "answer": "papan seterika",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendabersih17",
+     "options": [
+      "tempat sampah",
+      "keran",
+      "papan seterika",
+      "penyedot debu"
+     ]
+    },
+    {
+     "answer": "kain lap",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendabersih18",
+     "options": [
+      "pemutih",
+      "kain debu",
+      "sikat wc",
+      "kain lap"
+     ]
+    },
+    {
+     "answer": "handuk kertas",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendabersih19",
+     "options": [
+      "handuk",
+      "handuk kertas",
+      "kertas",
+      "handuk plastik"
+     ]
+    },
+    {
+     "answer": "tangga langkah",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendabersih20",
+     "options": [
+      "tangga langkah",
+      "tangga",
+      "lemari",
+      "laci"
+     ]
+    }
+   ],
+   "category": "miscellaneous",
+   "description": "Belajar tentang benda pembersihan",
+   "difficulty": "3/5",
+   "title": "Benda Pembersihan",
+   "quizImage": "bendabersih",
+   "name": "bendabersih"
+  },
+  {
+   "array": [
+    {
+     "answer": "celemek",
+     "options": [
+      "celemek",
+      "serbet",
+      "tisyu",
+      "taplak meja"
+     ],
+     "question": "Apa benda ini?",
+     "imagesrc": "bendamasak1"
+    },
+    {
+     "answer": "gelas ukur",
+     "options": [
+      "teko",
+      "cangkir",
+      "gelas ukur",
+      "mangkuk"
+     ],
+     "question": "Apa benda ini?",
+     "imagesrc": "bendamasak2"
+    },
+    {
+     "answer": "pengatur waktu",
+     "options": [
+      "jam",
+      "pengatur waktu",
+      "jam alarm",
+      "kompor"
+     ],
+     "question": "Apa benda ini?",
+     "imagesrc": "bendamasak3"
+    },
+    {
+     "answer": "talenan",
+     "options": [
+      "penggilas adonan",
+      "talenan",
+      "baki",
+      "wajan"
+     ],
+     "question": "Apa benda ini?",
+     "imagesrc": "bendamasak4"
+    },
+    {
+     "answer": "wajan",
+     "options": [
+      "piring",
+      "mangkok",
+      "panci",
+      "wajan"
+     ],
+     "question": "Apa benda ini?",
+     "imagesrc": "benda25"
+    },
+    {
+     "answer": "parutan",
+     "question": "Apa benda ini?",
+     "options": [
+      "parutan",
+      "pembuka botol",
+      "alat pengupas",
+      "saringan"
+     ],
+     "imagesrc": "bendamasak6"
+    },
+    {
+     "answer": "sarung tangan oven",
+     "question": "Apa benda ini?",
+     "options": [
+      "handuk dapur",
+      "stoples",
+      "sarung tangan plastik",
+      "sarung tangan oven"
+     ],
+     "imagesrc": "bendamasak7"
+    },
+    {
+     "answer": "serbet",
+     "question": "Apa benda ini?",
+     "options": [
+      "handuk dapur",
+      "serbet",
+      "tisyu",
+      "handuk kertas"
+     ],
+     "imagesrc": "bendamasak8"
+    },
+    {
+     "answer": "piring",
+     "question": "Apa benda ini?",
+     "options": [
+      "sendok",
+      "gelas",
+      "piring",
+      "garpu"
+     ],
+     "imagesrc": "bendamasak9"
+    },
+    {
+     "answer": "sumpit",
+     "question": "Apa benda ini?",
+     "options": [
+      "garpu",
+      "alat pengupas",
+      "sumpit",
+      "gunting"
+     ],
+     "imagesrc": "bendamasak10"
+    },
+    {
+     "answer": "mangkuk",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendamasak11",
+     "options": [
+      "ketel",
+      "piring",
+      "gunting",
+      "mangkuk"
+     ]
+    },
+    {
+     "answer": "sendok takar",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendamasak12",
+     "options": [
+      "pengaduk",
+      "sendok",
+      "sendok takar",
+      "kendi"
+     ]
+    },
+    {
+     "answer": "sendok kayu",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendamasak13",
+     "options": [
+      "sendok kayu",
+      "pengaduk",
+      "sendok takar",
+      "garpu"
+     ]
+    },
+    {
+     "answer": "saringan",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendamasak14",
+     "options": [
+      "pembuat jus",
+      "corong",
+      "saringan",
+      "panci"
+     ]
+    },
+    {
+     "answer": "sendok",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendamasak15",
+     "options": [
+      "pisau",
+      "sendok",
+      "garpu",
+      "sendok besar"
+     ]
+    },
+    {
+     "answer": "sudip",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendamasak16",
+     "options": [
+      "kotrek",
+      "pengaduk",
+      "stoples",
+      "sudip"
+     ]
+    },
+    {
+     "answer": "saring",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendamasak17",
+     "options": [
+      "alat pengupas",
+      "alu",
+      "saring",
+      "pemotong kue"
+     ]
+    },
+    {
+     "answer": "sendok besar",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendamasak18",
+     "options": [
+      "sendok besar",
+      "sendok kayu",
+      "sendok",
+      "sendok kuah"
+     ]
+    },
+    {
+     "answer": "kompor",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendamasak19",
+     "options": [
+      "pemanggang roti",
+      "kompor",
+      "panci",
+      "wok"
+     ]
+    },
+    {
+     "answer": "panci",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendamasak20",
+     "options": [
+      "penanak nasi",
+      "panci",
+      "kompor",
+      "tungku"
+     ]
+    },
+    {
+     "answer": "pisau koki",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendamasak21",
+     "options": [
+      "pisau koki",
+      "pisau",
+      "sudip",
+      "saringan"
+     ]
+    },
+    {
+     "answer": "kujang",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendamasak22",
+     "options": [
+      "sumpit",
+      "pisau koki",
+      "kujang",
+      "garpu"
+     ]
+    },
+    {
+     "answer": "penggilas adonan",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendamasak23",
+     "options": [
+      "penggilas adonan",
+      "panci presto",
+      "pengaduk adonan",
+      "serbet"
+     ]
+    },
+    {
+     "answer": "pengaduk adonan",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendamasak24",
+     "options": [
+      "sumpit",
+      "penggilas adonan",
+      "pengaduk",
+      "pengaduk adonan"
+     ]
+    },
+    {
+     "answer": "alat pengupas",
+     "question": "Apa benda ini?",
+     "imagesrc": "bendamasak25",
+     "options": [
+      "panci presto",
+      "serbet",
+      "alat pengupas",
+      "alu"
+     ]
+    }
+   ],
+   "category": "miscellaneous",
+   "description": "Belajar tentang benda masak berbeda",
+   "difficulty": "3/5",
+   "title": "Benda Masak",
+   "quizImage": "bendamasak",
+   "name": "bendamasak"
+  },
+  {
+   "array": [
+    {
+     "answer": "apel",
+     "options": [
+      "jeruk",
+      "apel",
+      "pir",
+      "anggur"
+     ],
+     "question": "Apa buah ini?",
+     "imagesrc": "buah1"
+    },
+    {
+     "answer": "jeruk",
+     "options": [
+      "jeruk nipis",
+      "jeruk",
+      "lemon",
+      "pir"
+     ],
+     "question": "Apa buah ini?",
+     "imagesrc": "buah2"
+    },
+    {
+     "answer": "pir",
+     "options": [
+      "anggur",
+      "melon",
+      "pir",
+      "stroberi"
+     ],
+     "question": "Apa buah ini?",
+     "imagesrc": "buah3"
+    },
+    {
+     "answer": "stroberi",
+     "options": [
+      "stroberi",
+      "blueberry",
+      "ceri",
+      "blackberry"
+     ],
+     "question": "Apa buah ini?",
+     "imagesrc": "buah4"
+    },
+    {
+     "answer": "anggur",
+     "options": [
+      "blackberry",
+      "ceri",
+      "stroberi",
+      "anggur"
+     ],
+     "question": "Apa buah ini?",
+     "imagesrc": "buah5"
+    },
+    {
+     "answer": "melon",
+     "question": "Apa buah ini?",
+     "options": [
+      "melon",
+      "papaya",
+      "mangga",
+      "nanas"
+     ],
+     "imagesrc": "buah6"
+    },
+    {
+     "answer": "pisang",
+     "question": "Apa buah ini?",
+     "options": [
+      "nanas",
+      "nangka",
+      "pisang",
+      "lemon"
+     ],
+     "imagesrc": "buah7"
+    },
+    {
+     "answer": "nanas",
+     "question": "Apa buah ini?",
+     "options": [
+      "nangka",
+      "guava",
+      "alpukat",
+      "nanas"
+     ],
+     "imagesrc": "buah8"
+    },
+    {
+     "answer": "semangka",
+     "question": "Apa buah ini?",
+     "options": [
+      "semangka",
+      "buah naga",
+      "semangka",
+      "kiwi"
+     ],
+     "imagesrc": "buah9"
+    },
+    {
+     "answer": "pepaya",
+     "question": "Apa buah ini?",
+     "options": [
+      "alpukat",
+      "manggis",
+      "jeruk nipis",
+      "pepaya"
+     ],
+     "imagesrc": "buah10"
+    },
+    {
+     "answer": "buah naga",
+     "question": "Apa buah ini?",
+     "imagesrc": "buah11",
+     "options": [
+      "aprikot",
+      "buah naga",
+      "leci",
+      "lengkeng"
+     ]
+    },
+    {
+     "answer": "kiwi",
+     "question": "Apa buah ini?",
+     "imagesrc": "buah12",
+     "options": [
+      "kiwi",
+      "cranberi",
+      "papaya",
+      "mangga"
+     ]
+    },
+    {
+     "answer": "ceri",
+     "question": "Apa buah ini?",
+     "imagesrc": "buah13",
+     "options": [
+      "lengkeng",
+      "leci",
+      "ceri",
+      "prem"
+     ]
+    },
+    {
+     "answer": "rambutan",
+     "question": "Apa buah ini?",
+     "imagesrc": "buah14",
+     "options": [
+      "nanas",
+      "markisa",
+      "durian",
+      "rambutan"
+     ]
+    },
+    {
+     "answer": "durian",
+     "question": "Apa buah ini?",
+     "imagesrc": "buah15",
+     "options": [
+      "guava",
+      "durian",
+      "rambutan",
+      "prem"
+     ]
+    },
+    {
+     "answer": "belimbing wuluh",
+     "question": "Apa buah ini?",
+     "imagesrc": "buah16",
+     "options": [
+      "belimbing wuluh",
+      "manggis",
+      "markisa",
+      "kelapa"
+     ]
+    },
+    {
+     "answer": "leci",
+     "question": "Apa buah ini?",
+     "imagesrc": "buah17",
+     "options": [
+      "belimbing wuluh",
+      "buah naga",
+      "leci",
+      "kiwi"
+     ]
+    },
+    {
+     "answer": "lemon",
+     "question": "Apa buah ini?",
+     "imagesrc": "buah18",
+     "options": [
+      "jeruk",
+      "lemon",
+      "lengkeng",
+      "jeruk nipis"
+     ]
+    },
+    {
+     "answer": "blueberry",
+     "question": "Apa buah ini?",
+     "imagesrc": "buah19",
+     "options": [
+      "blackberry",
+      "blueberry",
+      "stroberi",
+      "cranberi"
+     ]
+    },
+    {
+     "answer": "markisa",
+     "question": "Apa buah ini?",
+     "imagesrc": "buah20",
+     "options": [
+      "manggis",
+      "markisa",
+      "aprikot",
+      "apel"
+     ]
+    },
+    {
+     "answer": "kelapa",
+     "question": "Apa buah ini?",
+     "imagesrc": "buah21",
+     "options": [
+      "kelapa",
+      "kiwi",
+      "rambutan",
+      "pepaya"
+     ]
+    },
+    {
+     "answer": "lengkeng",
+     "question": "Apa buah ini?",
+     "imagesrc": "buah22",
+     "options": [
+      "kesemak",
+      "pir",
+      "leci",
+      "lengkeng"
+     ]
+    },
+    {
+     "answer": "jambu biji",
+     "question": "Apa buah ini?",
+     "imagesrc": "buah23",
+     "options": [
+      "jambu biji",
+      "nangka",
+      "persik",
+      "prem"
+     ]
+    },
+    {
+     "answer": "delima",
+     "question": "Apa buah ini?",
+     "imagesrc": "buah24",
+     "options": [
+      "labu kuning",
+      "murbai",
+      "kurma",
+      "delima"
+     ]
+    },
+    {
+     "answer": "manggis",
+     "question": "Apa buah ini?",
+     "imagesrc": "buah25",
+     "options": [
+      "jeruk",
+      "manggis",
+      "semangka",
+      "labu kuning"
+     ]
+    },
+    {
+     "answer": "jeruk nipis",
+     "question": "Apa buah ini?",
+     "imagesrc": "buah26",
+     "options": [
+      "pir",
+      "persik",
+      "jeruk nipis",
+      "jeruk"
+     ]
+    },
+    {
+     "answer": "labu kuning",
+     "question": "Apa buah ini?",
+     "imagesrc": "buah27",
+     "options": [
+      "labu kuning",
+      "jeruk",
+      "pepaya",
+      "mangga"
+     ]
+    },
+    {
+     "answer": "mangga",
+     "question": "Apa buah ini?",
+     "imagesrc": "buah28",
+     "options": [
+      "kelapa",
+      "melon",
+      "pepaya",
+      "mangga"
+     ]
+    }
+   ],
+   "category": "miscellaneous",
+   "description": "Belajar tentang buah berbeda",
+   "difficulty": "3/5",
+   "title": "Buah",
+   "quizImage": "buah",
+   "name": "buah"
+  },
+  {
+   "array": [
+    {
+     "answer": "brokoli",
+     "options": [
+      "bayam",
+      "pakcoy",
+      "kembang kol",
+      "brokoli"
+     ],
+     "question": "Ini sayur apa?",
+     "imagesrc": "sayur1"
+    },
+    {
+     "answer": "terung",
+     "options": [
+      "timun",
+      "lobak",
+      "terung",
+      "lobak pedas"
+     ],
+     "question": "Ini sayur apa?",
+     "imagesrc": "sayur2"
+    },
+    {
+     "answer": "kubis",
+     "options": [
+      "pakcoy",
+      "kubis",
+      "timun",
+      "bayam"
+     ],
+     "question": "Ini sayur apa?",
+     "imagesrc": "sayur3"
+    },
+    {
+     "answer": "bawang",
+     "options": [
+      "bawang",
+      "ercis",
+      "ubi",
+      "tomat"
+     ],
+     "question": "Ini sayur apa?",
+     "imagesrc": "sayur4"
+    },
+    {
+     "answer": "tomat",
+     "options": [
+      "wortel",
+      "tomat",
+      "bawang perai",
+      "bawang"
+     ],
+     "question": "Ini sayur apa?",
+     "imagesrc": "sayur5"
+    },
+    {
+     "answer": "ubi",
+     "question": "Ini sayur apa?",
+     "options": [
+      "jahe",
+      "bit",
+      "kentang",
+      "ubi"
+     ],
+     "imagesrc": "sayur6"
+    },
+    {
+     "answer": "wortel",
+     "question": "Ini sayur apa?",
+     "options": [
+      "jahe",
+      "wortel",
+      "ubi",
+      "kentang"
+     ],
+     "imagesrc": "sayur7"
+    },
+    {
+     "answer": "ercis",
+     "question": "Ini sayur apa?",
+     "options": [
+      "selada",
+      "ercis",
+      "bawang perai",
+      "pakcoy"
+     ],
+     "imagesrc": "sayur8"
+    },
+    {
+     "answer": "pakcoy",
+     "question": "Ini sayur apa?",
+     "options": [
+      "pakcoy",
+      "selada",
+      "ketumbar",
+      "timun"
+     ],
+     "imagesrc": "sayur9"
+    },
+    {
+     "answer": "kentang",
+     "question": "Ini sayur apa?",
+     "options": [
+      "jahe",
+      "ubi",
+      "kentang",
+      "kembang kol"
+     ],
+     "imagesrc": "sayur10"
+    },
+    {
+     "answer": "jamur",
+     "question": "Ini sayur apa?",
+     "imagesrc": "sayur11",
+     "options": [
+      "brokoli",
+      "jagung",
+      "jamur",
+      "wortel"
+     ]
+    },
+    {
+     "answer": "kembang kol",
+     "question": "Ini sayur apa?",
+     "imagesrc": "sayur12",
+     "options": [
+      "kembang kol",
+      "bayam",
+      "brokoli",
+      "kubis"
+     ]
+    },
+    {
+     "answer": "bit",
+     "question": "Ini sayur apa?",
+     "imagesrc": "sayur13",
+     "options": [
+      "selada air",
+      "wortel",
+      "tomat",
+      "bit"
+     ]
+    },
+    {
+     "answer": "jagung",
+     "question": "Ini sayur apa?",
+     "imagesrc": "sayur14",
+     "options": [
+      "jamur",
+      "bawang",
+      "jagung",
+      "lobak"
+     ]
+    },
+    {
+     "answer": "timun",
+     "question": "Ini sayur apa?",
+     "imagesrc": "sayur15",
+     "options": [
+      "timun",
+      "peterseli",
+      "bayam",
+      "seledri"
+     ]
+    },
+    {
+     "answer": "jahe",
+     "question": "Ini sayur apa?",
+     "imagesrc": "sayur16",
+     "options": [
+      "kembang kol",
+      "jahe",
+      "timun",
+      "ketumbar"
+     ]
+    },
+    {
+     "answer": "bawang perai",
+     "question": "Ini sayur apa?",
+     "imagesrc": "sayur17",
+     "options": [
+      "bawang",
+      "daun kemangi",
+      "bawang perai",
+      "daun mint"
+     ]
+    },
+    {
+     "answer": "lobak pedas",
+     "question": "Ini sayur apa?",
+     "imagesrc": "sayur18",
+     "options": [
+      "lobak pedas",
+      "lobak",
+      "kentang",
+      "ubi"
+     ]
+    },
+    {
+     "answer": "seledri",
+     "question": "Ini sayur apa?",
+     "imagesrc": "sayur19",
+     "options": [
+      "wortel",
+      "bit",
+      "ketumbar",
+      "seledri"
+     ]
+    },
+    {
+     "answer": "bayam",
+     "question": "Ini sayur apa?",
+     "imagesrc": "sayur20",
+     "options": [
+      "bayam",
+      "selada",
+      "sawi",
+      "sawi putih"
+     ]
+    },
+    {
+     "answer": "lobak",
+     "question": "Ini sayur apa?",
+     "imagesrc": "sayur21",
+     "options": [
+      "selada",
+      "lobak pedas",
+      "bawang",
+      "lobak"
+     ]
+    },
+    {
+     "answer": "ketumbar",
+     "question": "Ini sayur apa?",
+     "imagesrc": "sayur22",
+     "options": [
+      "ketumbar",
+      "peterseli",
+      "articok",
+      "brokoli"
+     ]
+    },
+    {
+     "answer": "selada",
+     "question": "Ini sayur apa?",
+     "imagesrc": "sayur23",
+     "options": [
+      "kubis",
+      "selada",
+      "pakcoy",
+      "ketumbar"
+     ]
+    },
+    {
+     "answer": "sawi",
+     "question": "Ini sayur apa?",
+     "imagesrc": "sayur24",
+     "options": [
+      "bawang",
+      "asparagus",
+      "sawi",
+      "sawi putih"
+     ]
+    }
+   ],
+   "category": "miscellaneous",
+   "description": "Belajar tentang sayuran berbeda!",
+   "difficulty": "3/5",
+   "title": "Sayuran",
+   "quizImage": "sayur",
+   "name": "sayuran"
+  }
+ ],
+ "facts": {
+  "binatang": [
+   {
+    "image": "faktakucing",
+    "title": "Fakta Kucing",
+    "link_name": "fakta-kucing",
+    "factsarr": [
+     [
+      "Kucing salah satu mamalia yang tidak mencicipi rasa manis",
+      "faktakucing1"
+     ],
+     [
+      "Kucing bisa lompat setinggi 6 kali panjang mereka",
+      "faktakucing2"
+     ],
+     [
+      "Kucing bisa bermimpi saat tidur",
+      "faktakucing3"
+     ],
+     [
+      "Kucing berkeringat melalui cakarnya",
+      "faktakucing4"
+     ],
+     [
+      "Kucing jarang mengeong satu sama lain, dan hanya kepada manusia, Terhadap kucing lain mereka lebih pakai aroma,  bahasa tubuh atau komunikasi vokal seperti  menggeram ",
+      "faktakucing5"
+     ],
+     [
+      "Kucing bisa membuat lebih dari 100 suara berbeda",
+      "faktakucing6"
+     ],
+     [
+      "Kucing menggosok kepalanya ke tubuh pemilik nya sebagai tanda kasih sayang dan  untuk menjadikan anda sebagai wilayah mereka",
+      "faktakucing7"
+     ],
+     [
+      "Kucing bisa memutar kuping mereka 180 derajat",
+      "faktakucing8"
+     ],
+     [
+      "Kucing mempunyai indra penciuman yang sangat bagus, sekitar 14 kali lebih kuat daripada manusia ",
+      "faktakucing9"
+     ],
+     [
+      "Dengkuran kucing membuat getaran yang membantu meningkatkan pertumbuhan dan perbaikan  tulang ",
+      "faktakucing10"
+     ],
+     [
+      "Badan kucing diciptakan untuk hidup di gurun, seperti bulu tebal mereka yang membantu mengisolasinya dari panas dan kencing yang mengandung sangat sedikit air untuk  melestarikan air",
+      "faktakucing11"
+     ],
+     [
+      "Kucing memiliki rasa keseimbangan yang tajam karena ekor panjang yang membantu menjaga stabilitas saat pergerakan mereka dan telinga bagian dalam  yang membantu deteksi perubahan posisi dan  gerakan",
+      "faktakucing12"
+     ]
+    ]
+   },
+   {
+    "image": "faktakeren",
+    "title": "Fakta Keren Binatang!",
+    "link_name": "fakta-keren",
+    "factsarr": [
+     [
+      "Berang-berang berpegangan saat tidur agar tidak hanyut",
+      "faktakeren1"
+     ],
+     [
+      "Hanya burung kolibri bisa terbang mundur",
+      "faktakeren2"
+     ],
+     [
+      "Udang pistol bisa membuat suara yang lebih kencang dari pistol dan membuat suhu setinggi 4,400 derajat celsius saat menutup cakarnya dengan sangat cepat",
+      "faktakeren3"
+     ],
+     [
+      "Flamingo lahir warna abu-abu tapi karena makanan mereka berupa udang air asin dan ganggang biru hijau yang mengandung pewarna merah muda alami yaitu \"canthaxanthin\", ini membuat bulu mereka menjadi warna merah muda",
+      "faktakeren4"
+     ],
+     [
+      "Untuk setiap manusia, berada 1 miliar kali lebih banyak serangga",
+      "faktakeren5"
+     ],
+     [
+      "Hewan dengan hidup terpendek di dunia adalah lalat capung yang hanya hidup 24 jam seluruh hidup dewasanya",
+      "faktakeren6"
+     ],
+     [
+      "Kadal bertanduk bisa menembak darah dari mata sendiri untuk membingungkan predator",
+      "faktakeren7"
+     ],
+     [
+      "Ayam jantan melindungi dirinya sendiri dari suara kokoknya dengan memiringkan kepala ke belakang saat berkokok. Ini menutupi saluran telinga sepenuhnya ",
+      "faktakeren8"
+     ],
+     [
+      "Burung swift bisa terbang di udara tanpa henti selama satu tahun penuh, tanpa pernah mendarat",
+      "faktakeren9"
+     ],
+     [
+      "Kecoa bisa hidup selama seminggu tanpa kepala",
+      "faktakeren10"
+     ],
+     [
+      "Lidah paus biru bisa seberat mobil",
+      "faktakeren11"
+     ],
+     [
+      "Axolotl mampu meregenerasi anggota tubuh yang hilang hingga 5 kali, dan juga organ tubuh",
+      "faktakeren12"
+     ],
+     [
+      "Oktopus punya 9 otak dan 3 hati",
+      "faktakeren13"
+     ],
+     [
+      "Kuda laut jantan bisa berhamil dan melahirkan bayi. Mereka adalah satu-satunya hewan yang jantannya mengandung bayinya, bukan betinanya",
+      "faktakeren14"
+     ],
+     [
+      "Kelinci ekor putih yang bisa melompat setinggi 6,4m secara vertikal",
+      "faktakeren15"
+     ],
+     [
+      "Tendangan burung unta bisa membunuh singa",
+      "faktakeren16"
+     ],
+     [
+      "Trengiling raksasa makan sebanyak 35,000 semut dan rayap dalam satu hari",
+      "faktakeren17"
+     ],
+     [
+      "Manusia bisa mencium bau nya sigung sejauh 5.6km",
+      "faktakeren18"
+     ],
+     [
+      "Hanya 5 persen anak citah bertahan hidup hingga dewasa",
+      "faktakeren19"
+     ],
+     [
+      "Sidik jari koala hampir mirip dengan manusia punya, bahkan di bawah mikroskop tetap sulit untuk membedakannya ",
+      "faktakeren20"
+     ],
+     [
+      "Semut drakula memiliki pergerakan hewan tercepat di dunia saat menutupi rahang bawah, yang dapat melaju dari nol hingga 322km/jam dalam 0,000015 detik",
+      "faktakeren21"
+     ],
+     [
+      "Kepiting kacang menghabiskan seluruh hidupnya di dalam tiram, kerang, dan remis",
+      "faktakeren22"
+     ],
+     [
+      "Capung tidak bisa berjalan meski mempunyai enam kaki",
+      "faktakeren24"
+     ],
+     [
+      "Hanya nyamuk betina yang menggigit kita",
+      "faktakeren23"
+     ],
+     [
+      "Hati udang ada di kepalanya. Udang tidak memiliki arteri sehingga organ-organnya hanya melayang-layang di dalam darah",
+      "faktaaneh6"
+     ],
+     [
+      "Dengan memperlambat detak jantungnya, sloth bisa menahan nafas selama 40 menit!",
+      "faktaaneh7"
+     ],
+     [
+      "Detak jantung paus biru dapat dideteksi hingga jarak 3km. Berat hati mereka sekitar 181kg",
+      "faktaaneh8"
+     ],
+     [
+      "Jerapah di alam liar hanya tidur sekitar lima menit setiap kalinya dan sambil berdiri karena bahaya yang mereka hadapi di alam liar ",
+      "faktaaneh10"
+     ],
+     [
+      "Gigitan beruang grizzly cukup kuat untuk menghancurkan bola bowling",
+      "faktaaneh12"
+     ],
+     [
+      "Untuk melindungi diri dari kecupan super kuat, burung pelatuk melingkarkan lidahnya di sekitar otaknya.",
+      "faktaaneh13"
+     ],
+     [
+      "Jerapah jantan akan mencicipi air seni jerapah betina untuk mengetahui apakah ia siap kawin.",
+      "faktaaneh14"
+     ],
+     [
+      "Kuda dan sapi bisa tidur sambil berdiri",
+      "faktaanehdua1"
+     ],
+     [
+      "Kanguru tidak bisa berjalan mundur",
+      "faktaanehdua2"
+     ],
+     [
+      "Bintang laut tidak punya otak",
+      "faktaanehdua6"
+     ],
+     [
+      "Satu-satunya mamalia yang tidak bisa melompat adalah gajah",
+      "faktaanehdua7"
+     ],
+     [
+      "Hiu tidak memiliki tulang di tubuhnya",
+      "faktaanehdua8"
+     ],
+     [
+      "Babi tidak bisa melihat ke langit.",
+      "faktaanehdua9"
+     ],
+     [
+      "Mata burung unta lebih besar dari otaknya",
+      "faktaanehdua10"
+     ],
+     [
+      "Anjing laut liar adalah satu-satunya hewan yang bisa bertepuk tangan",
+      "faktaanehdua11"
+     ],
+     [
+      "Siput bisa tidur hingga 3 tahun",
+      "faktaanehdua12"
+     ],
+     [
+      "Sutra jaring laba-laba lebih kuat dari baja",
+      "faktaanehdua14"
+     ]
+    ]
+   },
+   {
+    "image": "faktaamfibi",
+    "title": "Fakta Amfibi",
+    "link_name": "fakta-amfibi",
+    "factsarr": [
+     [
+      "Jenis amfibi termasuk katak, kodok, salamander dan kadal air",
+      "faktaamfibi1"
+     ],
+     [
+      "Amfibi bisa nafas dan menyerap air melalui kulit yang sangat tipis mereka",
+      "faktaamfibi2"
+     ],
+     [
+      "Amfibi butuh air atau lingkungan lembab untuk bertahan hidup",
+      "faktaamfibi3"
+     ],
+     [
+      "Amfibi yang hidup paling lama adalah salamander raksasa",
+      "faktaamfibi4"
+     ],
+     [
+      "Amfibi terbesar adalah salamander raksasa, yang beranjang 1.4 meter",
+      "faktaamfibi5"
+     ],
+     [
+      "Amfibi terkecil adalah katak New Guinea Amau yang berpanjang 7.7mm",
+      "faktaamfibi6"
+     ],
+     [
+      "Amfibi yang berwarna warni adalah yang paling beracun untuk memperingatkan predator",
+      "faktaamfibi7"
+     ],
+     [
+      "Hampir semua amfibi mengalami proses metamorfosis yang berarti mereka berubah bentuk dari telur ke larvae ke dewasa. Pada tahap larvae mereka tinggal di air, setelah tumbuh kaki dan paru-paru mereka menjadi dewasa dan tinggal di darat",
+      "faktaamfibi8"
+     ],
+     [
+      "Mereka berdarah dingin yang berarti suhu dalam badan nya ganti tergantung lingkungan",
+      "faktaamfibi9"
+     ],
+     [
+      "Karena kulit spesial mereka, mereka membutuhkan kondisi kehidupan yang sangat spesifik, dan terlalu banyak matahari bisa merusak sel mereka dan terlalu banyak angin bisa mengeringkan kulit dan membuat mereka dehidrasi",
+      "faktaamfibi10"
+     ]
+    ]
+   },
+   {
+    "image": "faktaikan",
+    "title": "Fakta Ikan",
+    "link_name": "fakta-ikan",
+    "factsarr": [
+     [
+      "Ikan menggunakan insang untuk bernapas. Saat ikan buka mulut, air mengalir diatas insang dan darah di kapiler mengambil oksigen yang dilarutkan dalam air",
+      "faktaikan1"
+     ],
+     [
+      "Ikan terbesar di dunia adalah hiu paus yang bisa sepanjang 10 meter dan punya berat badan sekitar 15,000 kg",
+      "faktaikan2"
+     ],
+     [
+      "Ikan yang terkecil di dunia adalah Paedocypris progenetica yang ditemukan di Sumatra! Mereka memiliki panjang sekitar 7,9mm",
+      "faktaikan3"
+     ],
+     [
+      "Kebanyakan ikan bisa melihat warna lebih kaya daripada manusia, mereka adalah tetrakromatik",
+      "faktaikan4"
+     ],
+     [
+      "Ikan adalah binatang tertua di dunia dan mereka sudah ada lama sebelum ada dinosaurus",
+      "faktaikan5"
+     ],
+     [
+      "Ikan berdarah dingin jadi suhu dalam badan mereka tergantung lingkungan",
+      "faktaikan6"
+     ],
+     [
+      "Ikan terdalam yang ditemukan adalah ikan siput, yang ditemukan sedalam 8,336 meter",
+      "faktaikan7"
+     ],
+     [
+      "Beberapa ikan melacak mangsa dengan mengangkap sinyal listrik dalam air seperti ikan hiu, ikan lele dan lebih",
+      "faktaikan8"
+     ],
+     [
+      "Ikan bisa nafas dalam air karena kebanyak oksigen dalam laut di produksi oleh plankton, tanaman yang melayang, ganggang dan beberapa bakteri",
+      "faktaikan9"
+     ],
+     [
+      "Ada 2 jenis ikan, yang tinggal dalam air asin seperti ikan matahari dan yang tinggal dalam air tawar seperti ikan tombak",
+      "faktaikan10"
+     ]
+    ]
+   },
+   {
+    "image": "faktareptil",
+    "title": "Fakta Reptil",
+    "link_name": "fakta-reptil",
+    "factsarr": [
+     [
+      "Reptil punya kulit spesial yang terbuat dari skala, plat tulang atau kombinasi keduanya",
+      "faktareptil1"
+     ],
+     [
+      "setiap reptil secara teratur melepaskan lapisan luar kulit mereka",
+      "faktareptil2"
+     ],
+     [
+      "Mereka berdarah dingin jadi suhu mereka tergantung lingkungan mereka",
+      "faktareptil3"
+     ],
+     [
+      "Tanpa bulu untuk insulasi, mereka tidak bisa tetap hangat saat lingkungan dingin dan tanpa kelenjar keringat mereka tidak bisa turunkan suhu dalam badan saat lingkungan panas. Karena ini mereka gerak terhadap matahari saat dingin atau terhadap naungan saat panas",
+      "faktareptil4"
+     ],
+     [
+      "Hanya ular boa dan piton melahirkan tanpa bertelur. Jenis lain bertelur di dalam sarang dan meninggalkan",
+      "faktareptil5"
+     ],
+     [
+      "Untuk beberapa reptil, kelamin ditentukan oleh suhu lingkungan saat perkembangan embrio dalam telur",
+      "faktareptil6"
+     ],
+     [
+      "Reptil terbesar adalah buaya air asin. Komodo adalah kadal terbesar tapi bukan reptil terbesar",
+      "faktareptil7"
+     ],
+     [
+      "Reptil terkecil adalah bunglon nano, yang sebesar biji bunga matahari",
+      "faktareptil8"
+     ],
+     [
+      "Banyak reptil tidak mengunyah makanan tetapi menelannya utuh. Karena ini, proses pencernaan mereka lebih pelan",
+      "faktareptil9"
+     ],
+     [
+      "Penyu menyerap oksigen dari air melalui pantatnya saat hibernasi",
+      "faktareptil10"
+     ]
+    ]
+   },
+   {
+    "image": "faktaburung",
+    "title": "Fakta Burung",
+    "link_name": "fakta-burung",
+    "factsarr": [
+     [
+      "Burung flamingo hanya bisa makan ketika kepalanya terbalik",
+      "faktaburung1"
+     ],
+     [
+      "Burung keturunan dari reptil",
+      "faktaburung2"
+     ],
+     [
+      "Burung unta punya telur yang paling besar, yang beratnya bisa mencapai 1.5 kilogram",
+      "faktaburung3"
+     ],
+     [
+      "Burung yang paling kecil di dunia adalah burung kolibri, dan mereka mempunyai telur yang paling kecil yang seukuran kacang polong",
+      "faktaburung4"
+     ],
+     [
+      "Denyut jantung burung bisa mencapai 1200 denyut per menit saat terbang tergantung pada jenis burung dan suhu",
+      "faktaburung5"
+     ],
+     [
+      "Hanya ada satu burung beracun yang berada di Papua, New Guinea. Racun nya ditemukan di kulit dan bulu nya",
+      "faktaburung6"
+     ],
+     [
+      "Elang peregrine adalah burung tercepat di dunia, yang bisa mencapai 389km/jam saat terjun. Burung tercepat saat penerbangan tingkat adalah Common Swift, yang mencapai 169km/h",
+      "faktaburung7"
+     ],
+     [
+      "Burung puffin bisa 'terbang' dalam air",
+      "faktaburung8"
+     ],
+     [
+      "Elang laut bisa tidur saat terbang dan biasanya tidur saat terbang 40km/jam",
+      "faktaburung9"
+     ],
+     [
+      "Burung elang tidak bisa gerak mata nya tapi bisa memutar kepalanya 270 derajat",
+      "faktaburung10"
+     ],
+     [
+      "Burung pelatuk bisa mematuk 20 kali per detik",
+      "faktaburung11"
+     ]
+    ]
+   },
+   {
+    "image": "faktaanjing",
+    "title": "Fakta Anjing",
+    "link_name": "fakta-anjing",
+    "factsarr": [
+     [
+      "Cetakan hidung anjing itu unik, sama dengan sidik jari manusia",
+      "faktaanjing1"
+     ],
+     [
+      "Anjing bisa bermimpi, dan ini lebih umum dengan anjing muda dan anjing tua",
+      "faktaanjing2"
+     ],
+     [
+      "Hidung anjing memiliki 300 juta reseptor dibanding manusia yang mempunyai sekitar 5 juta",
+      "faktaanjing3"
+     ],
+     [
+      "Hidung anjing bisa merasakan panas dan radiasi termal, karena ini anjing buta atau tuli masih bisa berburu",
+      "faktaanjing4"
+     ],
+     [
+      "Suara menguap manusia bisa memicu suara menguap dari anjing juga! Ini 4 kali lebih mungkin terjadi  jika  dari orang yang dikenal anjing nya",
+      "faktaanjing5"
+     ],
+     [
+      "Anjing meringkuk saat tidur untuk melindungi organ tubuh mereka dari predator. Ini adalah keturunan dari jaman mereka di alam liar",
+      "faktaanjing6"
+     ],
+     [
+      "Tekanan darah anjing turun saat di mengelus",
+      "faktaanjing7"
+     ],
+     [
+      "Anjing hanya bisa melihat warna kuning dan biru",
+      "faktaanjing8"
+     ],
+     [
+      "Anjing dalmatian lahir putih dan bintik-bintik hitam dikembangkan saat bertumbuh",
+      "faktaanjing9"
+     ],
+     [
+      "Anjing punya sekitar 1700 kuncup pengecap dibanding manusia yang punya antara 2000 dan 10000",
+      "faktaanjing10"
+     ],
+     [
+      "Anjing tendang ke belakang setelah buang air besar/kecil untuk menandai wilayahnya menggunakan kelenjar aroma di kakinya",
+      "faktaanjing11"
+     ],
+     [
+      "Penelitian menunjukkan bahwa anjing termasuk di antara kelompok kecil hewan yang  menunjukkan kebaikan terhadap orang lain tanpa imbalan apa pun",
+      "faktaanjing12"
+     ]
+    ]
+   },
+   {
+    "image": "binatangindo",
+    "title": "Binatang Indonesia",
+    "link_name": "binatang-indo",
+    "factsarr": [
+     [
+      "Komodo - Mereka berbisa! Mereka makan hampir semua jenis daging dari hewan pengerat kecil hingga kerbau besar. Anak-anaknya  terutama memakan kadal kecil  dan serangga, ular dan burung",
+      "binatangindo1"
+     ],
+     [
+      "Maleo - Ketika telur Maleo menetas di bawah tanah, anak nya harus menggali jalan keluar   yang bisa sepanjang satu meter ke permukaan. Mereka makan  kacang, buah, biji-bijian, siput, serangga  dan invertebrata lain.",
+      "binatangindo2"
+     ],
+     [
+      "Macaca Nigra - Mereka hanya ditemukan di wilayah Minahasa di pulau Sulawesi dan sekitar pulau Bacan. Mereka makan buah dan hidup berkelompok  yang terdiri dari 5-25  monyet, dan terkadang menyampai 75!",
+      "binatangindo3"
+     ],
+     [
+      "Harimau Sumatera - Kurang dari 600 ekor harimau sumatera masih tersisa di alam liar. Mereka biasanya berburu babi hutan dan rusa tetapi akan  berburu mangsa lain kalau bisa",
+      "binatangindo4"
+     ],
+     [
+      "Badak Jawa - Hanya ada sekitar 76 ekor di dunia. Mereka hanya makan tanaman  dan hidup sendiri kecuali saat berpasangan atau  menjaga anak ",
+      "binatangindo5"
+     ],
+     [
+      "Krabuku Kerdil - Mereka hanya makan artropoda  seperti laba-laba, kumbang, rayap, semut, ulat dan lebih. Mereka punya mata ",
+      "binatangindo6"
+     ],
+     [
+      "Gajah Borneo - Mereka lebih kecil dari gajah lain. Mereka makan akar, rumput, daun, pisang dan tebu.",
+      "binatangindo7"
+     ],
+     [
+      "Orangutan Sumatera - Mereka hidup di antara perpohonan hampir sehidup. Betina tidak pernah turun pohon dan jantan sangan jarang turun. Mereka biasanya makan buah, serangga  dan kadang-kadang telur burung atau vertebrata kecil.",
+      "binatangindo8"
+     ],
+     [
+      "Jalak Bali - Mereka makan serangga dan terkadang makan cacing, reptil kecil dan buah.",
+      "binatangindo9"
+     ],
+     [
+      "Siamang Jawa - Mereka punya lengan dan jari panjang yang membantu mereka mengayunkan dahan. Mereka omnivora dan memakan buah, daun dan terkadang nektar  serta belatung",
+      "binatangindo10"
+     ],
+     [
+      "Kakatua Putih - Mereka biasanya membangun sarang di lubang pohon yang sangat besar dan tinggi. Makanan mereka termasuk kacang-kacangan, biji-bijian dan buah-buahan seperti durian, rambutan, pepaya dan langsat. Saat bersarang mereka juga makan serangga.",
+      "binatangindo11"
+     ],
+     [
+      "Cenderawasih Botak - Jantan biasanya menari dalam sebuah ritual saat merayu betina dan sebelum mulai dia biasanya membersihkan tanah dari daun dan benda lain yang bisa menghindari tarian nya. Mereka biasanya makan buah dan beberapa serangga kecil.",
+      "binatangindo12"
+     ],
+     [
+      "Anoa - Mereka adalah hewan soliter dan biasanya tinggal sendiri atau berpasangan. Mereka sulit dilihat karena sering tersembunyi. Mereka biasanya makan rumput, daun dan buah.",
+      "binatangindo13"
+     ],
+     [
+      "Babirusa - Mereka memiliki gading atau gigi taring yang bertumbuh hingga menembus kulit di moncongnya dan melengkung terhadap arah dahi. Untuk jantan, ini tidak pernah berhenti bertumbuh dan harus dipatahkan saat bertarung dengan jantan lain. Mereka biasanya makan daun, buah, kacang, jamur, kulit kayu, serangga, ikan dan mamalia kecil termausk babirusa kecil!",
+      "binatangindo14"
+     ],
+     [
+      "Macan Dahan Sunda - Mereka aktif di malam hari dan adalah hewan soliter dan sangat teritorial. Jantan biasanya punya wilayah lebih besar dari betina. Mereka makan hewan karnivora dan biasanya makan hewan pengerat, kumbang, kadal, ular, katak dan terkadang juga makan amfibi, tokek dan burung kecil.",
+      "binatangindo15"
+     ]
+    ]
+   },
+   {
+    "image": "faktamamalia",
+    "title": "Fakta Mamalia",
+    "link_name": "fakta-mamalia",
+    "factsarr": [
+     [
+      "Mereka ditutupi rambut atau bulu",
+      "faktamamalia1"
+     ],
+     [
+      "Mereka berdarah panas yang berarti suhu dalam tubuh mereka tidak ganti terlepas dari kondisi eksternal",
+      "faktamamalia2"
+     ],
+     [
+      "Mereka bertumbuh di dalam rahim ibu nya sebelum lahir, berkisar antara 13 hingga 210 hari",
+      "faktamamalia3"
+     ],
+     [
+      "Setelah lahir bayi nya diberi susu yang diproduksi oleh kelenjar susu ibunya",
+      "faktamamalia4"
+     ],
+     [
+      "Otak mereka lebih besar dan kompleks daripada binatang lain",
+      "faktamamalia5"
+     ],
+     [
+      "Mereka punya kelenjar keringat",
+      "faktamamalia6"
+     ],
+     [
+      "Mereka bernafas melalui paru-paru",
+      "faktamamalia7"
+     ],
+     [
+      "Pada umumnya mereka punya pendengeran yang baik",
+      "faktamamalia8"
+     ],
+     [
+      "Beberapa mamalia bisa bertelur dan mereka dipanggil 'viviparous', seperti platypus dan beberapa jenis echidna",
+      "faktamamalia9"
+     ],
+     [
+      "Mereka adalah heterodon, yang artinya mereka punya tipe gigi berbeda",
+      "faktamamalia10"
+     ]
+    ]
+   },
+   {
+    "image": "faktainvertebrata",
+    "title": "Fakta Invertebrata",
+    "link_name": "fakta-invertebrata",
+    "factsarr": [
+     [
+      "Invertebrata adalah binatang yang tidak ada tulang punggung atau kerangka tulang",
+      "invertebrata1"
+     ],
+     [
+      "Invertebrata ada 6 grup utama yaitu: artropoda (serangga, laba-laba dan krustasea seperti kepiting), cnidaria (ubur-ubur, karang, anemon laut), echinodermata (bintang laut, teripang, bulu babi), moluska (siput, cumi-cumi, gurita), cacing tersegmentasi (cacing tanah, lintah) dan spons",
+      "invertebrata2"
+     ],
+     [
+      "Invertebrata adalah grup terbesar di dunia hewan, sekitar 97 persen. Kebanyakan invertebrata adalah serangga",
+      "invertebrata3"
+     ],
+     [
+      "Pada umumnya, invertebrata bereproduksi dengat sangat cepat",
+      "invertebrata4"
+     ],
+     [
+      "Serangga adalah invertebrata yang paling sukses karena mereka mudah beradaptasi. Serangga bisa makan makan hewan, tanaman, bahan organik membusuk. Mereka juga bisa hidup dalam lingkungan yang sangat panas dan kering, dan terbang untuk menghindari predator atau cari makanan, air dan tempat tinggal baru",
+      "invertebrata5"
+     ],
+     [
+      "Invertebrata terbesar adalah cumi-cumi raksasa",
+      "invertebrata6"
+     ],
+     [
+      "Invertebrata terkecil adalah miksozoa, parasit yang berpanjang sekitar 8.5 nanometer saat dewasa",
+      "invertebrata7"
+     ]
+    ]
+   }
+  ],
+  "angkasa": [
+   {
+    "image": "sun",
+    "title": "Fakta Matahari",
+    "link_name": "matahari",
+    "factsarr": [
+     [
+      "Matahari berusia sekitar 4,6 miliar tahun",
+      "sun1"
+     ],
+     [
+      "Suhu di dalam Matahari mencapai 15 juta°C",
+      "sun2"
+     ],
+     [
+      "Terkadang, gas di permukaan Matahari meletus dan menyebar jauh. Ini disebut sebagai  jilatan api matahari, yang bisa mengganggu satelit dan membuat telepon, televisi dan benda elektronik lain tidak berfungsi",
+      "sun3"
+     ],
+     [
+      "Cahaya Matahari mencapai bumi dalam 8 menit",
+      "sun4"
+     ],
+     [
+      "Setiap planet di Tata Surya mengorbit Matahari",
+      "sun5"
+     ],
+     [
+      "Matahari terbuat dari 74% hidrogen dan 24% helium, jadi Matahari hanya terbuat dari gas",
+      ""
+     ],
+     [
+      "Tanpa Matahari, binatang, manusia dan tanaman tidak bisa hidup. Bumi akan menjadi sangat dingin untuk binatang dan manusia, dan tanaman butuh Matahari untuk membuat makanan mereka",
+      "sun7"
+     ],
+     [
+      "Gerhana Matahari disebabkan karena Bulan berada di tengah-tengah Bumi dan Matahari",
+      "sun8"
+     ],
+     [
+      "Lebih dari satu juta Bumi bisa muat di dalam Matahari",
+      "sun9"
+     ],
+     [
+      "Karena gravitasi Matahari, planet kita terus berputar di dalam tata surya",
+      "sun10"
+     ],
+     [
+      "Bahan bakar Matahari yaitu hidrogen akan habis suatu saat yang akan membuat Matahari padam. Tapi ini tidak akan terjadi dalam 5 miliar tahun berikutnya",
+      ""
+     ]
+    ]
+   },
+   {
+    "image": "earth",
+    "title": "Fakta Bumi",
+    "link_name": "bumi",
+    "factsarr": [
+     [
+      "Bumi adalah planet ketiga dari matahari di tata surya kita",
+      "planets"
+     ],
+     [
+      "Bumi berumur sekitar 4,5 miliar tahun",
+      ""
+     ],
+     [
+      "Atmosfer bumi terdiri dari 78 persen nitrogen, 21 persen oksigen, dan 1 persen bahan lainnya. Ini sangat sempurna untuk  menunjang hidup",
+      "earth3"
+     ],
+     [
+      "Bumi tidak memiliki cincin seperti beberapa planet lain",
+      ""
+     ],
+     [
+      "Atmosfer Bumi melindungi kita dari meteoroid yang masuk, yang sebagian besar terurai di atmosfer sebelum mencapai permukaan",
+      "earthatmosphere"
+     ],
+     [
+      "Bumi adalah planet terestrial yang artinya sebagian besar terbuat dari batu-batuan ",
+      "earthmodel"
+     ],
+     [
+      "Air menutupi 70% permukaan bumi",
+      "earth6"
+     ],
+     [
+      "Ini adalah satu-satunya planet di tata surya yang  mendukung kehidupan",
+      ""
+     ],
+     [
+      "Bumi adalah satu-satunya planet yang hanya memiliki satu bulan",
+      "earth8"
+     ]
+    ]
+   },
+   {
+    "image": "milkyway",
+    "title": "Fakta Bima Sakti",
+    "link_name": "bima-sakti",
+    "factsarr": [
+     [
+      "Bima Sakti adalah sebuah galaksi. Galaksi adalah sekumpulan besar bintang (seperti matahari) dan planet yang berkumpul di ruang angkasa",
+      "bimasakti1"
+     ],
+     [
+      "Bima Sakti berisi ratusan miliar bintang seperti matahari kita, dan setiap bintang memiliki setidaknya satu planet yang mengorbitnya",
+      "milkywaydepiction"
+     ],
+     [
+      "Bumi terletak sekitar setengah jalan antara pusat Bima Sakti dan tepi luarnya",
+      "bimasakti3"
+     ],
+     [
+      "Galaksi Andromeda adalah galaksi terdekat dengan Bima Sakti, dengan jarak sekitar dua juta tahun cahaya (satu tahun cahaya adalah jarak yang ditempuh cahaya dalam satu tahun bumi)",
+      "bimasakti4"
+     ],
+     [
+      "Bima Sakti berumur 13,6 miliar tahun",
+      ""
+     ],
+     [
+      "Bumi berjarak 26.000 tahun cahaya dari pusat bima sakti",
+      "earthmilkyway"
+     ],
+     [
+      "Kamu bisa melihat bagian dari Bima Sakti pada malam yang cerah dari Bumi.",
+      "bimasakti7"
+     ],
+     [
+      "Bima Sakti terbuat dari 10-15% debu dan gas, sisanya berupa bintang",
+      ""
+     ],
+     [
+      "Di tengah Bima Sakti ada lubang hitam",
+      "lubanghitam6"
+     ],
+     [
+      "Ilmuwan memperkirakan bahwa Bima Sakti berumur 13,6 miliar tahun, hampir seumur dengan alam semesta yang berumur 13,7 miliar tahun",
+      ""
+     ]
+    ]
+   },
+   {
+    "image": "comet",
+    "title": "Fakta Komet",
+    "link_name": "komet",
+    "factsarr": [
+     [
+      "Komet adalah benda besar yang terbuat dari debu dan es dan mengorbit matahari ",
+      "komet1"
+     ],
+     [
+      "Mereka adalah sisa-sisa pembentukan tata surya kita",
+      ""
+     ],
+     [
+      "Komet berasal dari Kuiper belt diluar orbit Neptunus dan lainnya berasal dari wilayah yang lebih jauh yang dikenal sebagai Awan Oort",
+      "komet3"
+     ],
+     [
+      "Saat komet mendekati matahari, es dan debu mendidih dari pusatnya yang cair—yang disebut nukleus—untuk membentuk atmosfer yang disebut koma. Sinar matahari “meniupkan” gas dan debu dari koma ini untuk menciptakan ekor yang indah",
+      "komet4"
+     ]
+    ]
+   },
+   {
+    "image": "venus",
+    "title": "Fakta Venus",
+    "link_name": "venus",
+    "factsarr": [
+     [
+      "Venus adalah planet terpanas di Tata Surya dengan suhu permukaan 462° C. Ini   karena Venus  memiliki atmosfer yang tebal. Ini memerangkap panas dan membuat Venus sangat panas",
+      "venus1"
+     ],
+     [
+      "Venus adalah planet terdekat kedua dengan matahari",
+      "planets"
+     ],
+     [
+      "Venus adalah planet kebumian yang artinya planet ini terbuat dari batu-batuan",
+      "venus3"
+     ],
+     [
+      "Satu hari di Venus sama dengan 243 hari di Bumi, dan satu tahun di Venus adalah 225 hari di Bumi. Jadi satu tahun lebih pendek dari satu hari di Venus!",
+      ""
+     ],
+     [
+      "Dengan teknologi saat ini, kita akan membutuhkan 6 bulan untuk melakukan  perjalanan ke Venus",
+      "venera"
+     ],
+     [
+      "Venus tidak punya bulan",
+      ""
+     ],
+     [
+      "Venus hanya sedikit lebih kecil dari Bumi",
+      "venus"
+     ],
+     [
+      "Gravitasi permukaan di Venus hanya 91%  dari gravitasi permukaan di Bumi. Jadi jika berat kamu 100kg di Bumi, berat kamu hanya 91kg di Merkurius",
+      ""
+     ],
+     [
+      "Venus memilih gunung berapi terbanyak dibandingkan planet lain di  Tata Surya  yang kebanyakan tertidur",
+      "venus9"
+     ]
+    ]
+   },
+   {
+    "image": "saturn",
+    "title": "Fakta Saturnus",
+    "link_name": "saturnus",
+    "factsarr": [
+     [
+      "Saturnus adalah raksasa gas seperti Jupiter. Sebagian besar planet ini terbuat dari hidrogen dan helium",
+      "saturn1"
+     ],
+     [
+      "Saturnus memiliki tujuh cincin utama dengan jarak di antara keduanya. Mereka terbuat dari bongkahan es dan batu",
+      "saturn2"
+     ],
+     [
+      "Saturnus memiliki atmosfer yang tebal. ",
+      "saturn3"
+     ],
+     [
+      "Satu hari di Saturn adalah 10.7 jam. Satu tahun di Saturn adalah 29 tahun di Bumi",
+      ""
+     ],
+     [
+      "Pada 8 Juni 2023, Saturnus memiliki 146 bulan.",
+      "saturn5"
+     ],
+     [
+      "Saturnus adalah planet keenam dari Matahari, setelah Jupiter  dan sebelum Uranus",
+      "planets"
+     ],
+     [
+      "Suhu permukaan di Saturnus sekitar -178° C.",
+      "saturntemperature"
+     ],
+     [
+      "Dengan teknologi saat ini, kita membutuhkan 3 tahun untuk melakukan perjalanan ke Saturnus",
+      "cassinisaturn"
+     ],
+     [
+      "Jika berat kamu 100kg di Bumi, maka berat kamu di Saturnus adalah 107kg",
+      ""
+     ]
+    ]
+   },
+   {
+    "image": "neptune",
+    "title": "Fakta Neptunus",
+    "link_name": "neptunus",
+    "factsarr": [
+     [
+      "Neptunus gelap, dingin, dan sangat berangin\n\n",
+      "neptunus1"
+     ],
+     [
+      "Neptunus adalah planet terjauh dari matahari di Tata Surya, setelah Uranus. Neptunus sekitar 30 kali lebih jauh dari Matahari dibanding Bumi",
+      "planets"
+     ],
+     [
+      "Neptunus memiliki enam cincin yang sangat sulit dilihat",
+      ""
+     ],
+     [
+      "Neptunus, seperti Uranus, adalah raksasa es.  Planet ini terbuat dari sup kental air, amonia, dan metana yang mengalir di atas inti padat seukuran Bumi",
+      "neptunus4"
+     ],
+     [
+      "Neptunus memiliki atmosfer yang tebal dan berangin",
+      "neptuneatmosphere"
+     ],
+     [
+      "Satu hari di Neptunus adalah 16 jam. Satu tahun di Neptunus adalah 165 tahun di Bumi",
+      ""
+     ],
+     [
+      "Neptunus memiliki 16 bulan",
+      "neptunemoon"
+     ],
+     [
+      "Suhu permukaan di Neptunus sekitar -214° C",
+      "neptunus8"
+     ],
+     [
+      "Dengan teknologi saat ini, kita membutuhkan 12 tahun untuk melakukan perjalanan ke Neptunus",
+      "voyager2neptune"
+     ],
+     [
+      "Jika berat kamu 100kg di Bumi, makan berat kamu di Neptunus adalah 114kg",
+      ""
+     ]
+    ]
+   },
+   {
+    "image": "mercury",
+    "title": "Fakta Merkurius",
+    "link_name": "merkurius",
+    "factsarr": [
+     [
+      "Merkurius adalah planet terdekat dengan Matahari",
+      "mercury1"
+     ],
+     [
+      "Ini adalah planet terpanas kedua di Tata Surya",
+      "mercuryheat"
+     ],
+     [
+      "Ini adalah planet terkecil di Tata Surya",
+      "mercuryearth"
+     ],
+     [
+      "Ini adalah planet berbatu seperti Bumi dengan permukaan yang terlihat seperti Bulan",
+      "mercury"
+     ],
+     [
+      "Satu hari di Merkurius sama dengan 59 hari di Bumi",
+      ""
+     ],
+     [
+      "Satu tahun di Merkurius hanya 88 hari Bumi karena sangat dekat dengan matahari  sehingga tidak membutuhkan waktu lama untuk mengorbit matahari",
+      ""
+     ],
+     [
+      "Nama Merkurius diambil dari nama Dewa Romawi yang adalah utusan Dewa-Dewa lain",
+      "mercury7"
+     ],
+     [
+      "Meskipun jarak nya sangat dekat dengan Matahari, permukaan Merkurius mempunyai lapisan es karena beberapa bagian  nya menerima sangat sedikit sinar matahari langsung dan tetap berada dalam kegelapan",
+      "mercury8"
+     ],
+     [
+      "Gravitasi permukaan di Merkurius hanya 38%  dari gravitasi permukaan di Bumi. Jadi jika berat kamu 100kg di Bumi, berat kamu hanya 38kg di Merkurius",
+      ""
+     ],
+     [
+      "Dengan teknologi saat ini, kita akan membutuhkan 4 tahun untuk melakukan perjalanan ke Merkurius",
+      "mercuryrocket"
+     ],
+     [
+      "Suhu permukaan Merkurius adalah 117° C",
+      "mercury11"
+     ]
+    ]
+   },
+   {
+    "image": "pluto",
+    "title": "Fakta Pluto",
+    "link_name": "pluto",
+    "factsarr": [
+     [
+      "Pluto adalah planet kerdil, yaitu planet ini lebih kecil dari planet-planet lain",
+      "pluto1"
+     ],
+     [
+      "Pluto dianggap sebagai planet hingga tahun 2006",
+      ""
+     ],
+     [
+      "Meskipun Pluto lebih jauh dari Neptunus, terkadang Pluto lebih dekat ke Matahari daripada Neptunus karena  orbitnya yang elips ",
+      ""
+     ],
+     [
+      "Pluto lebih kecil dari Bulan Bumi",
+      "plutomoon"
+     ],
+     [
+      "Satu hari di Pluto adalah 153 jam. Satu tahun di Pluto adalah 248 tahun di Bumi",
+      ""
+     ],
+     [
+      "Pluto memiliki 5 bulan",
+      "plutomoons"
+     ],
+     [
+      "Suhu permukaan Pluto sekitar  -228°C hingga -238°C",
+      "pluto7"
+     ],
+     [
+      "Ada pegunungan dengan puncak putih di Pluto yang terbuat dari embun beku metana",
+      "pluto8"
+     ]
+    ]
+   },
+   {
+    "image": "jupiter",
+    "title": "Fakta Jupiter",
+    "link_name": "jupiter",
+    "factsarr": [
+     [
+      "Jupiter adalah planet terbesar di tata surya. Planet ini dua kali lebih besar dari gabungan planet-planet lain di Tata Surya",
+      "planets"
+     ],
+     [
+      "Di Jupiter ada badai besar bernama \"Great Red Spot\" yang telah berlangsung selama ratusan tahun",
+      "jupiter2"
+     ],
+     [
+      "Jupiter adalah raksasa gas yang tidak memiliki permukaan padat. Sebagian besar planet ini terbuat dari hidrogen dan helium",
+      "jupitersurface"
+     ],
+     [
+      "Jupiter mempunyai cincin yang sangat sulit dilihat",
+      ""
+     ],
+     [
+      "Jupiter mempunyai atmosfer yang sangat tebal",
+      "jupiter5"
+     ],
+     [
+      "Satu hari di Jupiter adalah 10 jam. Satu tahun di Jupiter adalah 11.8 tahun di Bumi",
+      ""
+     ],
+     [
+      "Jupiter punya 95 bulan",
+      "jupiter7"
+     ],
+     [
+      "Jupiter adalah planet kelima dari Matahari, setelah Mars dan sebelum Saturnus",
+      "planets"
+     ],
+     [
+      "Suhu permukaan di Jupiter sekitar -148° C",
+      ""
+     ],
+     [
+      "Dengan teknologi saat ini, kita membutuhkan 13 bulan untuk melakukan perjalanan ke Jupiter",
+      "jupiterjuno"
+     ],
+     [
+      "Jika berat kamu 100kg di Bumi, maka berat kamu di Jupiter adalah 253kg",
+      ""
+     ]
+    ]
+   },
+   {
+    "image": "asteroid",
+    "title": "Fakta Asteroid",
+    "link_name": "asteroid",
+    "factsarr": [
+     [
+      "Asteroid adalah sisa-sisa pembentukan tata surya sekitar 4,6 miliar tahun yang lalu dan mengorbit matahari secara elips",
+      ""
+     ],
+     [
+      "Beberapa asteroid punya bulan sendiri",
+      "asteroid2"
+     ],
+     [
+      "Asteroid mengorbit matahari di gugus lepas Sabuk Asteroid, tapi terkadang gravitasi planet Jupiter menarik asteroid hingga terlepas dan membuatnya jatuh ke arah Bumi. Ini disebut sebagai Meteorite",
+      "asteroid3"
+     ],
+     [
+      "Ada jutaan asteroid di tata surya",
+      "asteroid4"
+     ],
+     [
+      "Beberapa asteroid menjadi bulan bagi planet-planet. Beberapa asteroid ditarik ke dalam gravitasi planet dan menjadi bulannya",
+      "asteroid5"
+     ],
+     [
+      "Asteroid juga bisa memiliki cincin, yaitu aliran partikel debu yang mengelilingi asteroid",
+      "asteroid6"
+     ],
+     [
+      "Asteroid merupakan sumber karbon, silika, dan logam yang kaya. Beberapa diantaranya memiliki air es yang terperangkap di dalam puing-puing\n\n",
+      "asteroid8"
+     ]
+    ]
+   },
+   {
+    "image": "mars",
+    "title": "Fakta Mars",
+    "link_name": "mars",
+    "factsarr": [
+     [
+      "Mars dinamakan setelah Dewa Perang Romawi",
+      "mars1"
+     ],
+     [
+      "Mars adalah planet keempat dari matahari di Tata Surya",
+      "planets"
+     ],
+     [
+      "Mars berwarna merah karena sejumlah besar bahan kimia yang disebut oksida besi atau 'karat' pada batuan dan tahanya",
+      "mars3"
+     ],
+     [
+      "Mars adalah planet terkecil kedua di Tata Surya setelah Merkurius. Planet ini berukuran setengah bumi",
+      "mars4"
+     ],
+     [
+      "Suhu permukaan Mars berkisar dari  20°C di khatulistiwa hingga -140°C di  kutub",
+      "marsheatmap"
+     ],
+     [
+      "Mars punya gunung tertinggi di Tata Surya, sebuah gunung berapi yang dipanggil Olympus Mons. Gunung ini bertinggi 24 kilometer, sekitar 3 kali lebih tinggi dari Gunung Everest",
+      "mars6"
+     ],
+     [
+      "Karena gravitasi permukaan nya lebih lemah daripada yang di bumi, kamu bisa lompat 3 kali lebih tinggi di Mars",
+      ""
+     ],
+     [
+      "Satu hari di Mars adalah 24 jam dan 37 menit. Tetapi satu tahun di Mars  adalah 687 hari, karena  Mars membutuhkan waktu  lebih lama untuk menyelesaikan orbitnya mengelilingi Matahari",
+      ""
+     ],
+     [
+      "Pada tahun 2018, para ilmuwan menemukan bukti adanya danau di bawah lapisan es kutub  selatan  di Mars",
+      "mars9"
+     ],
+     [
+      "Mars punya 2 bulan, Phobos dan Deimos",
+      "mars10"
+     ],
+     [
+      "Dengan teknologi saat ini, kita akan membutuhkan sekitar 7-8 bulan untuk melakukan perjalanan ke Mars",
+      "marstech"
+     ]
+    ]
+   },
+   {
+    "image": "lubanghitam",
+    "title": "Fakta Lubang Hitam",
+    "link_name": "lubanghitam",
+    "factsarr": [
+     [
+      "Lubang hitam adalah suatu tempat di luar angkasa yang tarikan gravitasinya begitu kuat sehingga cahaya pun tidak bisa keluar\n\n",
+      "lubanghitam1"
+     ],
+     [
+      "Gravitasinya begitu kuat karena materi terhimpit ke dalam ruang yang sangat kecil. Hal ini bisa terjadi ketika sebuah bintang sedang sekarat",
+      "lubanghitam2"
+     ],
+     [
+      "Karena tidak ada cahaya yang bisa keluar, manusia tidak bisa melihat lubang hitam. Mereka tidak terlihat",
+      "blackholeunseen"
+     ],
+     [
+      "Teleskop luar angkasa dengan alat khusus dapat membantu menemukan lubang hitam. Alat khusus tersebut dapat melihat bagaimana bintang yang sangat dekat dengan lubang hitam bertindak berbeda dibandingkan bintang lainnya",
+      "blackholetelescope"
+     ],
+     [
+      "Lubang hitam yang sekecil sebuah atom memiliki massa sebesar gunung besar, yaitu  mereka mempunyai sebanyak materi di dalamnya seperti gunung besar",
+      ""
+     ],
+     [
+      "Lubang hitam terbesar disebut \"Supermasif\". Mereka memiliki massa yang lebih banyak dari 1 juta matahari digabungkan. Setiap galaksi besar  memiliki lubang hitam supermasif di pusatnya",
+      "lubanghitam6"
+     ],
+     [
+      "Para ilmuwan mengira lubang hitam terkecil terbentuk saat alam semesta dimulai.  Mereka juga mengira lubang hitam supermasif terbentuk pada waktu yang sama dengan galaksi tempat mereka berada",
+      "blackholeuniverse"
+     ],
+     [
+      "Kemungkinan besar ada jutaan lubang hitam di galaksi kita yang kita tidak akan pernah tahu di mana letaknya",
+      "blackholemany"
+     ],
+     [
+      "Jika kamu jatuh ke dalam lubang hitam, kamu tidak akan pernah bisa keluar",
+      ""
+     ]
+    ]
+   },
+   {
+    "image": "uranus",
+    "title": "Fakta Uranus",
+    "link_name": "uranus",
+    "factsarr": [
+     [
+      "Uranus dikelilingi oleh 13 cincin. Cincin bagian dalam sempit dan gelap. Cincin luarnya berwarna cerah dan lebih mudah dilihat",
+      "uranus1"
+     ],
+     [
+      "Uranus adalah raksasa es. Sebagian besar planet ini terbuat dari air, metana, dan cairan amonia di atas pusat berbatu kecil",
+      "uranus"
+     ],
+     [
+      "Uranus memiliki atmosfer tebal yang terbuat dari metana, hidrogen, dan helium",
+      "uranusatmosphere"
+     ],
+     [
+      "Uranus adalah satu-satunya planet yang berputar pada sisinya",
+      "uranus4"
+     ],
+     [
+      "Satu hari di Uranus adalah 17 jam dan 14 menit. Satu tahun di Uranus adalah 84 tahun di Bumi",
+      ""
+     ],
+     [
+      "Uranus mempunyai 28 bulan",
+      "uranus6"
+     ],
+     [
+      "Uranus adalah planet ketujuh dari matahari, setelah Saturnus dan sebelum Neptunus",
+      "planets"
+     ],
+     [
+      "Suhu permukaan Uranus sekitar -216° C",
+      "uranus8"
+     ],
+     [
+      "Dengan teknologi saat ini, kita membutuhkan 9 tahun untuk melakukan perjalanan ke Uranus",
+      "uranustech"
+     ],
+     [
+      "Jika berat kamu adalah 100kg di Bumi, maka berat kamu di Uranus adalah 91kg",
+      ""
+     ],
+     [
+      "Metana membuat Uranus berwarna biru",
+      "uranus"
+     ]
+    ]
+   }
+  ],
+  "aneh": [
+   {
+    "image": "faktaanehdua",
+    "title": "20 Fakta Aneh Part 2",
+    "link_name": "fakta-aneh2",
+    "factsarr": [
+     [
+      "Kuda dan sapi bisa tidur sambil berdiri",
+      "faktaanehdua1"
+     ],
+     [
+      "Kanguru tidak bisa berjalan mundur",
+      "faktaanehdua2"
+     ],
+     [
+      "Selain memiliki sidik jari yang unik, kita semua juga mempunyai sidik lidah yang unik",
+      "faktaanehdua3"
+     ],
+     [
+      "Sekitar 70% tubuh manusia dewasa adalah air",
+      "faktaanehdua4"
+     ],
+     [
+      "Jantung wanita berdetak lebih cepat dibandingkan pria, rata-rata sekitar 7-8 denyut per menit lebih banyak",
+      "faktaanehdua5"
+     ],
+     [
+      "Bintang laut tidak punya otak",
+      "faktaanehdua6"
+     ],
+     [
+      "Satu-satunya mamalia yang tidak bisa melompat adalah gajah",
+      "faktaanehdua7"
+     ],
+     [
+      "Hiu tidak memiliki tulang di tubuhnya",
+      "faktaanehdua8"
+     ],
+     [
+      "Babi tidak bisa melihat ke langit.",
+      "faktaanehdua9"
+     ],
+     [
+      "Mata burung unta lebih besar dari otaknya",
+      "faktaanehdua10"
+     ],
+     [
+      "Anjing laut liar adalah satu-satunya hewan yang bisa bertepuk tangan",
+      "faktaanehdua11"
+     ],
+     [
+      "Siput bisa tidur hingga 3 tahun",
+      "faktaanehdua12"
+     ],
+     [
+      "Dua belas persen orang hanya bermimpi dalam warna hitam dan putih",
+      "faktaanehdua13"
+     ],
+     [
+      "Sutra jaring laba-laba lebih kuat dari baja",
+      "faktaanehdua14"
+     ],
+     [
+      "Otak manusia terdiri dari sekitar 80% air",
+      "faktaanehdua15"
+     ],
+     [
+      "Sekitar dua ribu bahasa berbeda digunakan di Afrika",
+      "faktaanehdua16"
+     ],
+     [
+      "Manusia tidak bisa berjalan lurus saat tutup mata",
+      "faktaanehdua17"
+     ],
+     [
+      "Otak Anda menyembunyikan hidung Anda sehingga Anda biasanya tidak melihatnya",
+      "faktaanehdua18"
+     ],
+     [
+      "Tubuh manusia mengandung sekitar 0,2 miligram emas, yang sebagian besar berada di dalam darah kita.",
+      "faktaanehdua19"
+     ],
+     [
+      "Selai kacang dapat diubah menjadi berlian melalui proses ilmiah",
+      "faktaanehdua20"
+     ]
+    ]
+   },
+   {
+    "image": "faktaaneh",
+    "title": "20 Fakta Aneh Part 1",
+    "link_name": "fakta-aneh1",
+    "factsarr": [
+     [
+      "Sebelum adanya jam alarm, orang membayar seseorang untuk mengetuk jendela dan membangunkan mereka. Mereka disebut knocker-upper.",
+      "faktaaneh1"
+     ],
+     [
+      "Arithmophobia adalah ketakutan terhadap angka.",
+      "faktaaneh2"
+     ],
+     [
+      "sepertiga hidupmu dihabiskan untuk tidur",
+      "faktaaneh3"
+     ],
+     [
+      "Menara Eiffel menjadi lebih tinggi di musim panas hingga 15 sentimeter karena ekspansi termal",
+      "faktaaneh4"
+     ],
+     [
+      "Swiss melarang kepemilikan satu ekor marmot atau burung beo saja karena marmot/burung beo adalah makhluk sosial, seekor marmot akan merasa sangat kesepian",
+      "faktaaneh5"
+     ],
+     [
+      "Hati udang ada di kepalanya. Udang tidak memiliki arteri sehingga organ-organnya hanya melayang-layang di dalam darah",
+      "faktaaneh6"
+     ],
+     [
+      "Dengan memperlambat detak jantungnya, sloth bisa menahan nafas selama 40 menit!\n\n",
+      "faktaaneh7"
+     ],
+     [
+      "Detak jantung paus biru dapat dideteksi hingga jarak 3km. Berat hati mereka sekitar 181kg",
+      "faktaaneh8"
+     ],
+     [
+      "Berat satu awan sekitar 453592kg",
+      "faktaaneh9"
+     ],
+     [
+      "Jerapah di alam liar hanya tidur sekitar lima menit setiap kalinya dan sambil berdiri karena bahaya yang mereka hadapi di alam liar  ",
+      "faktaaneh10"
+     ],
+     [
+      "Ikan badut bisa ganti jenis kelaminnya sekali",
+      "faktaaneh11"
+     ],
+     [
+      "Gigitan beruang grizzly cukup kuat untuk menghancurkan bola bowling",
+      "faktaaneh12"
+     ],
+     [
+      "Untuk melindungi diri dari kecupan super kuat, burung pelatuk melingkarkan lidahnya di sekitar otaknya.",
+      "faktaaneh13"
+     ],
+     [
+      "Jerapah jantan akan mencicipi air seni jerapah betina untuk mengetahui apakah ia siap kawin.",
+      "faktaaneh14"
+     ],
+     [
+      "Kamu tidak bisa bersenandung sambil menutup hidung",
+      "faktaaneh15"
+     ],
+     [
+      "Mentimun mengandung 96 persen air",
+      "faktaaneh16"
+     ],
+     [
+      "Suhu rata-rata petir sekitar 27000°C",
+      "faktaaneh17"
+     ],
+     [
+      "Apel supermarket bisa berumur satu tahun karena karena diawetkan dengan baik",
+      "faktaaneh18"
+     ],
+     [
+      "Skotlandia memiliki lebih dari 400 kata untuk salju",
+      "faktaaneh19"
+     ],
+     [
+      "Makan irisan mentimun untuk mengurangi bau mulut",
+      "faktaaneh20"
+     ]
+    ]
+   }
+  ]
+ }
+}
