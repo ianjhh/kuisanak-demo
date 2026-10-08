@@ -61,9 +61,13 @@ describe("Home", ()=>{
         expect(await screen.findByText('budi')).toBeInTheDocument();
         await screen.findByText('warna');
         /* newest first */
-        const rows = screen.getAllByRole('row');
-        expect(rows[1]).toHaveTextContent('warna10');
-        expect(rows[2]).toHaveTextContent('penjumlahan8');
+        const items = screen.getAllByRole('listitem');
+        expect(items[0]).toHaveTextContent('warna');
+        expect(items[0]).toHaveTextContent('10/10');
+        expect(items[1]).toHaveTextContent('penjumlahan');
+        expect(items[1]).toHaveTextContent('8/10');
+        /* quizzes played, average and best */
+        expect(screen.getByText('90%')).toBeInTheDocument();
         expect(screen.queryByText('Mulai')).not.toBeInTheDocument();
     });
 })

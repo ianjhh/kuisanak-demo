@@ -43,13 +43,14 @@ test('signs in with a name, scores a quiz and keeps the last 10 results', async 
     answers.push(answers[1]); // a repeated question counts once
     const { data: result } = await axios.post('/api/submitQuiz', { name: firstQuiz.name, answers });
     expect(result).toEqual({ score: 2, total: 3 });
+    expect((await axios.post('/api/fetchHistory')).data[0]).toEqual([firstQuiz.name, 2, 3]);
 
     for (let i = 0; i < 12; i++) {
         await axios.post('/api/submitQuiz', { name: firstQuiz.name, answers: [] });
     }
     const { data: history } = await axios.post('/api/fetchHistory');
     expect(history).toHaveLength(10);
-    expect(history[9]).toEqual([firstQuiz.name, 0]);
+    expect(history[9]).toEqual([firstQuiz.name, 0, 0]);
 });
 
 test('logging out forgets the name but keeps the scores for next time', async () => {

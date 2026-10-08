@@ -4,10 +4,11 @@ import './Home.css';
 import { useEffect, useState } from 'react';
 import LoggedInNav from './LoggedInNav';
 import axios from 'axios';
-import { Row, Container, Form, Button, Card, Table, Col } from 'react-bootstrap';
+import { Row, Container, Form, Button, Card, Col } from 'react-bootstrap';
 import { useNavigate, Link } from "react-router-dom";
 import img1 from './assets/images/binatang-laut1.jpg';
 import { useSession } from './useSession';
+import Scoreboard from './Scoreboard';
 
 function Home(props){
     const { status, username: signedInAs, refresh } = useSession('public');
@@ -44,7 +45,7 @@ function Home(props){
         .then(function (response) {
             /* ONLY RUNS IF SUCCESS, NOT EVEN WHEN CODE 404 */
             if (response.status === 200){
-                setHistoryList(response.data.reverse())
+                setHistoryList(response.data)
             }
         })
         .catch(function (error) {
@@ -123,31 +124,7 @@ function Home(props){
                         </div>
                         {isLoggedIn ? (
                             <div className='col-12 col-md-4 mt-4 mt-md-0'>
-                                <div className="glass-panel auth-card historylist">
-                                    <h3 className='fw-bold mb-3'>{signedInAs}</h3>
-                                    <Table responsive className="history-table mb-0">
-                                        <thead>
-                                            <tr>
-                                                <th>Aktivitas Terbaru</th>
-                                                <th>Skor</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            {historyList && historyList.length > 0 ? historyList.map((item, idx)=>{
-                                                return(
-                                                    <tr key={idx}>
-                                                        <td className="text-white-50">{item[0]}</td>
-                                                        <td className="fw-semibold text-warning">{item[1]}</td>
-                                                    </tr>
-                                                )
-                                            }) : (
-                                                <tr>
-                                                    <td colSpan="2" className="text-center text-white-50 py-3">Belum ada aktivitas</td>
-                                                </tr>
-                                            )}
-                                        </tbody>
-                                    </Table>
-                                </div>
+                                <Scoreboard name={signedInAs} history={historyList} />
                             </div>
                         ) : (
                             <div className='col-12 col-md-4 mt-4 mt-md-0'>

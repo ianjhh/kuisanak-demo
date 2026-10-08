@@ -1,0 +1,208 @@
+/* The signed-in player's scoreboard on the home page: dark forest-green glass with
+   amber highlights, matching the page background. */
+.scoreboard {
+  background: linear-gradient(160deg, hsla(145, 35%, 14%, 0.9), hsla(150, 30%, 9%, 0.92));
+  border: 1px solid hsla(145, 40%, 45%, 0.25);
+  border-radius: 20px;
+  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  color: hsl(145, 25%, 95%);
+  padding: 22px;
+}
+
+.scoreboard-header {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 18px;
+}
+
+.scoreboard-avatar {
+  flex: none;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: hsl(30, 60%, 12%);
+  background: linear-gradient(135deg, #fde68a, #f59e0b);
+  box-shadow: 0 0 0 3px hsla(43, 96%, 56%, 0.25);
+}
+
+.scoreboard-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #fbbf24;
+}
+
+.scoreboard-name {
+  margin: 0;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: hsl(145, 25%, 97%);
+  word-break: break-word;
+}
+
+.scoreboard-stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.scoreboard-stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 4px;
+  border-radius: 14px;
+  background: hsla(145, 30%, 100%, 0.06);
+  border: 1px solid hsla(145, 30%, 100%, 0.08);
+}
+
+.scoreboard-stat-value {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #fde68a;
+  line-height: 1.2;
+}
+
+.scoreboard-stat-label {
+  font-size: 0.75rem;
+  color: hsla(145, 25%, 92%, 0.7);
+}
+
+.scoreboard-section {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: hsla(145, 25%, 92%, 0.7);
+  margin-bottom: 10px;
+}
+
+.scoreboard-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.scoreboard-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 10px;
+  border-radius: 14px;
+  background: hsla(145, 30%, 100%, 0.04);
+  transition: background 0.2s;
+}
+
+.scoreboard-item:hover {
+  background: hsla(145, 30%, 100%, 0.09);
+}
+
+.scoreboard-thumb {
+  flex: none;
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  object-fit: cover;
+  background: hsla(145, 30%, 100%, 0.1);
+}
+
+.scoreboard-item-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.scoreboard-item-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+
+.scoreboard-item-title {
+  font-weight: 600;
+  color: hsl(145, 25%, 96%) !important;
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.scoreboard-item-title:hover {
+  color: #fde68a !important;
+}
+
+.scoreboard-score {
+  flex: none;
+  font-weight: 700;
+  font-size: 0.85rem;
+  padding: 1px 9px;
+  border-radius: 999px;
+}
+
+.scoreboard-bar {
+  height: 6px;
+  border-radius: 999px;
+  background: hsla(145, 30%, 100%, 0.1);
+  overflow: hidden;
+}
+
+.scoreboard-bar-fill {
+  height: 100%;
+  border-radius: 999px;
+}
+
+/* Score colours: great (80%+), good (50%+), keep practising */
+.scoreboard-score.is-great { background: hsla(152, 70%, 45%, 0.18); color: #6ee7b7; }
+.scoreboard-score.is-good { background: hsla(43, 96%, 56%, 0.18); color: #fcd34d; }
+.scoreboard-score.is-low { background: hsla(0, 85%, 65%, 0.16); color: #fca5a5; }
+.scoreboard-bar-fill.is-great { background: linear-gradient(90deg, #34d399, #10b981); }
+.scoreboard-bar-fill.is-good { background: linear-gradient(90deg, #fde68a, #f59e0b); }
+.scoreboard-bar-fill.is-low { background: linear-gradient(90deg, #fca5a5, #f87171); }
+
+.scoreboard-empty {
+  text-align: center;
+  padding: 18px 8px 6px;
+  border-radius: 14px;
+  background: hsla(145, 30%, 100%, 0.04);
+}
+
+.scoreboard-empty-icon {
+  font-size: 2.2rem;
+  line-height: 1;
+  margin-bottom: 8px;
+}
+
+.scoreboard-empty p {
+  color: hsla(145, 25%, 92%, 0.8);
+  margin-bottom: 12px;
+}
+
+.scoreboard-start {
+  display: inline-block;
+  margin-bottom: 8px;
+  padding: 7px 20px;
+  border-radius: 999px;
+  font-weight: 600;
+  color: hsl(30, 60%, 12%) !important;
+  text-decoration: none;
+  background: linear-gradient(135deg, #fde68a, #f59e0b);
+  box-shadow: 0 4px 14px rgba(245, 158, 11, 0.35);
+  transition: transform 0.15s;
+}
+
+.scoreboard-start:hover {
+  transform: translateY(-2px);
+}
