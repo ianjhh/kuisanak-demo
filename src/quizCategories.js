@@ -3,10 +3,10 @@ import axios from 'axios';
 
 // The quiz categories, in the order the quiz list and sitemap show them.
 export const QUIZ_CATEGORIES = [
-    { key: 'animal', title: 'Kuis Binatang', endpoint: '/api/fetchAnimalQuiz' },
-    { key: 'math', title: 'Kuis Matematika', endpoint: '/api/fetchMathQuiz' },
-    { key: 'language', title: 'Kuis Bahasa', endpoint: '/api/fetchLanguageQuiz' },
-    { key: 'miscellaneous', title: 'Kuis Lain', endpoint: '/api/fetchMiscellaneousQuiz' },
+    { key: 'animal', title: 'Animal Quizzes', endpoint: '/api/fetchAnimalQuiz' },
+    { key: 'math', title: 'Math Quizzes', endpoint: '/api/fetchMathQuiz' },
+    { key: 'language', title: 'Language Quizzes', endpoint: '/api/fetchLanguageQuiz' },
+    { key: 'miscellaneous', title: 'More Quizzes', endpoint: '/api/fetchMiscellaneousQuiz' },
 ];
 
 // Loads every category's quizzes, keyed by category: { animal: [...], ... }.

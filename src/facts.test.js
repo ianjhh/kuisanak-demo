@@ -12,9 +12,9 @@ describe('fact pages', () => {
     const renderAt = (path, verifyToken) => {
         requests = mockApi({
             'GET /api/verifyToken': verifyToken,
-            'GET /api/fetchAnimalFacts': () => [200, [{ link_name: 'fakta-kucing', title: 'Fakta Kucing', image: 'faktakucing' }]],
-            'GET /api/fetchSpaceFacts': () => [200, [{ link_name: 'fakta-mars', title: 'Fakta Mars', image: 'mars' }]],
-            'POST /api/fetchAnimalFact': () => [200, { title: 'Fakta Kucing', factsarr: [['Kucing tidur sekitar 12 sampai 16 jam setiap hari.', '']] }],
+            'GET /api/fetchAnimalFacts': () => [200, [{ link_name: 'cat-facts', title: 'Cat Facts', image: 'faktakucing' }]],
+            'GET /api/fetchSpaceFacts': () => [200, [{ link_name: 'mars-facts', title: 'Mars Facts', image: 'mars' }]],
+            'POST /api/fetchAnimalFact': () => [200, { title: 'Cat Facts', factsarr: [['Cats sleep about 12 to 16 hours a day.', '']] }],
             'GET /api/fetchAnimalQuiz': () => [200, []],
             'GET /api/fetchMathQuiz': () => [200, []],
             'GET /api/fetchLanguageQuiz': () => [200, []],
@@ -30,26 +30,26 @@ describe('fact pages', () => {
     afterEach(() => requests.restore());
 
     test('lists a category and loads the next one when switching categories', async () => {
-        renderAt('/fakta-binatang', guest);
-        expect(await screen.findByText('Fakta Kucing')).toBeInTheDocument();
-        expect(screen.getByText('Fakta-Fakta Binatang')).toBeInTheDocument();
+        renderAt('/animal-facts', guest);
+        expect(await screen.findByText('Cat Facts')).toBeInTheDocument();
+        expect(screen.getByText('Animal Facts')).toBeInTheDocument();
 
-        fireEvent.click(screen.getByText('Angkasa'));
+        fireEvent.click(screen.getByText('Space'));
 
-        expect(await screen.findByText('Fakta Mars')).toBeInTheDocument();
-        expect(screen.getByText('Fakta-Fakta Angkasa')).toBeInTheDocument();
-        expect(screen.queryByText('Fakta Kucing')).not.toBeInTheDocument();
+        expect(await screen.findByText('Mars Facts')).toBeInTheDocument();
+        expect(screen.getByText('Space Facts')).toBeInTheDocument();
+        expect(screen.queryByText('Cat Facts')).not.toBeInTheDocument();
     });
 
     test('shows an article to a verified user', async () => {
-        renderAt('/fakta-binatang/fakta-kucing', signedIn);
-        expect(await screen.findByText('Kucing tidur sekitar 12 sampai 16 jam setiap hari.')).toBeInTheDocument();
-        expect(requests.find((r) => r.url === '/api/fetchAnimalFact').body).toEqual({ link_name: 'fakta-kucing' });
+        renderAt('/animal-facts/cat-facts', signedIn);
+        expect(await screen.findByText('Cats sleep about 12 to 16 hours a day.')).toBeInTheDocument();
+        expect(requests.find((r) => r.url === '/api/fetchAnimalFact').body).toEqual({ link_name: 'cat-facts' });
     });
 
     test('sends guests who open an article to the login page', async () => {
-        renderAt('/fakta-binatang/fakta-kucing', guest);
-        await waitFor(() => expect(screen.getByText('Mulai')).toBeInTheDocument());
-        expect(screen.queryByText('Kucing tidur sekitar 12 sampai 16 jam setiap hari.')).not.toBeInTheDocument();
+        renderAt('/animal-facts/cat-facts', guest);
+        await waitFor(() => expect(screen.getByText('Start')).toBeInTheDocument());
+        expect(screen.queryByText('Cats sleep about 12 to 16 hours a day.')).not.toBeInTheDocument();
     });
 });

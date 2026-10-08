@@ -12,9 +12,9 @@ describe('quiz list and sitemap', () => {
         requests = mockApi({
             'GET /api/verifyToken': () => [401, 'Sesi tidak valid'],
             'GET /api/fetchAnimalQuiz': () => [200, [card('binatang-laut', 'Binatang Laut')]],
-            'GET /api/fetchMathQuiz': () => [200, [card('penjumlahan', 'Penjumlahan'), card('pengurangan', 'Pengurangan')]],
+            'GET /api/fetchMathQuiz': () => [200, [card('addition', 'Addition'), card('subtraction', 'Subtraction')]],
             'GET /api/fetchLanguageQuiz': () => [200, [card('kata-inggris', 'Kata Bahasa Inggris')]],
-            'GET /api/fetchMiscellaneousQuiz': () => [200, [card('warna', 'Warna')]],
+            'GET /api/fetchMiscellaneousQuiz': () => [200, [card('colors', 'Warna')]],
         });
         render(
             <MemoryRouter initialEntries={[path]}>
@@ -30,8 +30,8 @@ describe('quiz list and sitemap', () => {
         await screen.findByText('Warna');
 
         const headings = screen.getAllByRole('heading', { level: 3 }).map((h) => h.textContent);
-        expect(headings).toEqual(['Kuis Binatang', 'Kuis Matematika', 'Kuis Bahasa', 'Kuis Lain']);
-        expect(screen.getByText('Penjumlahan').closest('a')).toHaveAttribute('href', '/quiz/penjumlahan');
+        expect(headings).toEqual(['Animal Quizzes', 'Math Quizzes', 'Language Quizzes', 'More Quizzes']);
+        expect(screen.getByText('Addition').closest('a')).toHaveAttribute('href', '/quiz/addition');
         expect(screen.getByText('Deskripsi Binatang Laut')).toBeInTheDocument();
     });
 
@@ -39,7 +39,7 @@ describe('quiz list and sitemap', () => {
         renderAt('/sitemap');
         await screen.findByText('Warna');
 
-        const math = screen.getByText('Kuis Matematika').nextElementSibling;
-        expect(within(math).getAllByRole('link').map((a) => a.getAttribute('href'))).toEqual(['/quiz/penjumlahan', '/quiz/pengurangan']);
+        const math = screen.getByText('Math Quizzes').nextElementSibling;
+        expect(within(math).getAllByRole('link').map((a) => a.getAttribute('href'))).toEqual(['/quiz/addition', '/quiz/subtraction']);
     });
 });

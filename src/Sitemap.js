@@ -21,7 +21,7 @@ function Sitemap(){
             <Container>
                 <div className="glass-panel p-4 p-md-5 mx-auto" style={{maxWidth: '800px'}}>
                     <h3 className="fw-bold mb-4" style={{background: 'linear-gradient(135deg, #fff, var(--color-warning))', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', display: 'inline-block'}}>
-                        Peta Situs (Sitemap)
+                        Sitemap
                     </h3>
 
                     {QUIZ_CATEGORIES.map((category) => (

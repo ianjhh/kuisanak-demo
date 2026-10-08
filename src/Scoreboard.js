@@ -31,7 +31,7 @@ function Scoreboard({ name, history }) {
             <div className="scoreboard-header">
                 <div className="scoreboard-avatar" aria-hidden="true">{name.slice(0, 1).toUpperCase()}</div>
                 <div>
-                    <div className="scoreboard-label">Papan Skor</div>
+                    <div className="scoreboard-label">Scoreboard</div>
                     <h3 className="scoreboard-name">{name}</h3>
                 </div>
             </div>
@@ -39,24 +39,24 @@ function Scoreboard({ name, history }) {
             <div className="scoreboard-stats">
                 <div className="scoreboard-stat">
                     <span className="scoreboard-stat-value">{attempts.length}</span>
-                    <span className="scoreboard-stat-label">Kuis</span>
+                    <span className="scoreboard-stat-label">Quizzes</span>
                 </div>
                 <div className="scoreboard-stat">
                     <span className="scoreboard-stat-value">{attempts.length ? `${average}%` : '-'}</span>
-                    <span className="scoreboard-stat-label">Rata-rata</span>
+                    <span className="scoreboard-stat-label">Average</span>
                 </div>
                 <div className="scoreboard-stat">
                     <span className="scoreboard-stat-value">{best ? `${best.score}/${best.total}` : '-'}</span>
-                    <span className="scoreboard-stat-label">Terbaik</span>
+                    <span className="scoreboard-stat-label">Best</span>
                 </div>
             </div>
 
-            <div className="scoreboard-section">Aktivitas Terbaru</div>
+            <div className="scoreboard-section">Recent Activity</div>
             {attempts.length === 0 ? (
                 <div className="scoreboard-empty">
                     <div className="scoreboard-empty-icon" aria-hidden="true">🏆</div>
-                    <p>Belum ada kuis. Ayo mulai dan kumpulkan skor!</p>
-                    <Link to="/quiz" className="scoreboard-start">Pilih kuis</Link>
+                    <p>No quizzes yet. Start one and collect points!</p>
+                    <Link to="/quiz" className="scoreboard-start">Pick a quiz</Link>
                 </div>
             ) : (
                 <ul className="scoreboard-list">

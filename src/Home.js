@@ -62,7 +62,7 @@ function Home(props){
                 <Container>
                     <Row>
                         <div className='col-12 col-md-8'>
-                            <h1 className="main-heading">Kuis untuk anak-anak! 🌴</h1>
+                            <h1 className="main-heading">Quizzes for kids! 🌴</h1>
                             {/* --------------CARDS-------------- */}
                             <Row xs={1} sm={2} lg={3} className="g-4 main-container">
                                 <Col className='quiz-col-home'>
@@ -70,9 +70,9 @@ function Home(props){
                                         <Card className='glass-panel glass-panel-hover quiz-card-custom'>
                                             <Card.Img variant="top" src={img1} className='img-card-home' />
                                             <Card.Body className='card-body-home'>
-                                                <Card.Title className="card-title-custom">Kuis</Card.Title>
+                                                <Card.Title className="card-title-custom">Quizzes</Card.Title>
                                                 <Card.Text className='card-description-home'>
-                                                    Kuis tentang binatang, matematika dan lebih!
+                                                    Quizzes about animals, math and more!
                                                 </Card.Text>
                                             </Card.Body>
                                         </Card>
@@ -80,13 +80,13 @@ function Home(props){
                                 </Col>
 
                                 <Col className='quiz-col-home'>
-                                    <Link to='/fakta-binatang' className='text-decoration-none'>
+                                    <Link to='/animal-facts' className='text-decoration-none'>
                                         <Card className='glass-panel glass-panel-hover quiz-card-custom'>
                                             <Card.Img variant="top" src={require(`./assets/images/faktabinatang.jpg`)} className='img-card-home' />
                                             <Card.Body className='card-body-home'>
-                                                <Card.Title className="card-title-custom">Fakta Binatang</Card.Title>
+                                                <Card.Title className="card-title-custom">Animal Facts</Card.Title>
                                                 <Card.Text className='card-description-home'>
-                                                    Belajar tentang fakta-fakta binatang!
+                                                    Learn fun facts about animals!
                                                 </Card.Text>
                                             </Card.Body>
                                         </Card>
@@ -94,13 +94,13 @@ function Home(props){
                                 </Col>
                                 
                                 <Col className='quiz-col-home'>
-                                    <Link to='/fakta-angkasa' className='text-decoration-none'>
+                                    <Link to='/space-facts' className='text-decoration-none'>
                                         <Card className='glass-panel glass-panel-hover quiz-card-custom'>
                                             <Card.Img variant="top" src={require(`./assets/images/faktaangkasa.jpg`)} className='img-card-home' />
                                             <Card.Body className='card-body-home'>
-                                                <Card.Title className="card-title-custom">Fakta Angkasa</Card.Title>
+                                                <Card.Title className="card-title-custom">Space Facts</Card.Title>
                                                 <Card.Text className='card-description-home'>
-                                                    Belajar tentang fakta-fakta angkasa!
+                                                    Learn fun facts about space!
                                                 </Card.Text>
                                             </Card.Body>
                                         </Card>
@@ -108,13 +108,13 @@ function Home(props){
                                 </Col>
              
                                 <Col className='quiz-col-home'>
-                                    <Link to='/fakta-aneh' className='text-decoration-none'>
+                                    <Link to='/weird-facts' className='text-decoration-none'>
                                         <Card className='glass-panel glass-panel-hover quiz-card-custom'>
                                             <Card.Img variant="top" src={require(`./assets/images/faktasejarah.jpg`)} className='img-card-home' />
                                             <Card.Body className='card-body-home'>
-                                                <Card.Title className="card-title-custom">Fakta Aneh</Card.Title>
+                                                <Card.Title className="card-title-custom">Weird Facts</Card.Title>
                                                 <Card.Text className='card-description-home'>
-                                                    Belajar tentang fakta-fakta aneh tapi nyata!
+                                                    Learn facts that are weird but true!
                                                 </Card.Text>
                                             </Card.Body>
                                         </Card>
@@ -129,10 +129,10 @@ function Home(props){
                         ) : (
                             <div className='col-12 col-md-4 mt-4 mt-md-0'>
                                 <div className="glass-panel auth-card loginarea">
-                                    <h3 className="text-center fw-bold">Siapa namamu?</h3>
+                                    <h3 className="text-center fw-bold">What's your name?</h3>
                                     <Form onSubmit={(e)=>{e.preventDefault(); handleLogin()}}>
                                         <Form.Group className="mb-3" controlId="formBasicEmail">
-                                            <Form.Label>Nama</Form.Label>
+                                            <Form.Label>Name</Form.Label>
                                             <Form.Control 
                                                 type="text" 
                                                 className="form-input-custom" 
@@ -141,11 +141,11 @@ function Home(props){
                                             />
                                         </Form.Group>
                                         <Button className="btn-primary-glow w-100 py-2 mt-2" type="submit">
-                                            Mulai
+                                            Start
                                         </Button>
                                     </Form>
                                     <p className='mt-4 text-center text-white-50 small mb-0'>
-                                        Versi demo: tanpa akun dan tanpa server. Skormu tersimpan di browser ini.
+                                        Demo version: no account and no server. Your scores are saved in this browser.
                                     </p>
                                 </div>
                             </div>

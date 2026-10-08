@@ -23,7 +23,7 @@ function QuizList(props){
                 <Container>
                     <Link to='/' className='text-decoration-none'>
                         <Button className='btn-primary-glow mb-4'>
-                            <i className="bi bi-arrow-left-short"></i> Kembali
+                            <i className="bi bi-arrow-left-short"></i> Back
                         </Button>
                     </Link>
 

@@ -35,10 +35,10 @@ function Login(props){
             <div className="glow-blob-2"></div>
             <Container className="position-relative" style={{zIndex: 2, maxWidth: '400px'}}>
                 <div className="glass-panel auth-card p-4 p-sm-5">
-                    <h3 className="text-center fw-bold mb-4">Siapa namamu?</h3>
+                    <h3 className="text-center fw-bold mb-4">What's your name?</h3>
                     <Form onSubmit={(e)=>{e.preventDefault(); handleLogin()}}>
                         <Form.Group className="mb-3" controlId="formBasicEmail">
-                            <Form.Label>Nama</Form.Label>
+                            <Form.Label>Name</Form.Label>
                             <Form.Control 
                                 type="text" 
                                 className="form-input-custom" 
@@ -48,14 +48,14 @@ function Login(props){
                         </Form.Group>
 
                         <Button className="btn-primary-glow w-100 py-2 fs-5" type="submit">
-                            Mulai
+                            Start
                         </Button>
                     </Form>
                     <p className='mt-4 text-center text-white-50 small mb-0'>
-                        Versi demo: tanpa akun dan tanpa server. Skormu tersimpan di browser ini.
+                        Demo version: no account and no server. Your scores are saved in this browser.
                     </p>
                     <p className='mt-3 text-center mb-0'>
-                        <Link to='/' className='text-decoration-none text-white-50 small'><i className="bi bi-arrow-left"></i> Kembali ke Beranda</Link>
+                        <Link to='/' className='text-decoration-none text-white-50 small'><i className="bi bi-arrow-left"></i> Back to home</Link>
                     </p>
                 </div>
             </Container>

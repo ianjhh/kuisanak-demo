@@ -104,7 +104,7 @@ function Quiz({ quizName }){
             answer: answer
         })
         .then(function (response) {
-            setIsCorrect(response.data.correct ? 'Benar' : 'Salah')
+            setIsCorrect(response.data.correct ? 'Correct' : 'Wrong')
             setCorrectAnswer(response.data.answer)
         })
         .catch(function (error) {
@@ -172,7 +172,7 @@ function Quiz({ quizName }){
                     <Col xs={12} lg={2} className="mb-3">
                         <Link to='/quiz' className='text-decoration-none back-button'>
                             <Button className='btn-danger-glow back-btn-custom w-100'>
-                                <i className="bi bi-arrow-left-short"></i> Daftar Kuis
+                                <i className="bi bi-arrow-left-short"></i> All quizzes
                             </Button>
                         </Link>
                     </Col>
@@ -182,21 +182,21 @@ function Quiz({ quizName }){
                             {!quizStarted ? (
                                 <div className='text-center py-4'>
                                     {notFound ? (
-                                        <p className="text-white-50 py-5 mb-0">Kuis ini tidak ditemukan atau belum punya pertanyaan.</p>
+                                        <p className="text-white-50 py-5 mb-0">This quiz wasn't found, or it has no questions yet.</p>
                                     ) : quizProperty && quizImage ? (
                                         <>
-                                            <h1 className='quiz-title-main'>Kuis {quizProperty}</h1>
+                                            <h1 className='quiz-title-main'>{quizProperty} Quiz</h1>
                                             <img
                                                 width={300}
                                                 height={300}
                                                 src={imageFor(quizImage)}
                                                 className="img-fluid rounded-4 mb-4 shadow"
                                                 style={{objectFit: 'cover', border: '1px solid rgba(255,255,255,0.08)'}}
-                                                alt="Cover Kuis"
+                                                alt="Quiz cover"
                                             />
                                             <br/>
                                             <Button className='btn-primary-glow px-5 py-3 fs-4' onClick={startQuiz}>
-                                                Mulai Kuis
+                                                Start Quiz
                                             </Button>
                                         </>
                                     ) : (
@@ -219,7 +219,7 @@ function Quiz({ quizName }){
                                                     ></div>
                                                 </div>
                                                 <p className="text-white-50 text-center mb-4">
-                                                    Pertanyaan <strong>{currentQuestion}</strong> dari {questionCount}
+                                                    Question <strong>{currentQuestion}</strong> of {questionCount}
                                                 </p>
 
                                                 <div className="question-box mb-4">
@@ -233,7 +233,7 @@ function Quiz({ quizName }){
                                                         <img
                                                             className='questionImage img-fluid shadow-lg'
                                                             src={imageFor(quizList[currentQuestion-1].imagesrc)}
-                                                            alt="Pertanyaan"
+                                                            alt="What the question asks about"
                                                         />
                                                     </div>
                                                 )}
@@ -258,13 +258,13 @@ function Quiz({ quizName }){
                                                     </div>
                                                 ) : (
                                                     <div className="text-center">
-                                                        {isCorrect === 'Benar' ? (
+                                                        {isCorrect === 'Correct' ? (
                                                             <div className="correct-alert">
-                                                                <i className="bi bi-check-circle-fill me-2"></i> Benar! Jawaban kamu tepat.
+                                                                <i className="bi bi-check-circle-fill me-2"></i> Correct! Well done.
                                                             </div>
                                                         ) : (
                                                             <div className="wrong-alert">
-                                                                <i className="bi bi-x-circle-fill me-2"></i> Salah! Jawaban yang benar adalah: <strong>"{correctAnswer}"</strong>
+                                                                <i className="bi bi-x-circle-fill me-2"></i> Wrong! The right answer is: <strong>"{correctAnswer}"</strong>
                                                             </div>
                                                         )}
                                                     </div>
@@ -278,7 +278,7 @@ function Quiz({ quizName }){
                                                 onClick={handleNext}
                                                 disabled={!answer}
                                             >
-                                                Kirim Jawaban
+                                                Submit Answer
                                             </Button>
                                         ) : (
                                             currentQuestion >= questionCount ? (
@@ -286,25 +286,25 @@ function Quiz({ quizName }){
                                                     className="btn-primary-glow w-100 py-3 fs-5 mt-2"
                                                     onClick={handleFinishQuiz}
                                                 >
-                                                    Lihat Hasil Skor
+                                                    See My Score
                                                 </Button>
                                             ) : (
                                                 <Button
                                                     className="btn-primary-glow w-100 py-3 fs-5 mt-2"
                                                     onClick={handleMoveNextQ}
                                                 >
-                                                    Pertanyaan Selanjutnya
+                                                    Next Question
                                                 </Button>
                                             )
                                         )}
                                     </>
                                 ) : (
                                     <div className="text-center py-4">
-                                        <h4 className="text-white-50 uppercase mb-2">Hasil Akhir</h4>
+                                        <h4 className="text-white-50 uppercase mb-2">Final Score</h4>
                                         <h1 className="quiz-score-display">{score} / {totalQuestions || questionCount}</h1>
-                                        <p className="text-white-50 mb-5">Kerja bagus! Teruslah berlatih kuis agar semakin pintar.</p>
+                                        <p className="text-white-50 mb-5">Great job! Keep practicing to get even smarter.</p>
 
-                                        <h4 className="text-start border-bottom pb-2 mb-3 border-secondary">Coba Kuis Lainnya:</h4>
+                                        <h4 className="text-start border-bottom pb-2 mb-3 border-secondary">Try Another Quiz:</h4>
                                         <Row xs={1} sm={2} md={3} className="g-4 mb-4">
                                             {similarQuiz.map((item, idx) => (
                                                 <Col key={idx}>
@@ -316,7 +316,7 @@ function Quiz({ quizName }){
                                                                 className="btn-primary-glow py-2 w-100"
                                                                 onClick={()=>{navigate(`/quiz/${item.name}`)}}
                                                             >
-                                                                Mulai!
+                                                                Start!
                                                             </Button>
                                                         </Card.Body>
                                                     </Card>
@@ -325,7 +325,7 @@ function Quiz({ quizName }){
                                         </Row>
                                         <Link to='/quiz' className='text-decoration-none'>
                                             <Button className='btn-danger-glow back-btn-custom px-4 py-2 mt-2'>
-                                                <i className="bi bi-arrow-left-short"></i> Daftar Kuis
+                                                <i className="bi bi-arrow-left-short"></i> All quizzes
                                             </Button>
                                         </Link>
                                     </div>

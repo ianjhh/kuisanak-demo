@@ -3,22 +3,22 @@
 export const FACT_CATEGORIES = [
     {
         key: 'binatang',
-        path: '/fakta-binatang',
-        title: 'Fakta-Fakta Binatang',
+        path: '/animal-facts',
+        title: 'Animal Facts',
         listEndpoint: '/api/fetchAnimalFacts',
         articleEndpoint: '/api/fetchAnimalFact',
     },
     {
         key: 'angkasa',
-        path: '/fakta-angkasa',
-        title: 'Fakta-Fakta Angkasa',
+        path: '/space-facts',
+        title: 'Space Facts',
         listEndpoint: '/api/fetchSpaceFacts',
         articleEndpoint: '/api/fetchSpaceFact',
     },
     {
         key: 'aneh',
-        path: '/fakta-aneh',
-        title: 'Fakta-Fakta Aneh Tapi Nyata',
+        path: '/weird-facts',
+        title: 'Weird but True Facts',
         listEndpoint: '/api/fetchRandomFacts',
         articleEndpoint: '/api/fetchRandomFact',
     },

@@ -79,3 +79,9 @@ test('grades every question of every quiz correctly', async () => {
         expect([quiz.name, data.score]).toEqual([quiz.name, new Set(answers.map((a) => `${a.question}|${a.imagesrc}`)).size]);
     }
 });
+
+test('shows scores saved before the translation under the new quiz names', async () => {
+    window.localStorage.setItem('kuisanak.demo', JSON.stringify({ profile: 'Sari', history: { Sari: [['ikan', 9]] } }));
+    const { data } = await axios.post('/api/fetchHistory');
+    expect(data).toEqual([['fish', 9]]);
+});

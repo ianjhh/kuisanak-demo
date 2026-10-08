@@ -51,7 +51,7 @@ function FactArticle({ category }){
                 <Container>
                     <Link to={category.path} className='text-decoration-none'>
                         <Button className='btn-primary-glow mb-4'>
-                            <i className="bi bi-arrow-left-short"></i> Kembali
+                            <i className="bi bi-arrow-left-short"></i> Back
                         </Button>
                     </Link>
 
@@ -69,7 +69,7 @@ function FactArticle({ category }){
                                                 src={imageFor(item[1])}
                                                 className="img-fluid rounded-3 shadow"
                                                 style={{maxHeight: '300px', objectFit: 'cover', border: '1px solid rgba(255,255,255,0.08)'}}
-                                                alt="Fakta gambar"
+                                                alt="Illustration for this fact"
                                             />
                                         </div>
                                     )}

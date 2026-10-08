@@ -27,9 +27,9 @@ function Navapp(props){
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end">
                     <Nav className="align-items-center">
-                        <Nav.Link as={NavLink} to='/quiz' className='nav-link-custom text-white me-3'>Kuis</Nav.Link>
+                        <Nav.Link as={NavLink} to='/quiz' className='nav-link-custom text-white me-3'>Quizzes</Nav.Link>
                         <NavDropdown 
-                            title={<span className='text-white dropdown-toggle-custom'>Fakta</span>} 
+                            title={<span className='text-white dropdown-toggle-custom'>Facts</span>} 
                             id="collapsible-nav-dropdown" 
                             show={show} 
                             onMouseEnter={showDropdown} 
@@ -40,14 +40,14 @@ function Navapp(props){
                             renderMenuOnMount={true}
                         >
                             <div className="dropdown-menu-custom">
-                                <NavDropdown.Item as={Link} to='/fakta-binatang' className='dropdown-item-custom'>Binatang</NavDropdown.Item>
-                                <NavDropdown.Item as={Link} to='/fakta-angkasa' className='dropdown-item-custom'>Angkasa</NavDropdown.Item>
-                                <NavDropdown.Item as={Link} to='/fakta-aneh' className='dropdown-item-custom'>Sejarah</NavDropdown.Item>
+                                <NavDropdown.Item as={Link} to='/animal-facts' className='dropdown-item-custom'>Animals</NavDropdown.Item>
+                                <NavDropdown.Item as={Link} to='/space-facts' className='dropdown-item-custom'>Space</NavDropdown.Item>
+                                <NavDropdown.Item as={Link} to='/weird-facts' className='dropdown-item-custom'>Weird Facts</NavDropdown.Item>
                             </div>
                         </NavDropdown>
                         <Nav.Item className="d-flex align-items-center">
                             <Link to='/login' className="text-decoration-none">
-                                <Button className="btn-primary-glow nav-btn">Masuk</Button>
+                                <Button className="btn-primary-glow nav-btn">Sign in</Button>
                             </Link>
                         </Nav.Item>
                     </Nav>
